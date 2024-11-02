@@ -1,0 +1,2674 @@
+Rank,University,Country,Teaching,International Outlook,Research,Citations,Industry Income,Overall
+1,University of Oxford,United Kingdom,98.5,96.6,100,99,98.7,97.5
+2,Stanford University,United States,98,99,97.8,99.6,100,87
+3,Massachusetts Institute of Technology,United States,97.9,98.6,96.2,99.7,100,93.8
+4,Harvard University,United States,97.8,97.7,99.9,99.4,84.2,90.8
+5,University of Cambridge,United Kingdom,97.5,95.8,100,98,87.9,97.4
+6,Princeton University,United States,96.9,96.3,97.9,98.8,95.1,89.1
+7,California Institute of Technology,United States,96.5,96.6,98,95.9,100,90.6
+8,Imperial College London,United Kingdom,95.1,90.9,95.5,98.6,90.9,98.3
+9,"University of California, Berkeley",United States,94.6,87.2,98.8,99,99.4,86.8
+10,Yale University,United States,94.2,94,94.9,97.7,86.5,82.4
+11,ETH Zurich,Switzerland,93.1,87.6,96.8,95.6,82.9,95.6
+12,Tsinghua University,China,92.4,95.3,98.1,93.2,99.9,51.7
+13,The University of Chicago,United States,92.1,89.6,91.2,97.6,93.8,82.3
+14,Peking University,China,91.8,95.6,97.3,87.2,98.8,70.2
+15,Johns Hopkins University,United States,91.1,84.4,92.3,97.2,100,84.2
+16,University of Pennsylvania,United States,91,87.7,89.7,97.6,97.7,78.8
+17,Columbia University,United States,90.9,88.6,89.7,97.4,75.2,86.9
+18,"University of California, Los Angeles",United States,90.1,85.7,91.9,96.4,92.3,74.3
+19,National University of Singapore,Singapore,90,78.8,94,95.4,100,91.1
+20,Cornell University,United States,89.5,85.7,88.7,97.6,69.4,86
+21,University of Toronto,Canada,88.6,77.5,94.1,92.8,96.1,90.7
+22,UCL,United Kingdom,88.1,78.4,86.4,98.6,75.2,97.9
+23,University of Michigan-Ann Arbor,United States,87.4,84.7,87.4,95.5,80.7,69
+24,Carnegie Mellon University,United States,86.3,75,84.6,98.9,87.3,85.5
+25,University of Washington,United States,85.3,78,83.5,98.2,77.6,73.2
+26,Duke University,United States,83.9,79.3,76.1,96.2,100,74.8
+27,New York University,United States,83.5,73.2,84,94.9,75.4,80.7
+28,Northwestern University,United States,83.2,72.3,78.8,97.8,99.7,75.9
+29,The University of Tokyo,Japan,83.1,93.9,94.2,67.8,100,49.7
+30,University of Edinburgh,United Kingdom,82.5,70.7,77.5,96.9,71.1,97
+30,Technical University of Munich,Germany,82.5,69.8,85.1,90,100,83.1
+32,"Nanyang Technological University, Singapore",Singapore,82.3,66.2,80.9,94.5,99.7,93.3
+33,École Polytechnique Fédérale de Lausanne,Switzerland,81.4,74.5,73.2,90.3,99.8,95.8
+34,"University of California, San Diego",United States,81,66,78.4,97.6,100,74.3
+35,University of Hong Kong,Hong Kong,80.3,65.6,72.3,96.4,95.2,96.8
+36,Georgia Institute of Technology,United States,80,63.4,78.9,94.1,94.6,84.8
+37,University of Melbourne,Australia,79.2,64.8,76.4,90.1,98.3,92.7
+38,King’s College London,United Kingdom,79,59.8,75.1,97.7,74.2,97.5
+38,LMU Munich,Germany,79,65.3,76.8,92.2,100,76.9
+40,Paris Sciences et Lettres – PSL Research University Paris,France,78.5,75.7,72.8,83.2,99.7,81.6
+41,University of British Columbia,Canada,78,62.5,76.6,90.5,76.7,95
+42,University of Illinois at Urbana-Champaign,United States,77.9,69.5,81.5,85.2,85.3,64
+43,Shanghai Jiao Tong University,China,77.7,76.6,82.5,75.4,100,60.6
+44,Fudan University,China,77.5,76.5,75.3,83.5,96,56.1
+45,KU Leuven,Belgium,77,60.1,74.9,91.9,100,79.6
+46,London School of Economics and Political Science,United Kingdom,76.8,59.5,73.5,95.4,55.9,94.1
+47,Universität Heidelberg,Germany,76.7,67.7,64.3,94.6,99.3,76.4
+48,Delft University of Technology,Netherlands,76.3,66.7,78.2,76.5,100,92.8
+49,McGill University,Canada,76,62.3,72.3,88.8,76.1,92.5
+50,Karolinska Institute,Sweden,75.9,58.9,67.9,95.3,96,85.7
+51,University of Manchester,United Kingdom,75.6,61.4,67.1,93.1,73.1,95.6
+52,University of Texas at Austin,United States,75.5,66,75.7,91,81.4,47.3
+53,Chinese University of Hong Kong,Hong Kong,75.4,59.1,61.5,97.6,95.9,93.6
+54,Monash University,Australia,75.2,55.3,67.8,94.7,99.7,91.1
+55,Kyoto University,Japan,75,85.4,84.3,60,100,45.7
+55,Zhejiang University,China,75,70.2,75.3,78.7,99,65.5
+57,University of Science and Technology of China,China,74.8,74.3,66.3,88.2,95.6,45.4
+58,Université Paris-Saclay,France,74.4,70.9,66.1,82.4,92.4,78.6
+59,"University of California, Davis",United States,74.1,63.7,67.8,87.2,91.5,78.7
+60,The University of Sydney,Australia,73.8,52.6,68.9,92,97.7,90.2
+61,University of Amsterdam,Netherlands,73.6,55,63.1,96.7,77.6,93.2
+62,Seoul National University,South Korea,73.4,74.2,75.3,74.6,100,43.7
+63,University of Wisconsin-Madison,United States,73.3,68.5,67.5,85.5,79.8,62.8
+64,Brown University,United States,73,69.8,59.6,89.7,69.3,72.1
+64,The Hong Kong University of Science and Technology,Hong Kong,73,54,62.1,92.9,100,95.5
+64,Wageningen University & Research,Netherlands,73,56.4,59.8,93.8,98.8,92.4
+67,Australian National University,Australia,72.6,55.9,68,86.6,82,94.8
+68,Washington University in St Louis,United States,72.3,60.8,57.2,97.5,77.8,72.7
+69,"University of California, Santa Barbara",United States,72.1,47.4,64.7,96.9,99.4,84
+70,The University of Queensland,Australia,72,52.9,64.3,89.1,99.8,94
+71,Institut Polytechnique de Paris,France,71.3,71,61.6,70.8,98.8,97.1
+72,University of North Carolina at Chapel Hill,United States,71.2,63.4,60.3,93.9,75.8,50.9
+73,Nanjing University,China,70.9,64,61.7,85.3,96.8,61.8
+74,University of Southern California,United States,70.8,59.2,58.8,92.5,74.4,74.3
+75,Sorbonne University,France,70.5,64.7,60.8,83.7,69.5,78.8
+76,Yonsei University (Seoul campus),South Korea,70.4,68.1,64.3,79.3,99.9,51.8
+77,Leiden University,Netherlands,70.2,46,62.7,93,98.1,87.8
+78,Boston University,United States,70.1,59.6,54.1,94.3,76.4,74.1
+79,University of Groningen,Netherlands,70,47.5,57.2,94.5,99.9,93.4
+80,University of Zurich,Switzerland,69.9,54.8,53.4,91.8,93.7,92.4
+81,University of Bristol,United Kingdom,69.8,48.7,56.5,97.3,72.3,92.5
+82,City University of Hong Kong,Hong Kong,69.3,52.2,52.4,91.1,100,98.7
+83,Korea Advanced Institute of Science and Technology (KAIST),South Korea,69.2,67.1,65.8,77.4,100,41.6
+84,UNSW Sydney,Australia,68.9,47.2,57.4,91.1,98.6,94.5
+85,University of Minnesota,United States,68.7,61,58.5,87.2,99.8,48.3
+86,Purdue University West Lafayette,United States,68.5,64,65.3,71.8,84.3,76.7
+87,University of Glasgow,United Kingdom,68.2,48.1,51.8,96.8,69.7,96.1
+87,Hong Kong Polytechnic University,Hong Kong,68.2,45.7,54.1,94.5,87.4,96.3
+87,Humboldt University of Berlin,Germany,68.2,55.3,63.7,82.8,65.4,79
+90,RWTH Aachen University,Germany,68,54.9,64.8,78.9,100,71.2
+91,University of Bonn,Germany,67.8,51.7,57.7,89.7,82.6,73.8
+92,"University of California, Irvine",United States,67.4,47.1,53.8,93.2,96.1,80.9
+92,Vanderbilt University,United States,67.4,54.1,48.5,96,96.5,62.9
+94,Charité - Universitätsmedizin Berlin,Germany,67.2,47.5,49.1,97.7,100,75.2
+95,Lomonosov Moscow State University,Russian Federation,67,87.5,75.2,33.9,91.1,73.8
+95,University of Tübingen,Germany,67,49.1,56.5,89,99.8,72
+97,KTH Royal Institute of Technology,Sweden,66.9,53.5,57.8,81,97.7,82.5
+97,University of Southampton,United Kingdom,66.9,48.9,50.1,92.7,73.1,96.5
+99,Erasmus University Rotterdam,Netherlands,66.7,38.5,54.1,96.9,94.7,90.6
+99,Ohio State University (Main campus),United States,66.7,55.8,52.7,88.4,85,67.3
+101,University of Birmingham,United Kingdom,66.6,46.1,49.3,95.5,72.1,95.1
+102,Free University of Berlin,Germany,66.5,52.1,59.7,82.5,71.6,82.4
+103,University of Copenhagen,Denmark,66.3,49.2,51.1,91.3,89.5,80.1
+103,McMaster University,Canada,66.3,43.8,51.3,93,100,87.3
+105,University of Sheffield,United Kingdom,66.2,48,49.5,92.3,77.5,92
+106,Emory University,United States,66.1,53.1,45.7,95.5,81.6,69.3
+106,Lund University,Sweden,66.1,46.7,56.6,86.6,99.8,79.8
+106,University of Warwick,United Kingdom,66.1,48.1,52.1,89,70.5,96.4
+109,Aarhus University,Denmark,65.9,44.9,59,86.3,98.7,76.3
+109,University of Alberta,Canada,65.9,50.1,55.5,80.9,99.9,90.7
+111,University of Adelaide,Australia,65.8,42.4,50.6,92.8,95,92.9
+111,University of Göttingen,Germany,65.8,50,54.8,90.1,70.8,70.7
+111,University of Montreal,Canada,65.8,51.2,54.1,81.7,96.6,87.7
+114,"University of Maryland, College Park",United States,65.7,49.4,58.1,92.8,70.2,48.6
+115,Ghent University,Belgium,65.6,47.2,59.3,85.3,99.7,65.7
+116,University of Bern,Switzerland,65.4,45.1,47,93.3,99.2,87
+116,Michigan State University,United States,65.4,54.8,52.3,86.2,70,71.4
+118,Texas A&M University,United States,65.3,55.2,62.1,77.3,76.4,64.1
+119,Rice University,United States,65.2,56.4,45.6,86.5,73.9,85.8
+119,University of Vienna,Austria,65.2,48.7,60.3,77.4,75.9,94.9
+121,University of Helsinki,Finland,65.1,48.1,57.6,90.6,69.2,56.7
+122,Penn State (Main campus),United States,65,53.1,58.7,83.7,70.4,58.4
+123,University of Basel,Switzerland,64.9,50.8,42.9,87.7,99.4,95.4
+123,University of Massachusetts,United States,64.9,54,46.9,87.3,85.6,77.3
+125,Vrije Universiteit Amsterdam,Netherlands,64.7,40.4,51,93.4,91.5,84.3
+126,Technical University of Denmark,Denmark,64.6,50.7,47.4,83.2,99.7,92.2
+127,University of Oslo,Norway,64.3,45.6,50.6,92.1,72.3,75.6
+128,University of Freiburg,Germany,64.1,46.7,51.3,86.2,100,74.2
+129,University of Leeds,United Kingdom,63.9,46.1,49.1,87.3,68.8,94.6
+130,University of Nottingham,United Kingdom,63.8,45.6,45.9,90.6,71.2,92.8
+130,Tohoku University,Japan,63.8,67.8,66.4,53.8,99.9,58.5
+132,University of Florida,United States,63.7,55.5,56.7,78.3,88.9,50.9
+133,University of Rochester,United States,63.6,50.8,42.9,88.3,89,81.7
+134,Trinity College Dublin,Ireland,63.2,44,48.4,87.6,76.6,91.4
+135,Queen Mary University of London,United Kingdom,63.1,37.6,42.6,97.9,73.9,98.1
+136,University of Hamburg,Germany,63,44.7,53.3,84.8,98.6,65.7
+136,Technical University of Berlin,Germany,63,47.8,55.6,78.1,99.9,71.3
+138,University of Colorado Boulder,United States,62.9,46.5,51.9,88.6,82.8,56.6
+138,Maastricht University,Netherlands,62.9,41.4,47.1,86.1,98.1,97.4
+140,Karlsruhe Institute of Technology,Germany,62.8,49.9,56.8,72.5,99.9,77.6
+140,Radboud University Nijmegen,Netherlands,62.8,39.1,51,91.3,81.4,77.7
+140,Uppsala University,Sweden,62.8,43.9,55,81.3,97.7,74.7
+143,University of Lausanne,Switzerland,62.7,41.7,46.3,87.3,99.5,90.4
+143,The University of Western Australia,Australia,62.7,37.7,48.6,88.7,97.2,93.5
+145,University of Pittsburgh-Pittsburgh campus,United States,62.5,49.1,46.1,92.4,76.1,50.9
+145,Sungkyunkwan University (SKKU),South Korea,62.5,55.5,54.2,72.9,98.8,61.3
+147,University of York,United Kingdom,62.4,42.4,44.8,90.8,66.9,93.1
+148,University of Technology Sydney,Australia,62.3,36.2,43.3,95.9,78.9,94.3
+149,Pohang University of Science and Technology (POSTECH),South Korea,62.2,58.1,51.5,77.2,100,40
+150,University of Auckland,New Zealand,62,39.7,45.7,88.3,95.8,89.9
+150,Sichuan University,China,62,59.1,57.3,69.3,93.2,46.1
+152,University of Barcelona,Spain,61.9,42.4,47.3,91.4,83.9,65.2
+152,National Taiwan University (NTU),Taiwan,61.9,57.3,54.8,70.8,99.9,51.2
+152,Université Paris Cité,France,61.9,47.9,42.7,90.6,68.3,73.2
+155,University of Arizona,United States,61.8,48.7,51.3,85.7,84,47
+155,University of Bologna,Italy,61.8,53,44.6,86.5,79.4,54.3
+155,Lancaster University,United Kingdom,61.8,40.2,40.7,93.9,66.6,96.8
+158,Huazhong University of Science and Technology,China,61.7,48.8,48.1,90,96.9,32.9
+158,University of Waterloo,Canada,61.7,42.2,49.3,83.7,78.3,89.3
+160,University of Cologne,Germany,61.5,42.9,47.1,85.6,98.8,73.3
+161,University of Antwerp,Belgium,61.4,38.2,44.4,92.5,98.4,74.7
+161,Dartmouth College,United States,61.4,57.3,40.7,84.7,68.4,60.2
+161,TU Dresden,Germany,61.4,46.6,51.1,79.3,99.7,67.9
+164,Case Western Reserve University,United States,61.3,51.7,40.2,88.7,71.4,65
+164,Wuhan University,China,61.3,50.9,45,88.5,90.6,41
+166,University of Virginia (Main campus),United States,61.1,51.1,40.1,88.9,79.9,60.8
+167,University of Cape Town,South Africa,60.9,38.7,47,88.3,78.2,82.9
+168,Université Catholique de Louvain,Belgium,60.8,39.5,49.4,83.1,92,83.1
+168,Eindhoven University of Technology,Netherlands,60.8,47.4,51.5,71.3,100,87.3
+168,Harbin Institute of Technology,China,60.8,58.8,55.1,70.9,91.2,33.9
+168,University of Liverpool,United Kingdom,60.8,38.4,40.2,93.4,64.9,96.4
+168,Newcastle University,United Kingdom,60.8,37.2,41.1,93.8,72.1,91.3
+168,Scuola Normale Superiore di Pisa,Italy,60.8,60.1,42.6,82.9,34.9,59.3
+174,Durham University,United Kingdom,60.6,43.5,44.5,83.5,65.6,95.8
+175,Osaka University,Japan,60.4,62.5,65.7,50.5,100,51
+175,University of Würzburg,Germany,60.4,40.3,43.4,90.8,99.6,63.2
+177,Beijing Normal University,China,60.2,57.7,45.8,77.5,67.6,52.3
+177,University of Exeter,United Kingdom,60.2,33.5,42.5,95.7,52.2,95.5
+177,University of Ottawa,Canada,60.2,39.6,46.5,84.4,80.2,86.9
+180,Macquarie University,Australia,60.1,36.7,44.2,87.4,90.9,88.6
+181,Sapienza University of Rome,Italy,60,53.5,48.1,77.9,85.4,46.5
+182,Arizona State University (Tempe),United States,59.9,40.9,46.2,87.5,71.5,71.7
+183,University of Geneva,Switzerland,59.8,41.8,38,86.7,80.7,97.1
+184,University of Twente,Netherlands,59.7,43.4,46,75.1,99.6,93.3
+185,Stockholm University,Sweden,59.6,32.1,49.6,91,59.2,81.2
+185,Tongji University,China,59.6,50,53.6,69.5,85.4,67.7
+187,Georgetown University,United States,59.5,52.6,37,85.1,92.2,53.2
+187,University of Mannheim,Germany,59.5,36.5,45.4,90.2,93.6,63.7
+189,Chalmers University of Technology,Sweden,59.4,42.7,46.6,79.4,97.1,74.1
+190,Cardiff University,United Kingdom,59.3,35.5,39.6,91.9,70.4,92.5
+191,Tokyo Institute of Technology,Japan,59.2,59.5,63.3,49.4,100,60.1
+191,Tufts University,United States,59.2,51.5,35,87.5,71.7,62.8
+193,University of Erlangen-Nuremberg,Germany,59,42.6,48.1,79.7,100,61
+193,University of Macau,Macao,59,38.4,38.1,90.3,61.9,93.7
+193,University of Münster,Germany,59,43.8,47.3,83.7,81.5,53.5
+193,University of St Andrews,United Kingdom,59,46,42.6,77.7,63.6,95.8
+193,Ulm University,Germany,59,40.6,41.2,87.9,99.6,63
+198,Indiana University,United States,58.9,47.3,38.4,84.9,85.8,64.7
+199,University of Notre Dame,United States,58.7,51.9,42.6,76.1,72.9,69.9
+199,Queensland University of Technology,Australia,58.7,33.9,42.1,89.5,85.9,82.2
+199,Ulsan National Institute of Science and Technology (UNIST),South Korea,58.7,47.7,40.8,85,94.6,46.5
+250,Aalborg University,Denmark,58.6,33.7,45,83,80.6,72.4
+250,Aalto University,Finland,58.6,42,43.1,79.7,87.2,81.8
+250,University of Aberdeen,United Kingdom,58.6,36.4,35.8,81.8,78.9,97.5
+250,Abu Dhabi University,United Arab Emirates,58.6,48.2,30,85.8,25.5,97.8
+250,Autonomous University of Barcelona,Spain,58.6,45.1,41.4,84.8,67.6,68.8
+250,University of Calgary,Canada,58.6,36.5,41.4,81.7,88.8,85.2
+250,"University of California, Santa Cruz",United States,58.6,34.9,39.8,93.3,73.2,77.9
+250,Curtin University,Australia,58.6,30.2,36.5,87.5,78.8,94.7
+250,Friedrich Schiller University Jena,Germany,58.6,43.2,42,81.8,79.8,69.3
+250,George Washington University,United States,58.6,48.2,35.7,86,67.3,66.1
+250,Goethe University Frankfurt,Germany,58.6,40.2,38.2,82.4,74.6,70.8
+250,University of Gothenburg,Sweden,58.6,34,43.4,90.2,75.4,65.7
+250,University of Hawai’i at M?noa,United States,58.6,42,42.5,75.8,68.3,77.3
+250,University of Illinois Chicago,United States,58.6,50.3,33.9,80,76.7,61
+250,Indian Institute of Science,India,58.6,62.9,57.8,53.9,96,31.1
+250,University of Iowa,United States,58.6,46.1,37,79.9,88.6,55.8
+250,King Fahd University of Petroleum and Minerals,Saudi Arabia,58.6,37.6,38.7,86.3,90.9,84.8
+250,Korea University,South Korea,58.6,48.6,46.6,72,99.7,62.5
+250,University of Leicester,United Kingdom,58.6,33.4,34.2,95.5,67.9,95.1
+250,Université Libre de Bruxelles,Belgium,58.6,35.8,45,83.5,76.4,89.6
+250,University of Luxembourg,Luxembourg,58.6,39.6,39.4,78.1,63,93.2
+250,Medical University of Graz,Austria,58.6,32,33.5,91.6,94.9,81.9
+250,Medical University of Vienna,Austria,58.6,40,28.7,93.5,94.1,81.7
+250,University of Miami,United States,58.6,48.5,34.7,83.2,80.4,67.5
+250,Moscow Institute of Physics and Technology (MIPT),Russian Federation,58.6,63.5,48.8,55.1,68.6,72.7
+250,Nagoya University,Japan,58.6,55.3,55.7,54.3,99.5,41.9
+250,University of Newcastle,Australia,58.6,33.8,38.8,85.5,76.5,83.4
+250,"Northeastern University, US",United States,58.6,40.2,33.6,93.3,68.9,83.3
+250,University of Padua,Italy,58.6,46.1,38.5,84.1,77.1,53.1
+250,Politecnico di Milano,Italy,58.6,42.9,49.7,71.9,95.3,65.3
+250,Pompeu Fabra University,Spain,58.6,35.9,38.3,90.5,78.4,74.7
+250,University of Potsdam,Germany,58.6,37.3,44.7,80.4,91,68.5
+250,Queen’s University Belfast,United Kingdom,58.6,34,38,88.7,65,98.4
+250,University of Reading,United Kingdom,58.6,37.5,40.6,84.1,70.8,95.5
+250,Rutgers University – New Brunswick,United States,58.6,46.4,37.2,78.4,80.1,63.7
+250,Sant’Anna School of Advanced Studies – Pisa,Italy,58.6,50.4,39,80.1,90.3,60.8
+250,University of São Paulo,Brazil,58.6,59.8,60.7,57.3,68.2,42.5
+250,Southern University of Science and Technology (SUSTech),China,58.6,32.9,40.8,92.8,60.3,69.3
+250,Sun Yat-sen University,China,58.6,46.6,39.5,83.2,86.2,39.1
+250,University of Sussex,United Kingdom,58.6,29.7,35.6,92.7,66.1,95.4
+250,Swinburne University of Technology,Australia,58.6,31.7,34,91.3,75.4,85.6
+250,Tel Aviv University,Israel,58.6,40.7,49.7,83,76.2,52.9
+250,Tianjin University,China,58.6,46.1,47.6,71.4,93.5,55.3
+250,Tilburg University,Netherlands,58.6,32.8,44.9,80.1,82.6,84.5
+250,University College Dublin,Ireland,58.6,34.3,41.3,84,75.1,88.1
+250,University of Utah,United States,58.6,43.5,38.5,87,83.5,40.9
+250,Vrije Universiteit Brussel,Belgium,58.6,37.8,42.6,80.9,92.4,78.5
+250,Western University,Canada,58.6,40.2,42.9,75.2,99.6,87.5
+250,University of Wollongong,Australia,58.6,36.8,39.3,84,91.4,91.7
+300,University of Bath,United Kingdom,55.8,34.7,35.1,80.5,65.3,95
+300,Beijing Institute of Technology,China,55.8,45.1,44,74.7,82.1,36.8
+300,University of Bergen,Norway,55.8,36.7,33.9,84.2,69.4,76.3
+300,Boston College,United States,55.8,43.5,30.5,84.6,60.7,57.8
+300,Brandeis University,United States,55.8,36.7,28.3,84.6,64.2,81.4
+300,"University of California, Riverside",United States,55.8,35.9,35.4,85.7,70.6,77
+300,Deakin University,Australia,55.8,28.3,34.6,91.4,72.2,85.7
+300,University of East Anglia,United Kingdom,55.8,31.1,32,90.9,51.6,88.7
+300,École Normale Supérieure de Lyon,France,55.8,58.5,46.8,53.9,78.5,68
+300,Florida State University,United States,55.8,38.2,38.6,79.4,68.2,58.8
+300,Griffith University,Australia,55.8,30.5,37.8,82.7,74.6,81.8
+300,Heinrich Heine University Düsseldorf,Germany,55.8,36.7,34.5,82.3,82.2,66.8
+300,University of Hohenheim,Germany,55.8,35,35.5,85.7,80.5,61.7
+300,Humanitas University,Italy,55.8,32.3,27.9,98,62.8,67.1
+300,Johannes Gutenberg University of Mainz,Germany,55.8,39.5,32.6,82.3,89,66
+300,Khalifa University,United Arab Emirates,55.8,31.7,35.9,78.4,95.6,97.4
+300,King Abdulaziz University,Saudi Arabia,55.8,37.8,28.6,90.7,46.1,75.4
+300,University of Konstanz,Germany,55.8,39.8,44.4,71.5,97.4,76.4
+300,Kyung Hee University,South Korea,55.8,40.3,40,71,95.9,71.5
+300,Lappeenranta-Lahti University of Technology LUT,Finland,55.8,33.4,36.7,91.7,65.1,64.2
+300,La Trobe University,Australia,55.8,28.9,35.4,88.1,73.8,88.2
+300,Université Laval,Canada,55.8,40.7,38.7,73.7,94.2,76.2
+300,Linköping University,Sweden,55.8,28.3,41.3,86.4,92.8,70.7
+300,Loughborough University,United Kingdom,55.8,36.5,34.4,77.4,70.2,91.5
+300,Macau University of Science and Technology,Macao,55.8,33.1,34.2,78.9,65,94.7
+300,University of Malaya,Malaysia,55.8,43.4,35.4,72.6,52.5,84.7
+300,Medical University of Innsbruck,Austria,55.8,33.2,29.3,89.6,98.6,88.3
+300,Nankai University,China,55.8,48.8,31.4,85.3,66.5,49.3
+300,North Carolina State University,United States,55.8,46,41.4,73.3,79.1,61.8
+300,University of Oulu,Finland,55.8,33.1,38.2,84.1,66,59.5
+300,Qatar University,Qatar,55.8,31.3,35.6,83.4,61.8,96
+300,Queen’s University,Canada,55.8,37.5,38,72.3,94,76
+300,RCSI University of Medicine and Health Sciences,Ireland,55.8,32.3,36.6,81.7,76.9,91.6
+300,RMIT University,Australia,55.8,35.5,36.2,83.2,73.2,92.8
+300,Ruhr University Bochum,Germany,55.8,39.8,46.7,72.2,85.9,60
+300,Sejong University,South Korea,55.8,31.4,34.5,94,73.8,68.6
+300,Semmelweis University,Hungary,55.8,45.2,27.8,76.9,66.4,79.9
+300,Simon Fraser University,Canada,55.8,28.7,36.7,84.2,83.1,92.9
+300,South China University of Technology,China,55.8,36.6,38.2,83.2,92.8,44
+300,University of Southern Denmark,Denmark,55.8,29.8,33.5,89.1,91.5,76.9
+300,University of South Florida,United States,55.8,31.7,36.4,87.6,99.9,66.7
+300,Stony Brook University,United States,55.8,43.6,29.7,81.4,66.5,78.8
+300,University of Stuttgart,Germany,55.8,44.8,49.5,63.1,99.6,58.9
+300,University of Surrey,United Kingdom,55.8,31.3,34.5,88,73,96.8
+300,Università della Svizzera italiana,Switzerland,55.8,34.8,26.4,84,88.3,98.5
+300,Swansea University,United Kingdom,55.8,27.6,30.2,89.7,62.8,89.5
+300,University of Tasmania,Australia,55.8,31.6,38.4,82,70.5,90.9
+300,Technical University of Darmstadt,Germany,55.8,42.4,48.1,62.6,99.8,65.4
+300,TU Wien,Austria,55.8,43.8,44.1,57.6,96.2,86.7
+300,Virginia Polytechnic Institute and State University,United States,55.8,42.5,39.4,78.8,76.7,65.4
+300,Vita-Salute San Raffaele University,Italy,55.8,34.6,26.9,98.3,66.8,49.8
+300,Xi’an Jiaotong University,China,55.8,46.9,48,70,98.3,37.8
+350,Beihang University,China,53,42.9,43.5,68.6,94.7,34.5
+350,University of Bremen,Germany,53,39.8,39,68.8,67.2,65
+350,University at Buffalo,United States,53,39.9,34.1,76.1,74.8,71.4
+350,Catholic University of the Sacred Heart,Italy,53,35.2,30,89.4,74.5,52.3
+350,"China Medical University, Taiwan",Taiwan,53,27.3,32.8,92.4,89.9,49.7
+350,Copenhagen Business School,Denmark,53,21.1,32.3,92.1,43.8,91.5
+350,Dalhousie University,Canada,53,30.8,31.6,78.9,71.7,89.1
+350,Drexel University,United States,53,44.1,26,79.6,75.6,62.2
+350,University of Dundee,United Kingdom,53,26.7,32.1,84.9,83,91.1
+350,East China Normal University,China,53,42.7,35.1,76.3,66.3,56.4
+350,University of Essex,United Kingdom,53,30,31.8,81,57.7,97.4
+350,Flinders University,Australia,53,29.2,35.4,78.4,71,88.9
+350,University of Galway,Ireland,53,32.9,33.8,76.7,83,77.6
+350,Université Grenoble Alpes,France,53,42.2,37.9,66.9,69.1,71.6
+350,Hanyang University,South Korea,53,45.4,40.4,62,99.4,66.5
+350,Hebrew University of Jerusalem,Israel,53,46.4,36.3,68.9,71,46.8
+350,Hong Kong Baptist University,Hong Kong,53,34,28.9,77.2,69.6,97.8
+350,University of Innsbruck,Austria,53,34.4,33.1,70.3,79.6,94.7
+350,University of Kiel,Germany,53,33.3,33.3,81.6,63,62.9
+350,Kyushu University,Japan,53,55,47.5,51.2,98.4,48.8
+350,University of Liège,Belgium,53,33.5,38.7,72.7,95.5,73.6
+350,Montpellier University,France,53,38.3,35.6,74.7,68.1,68.5
+350,University of Navarra,Spain,53,35.6,30.4,82.3,79.1,74.4
+350,Northwestern Polytechnical University,China,53,37.4,40.6,74.7,86.7,48.4
+350,Norwegian University of Science and Technology,Norway,53,36,38.4,74.7,67.8,66.2
+350,Oregon Health and Science University,United States,53,39.1,21.3,91.7,86.8,34.6
+350,University of Otago,New Zealand,53,35.6,35.1,75.8,68.8,81.8
+350,University of Pavia,Italy,53,37.6,32.3,82.7,80.4,50.4
+350,University of Rome II – Tor Vergata,Italy,53,39.9,33.5,74.3,77.5,66.9
+350,"Royal Holloway, University of London",United Kingdom,53,31.6,29.3,79,63.3,94.6
+350,"St George’s, University of London",United Kingdom,53,23.5,25.8,93.5,66.8,79.5
+350,Sharif University of Technology,Iran,53,39.1,37.4,78.3,86.2,37
+350,University of South Australia,Australia,53,25,36.8,82.5,98.3,83.5
+350,Southeast University,China,53,39.9,46.3,68.4,90.4,47.6
+350,Stellenbosch University,South Africa,53,33.8,39.5,76.9,89.8,59.9
+350,University of Strathclyde,United Kingdom,53,32.4,35.5,71.2,75.5,91.9
+350,Swedish University of Agricultural Sciences,Sweden,53,34.7,34.9,78.8,85.4,54.4
+350,Tampere University,Finland,53,30.6,38.4,80.9,93.1,49.8
+350,University of Tartu,Estonia,53,32.8,31.8,86.5,64.1,60.7
+350,Universiti Teknologi Petronas,Malaysia,53,33.8,37.8,77.7,67.9,77.8
+350,The University of Tennessee-Knoxville,United States,53,38,31.6,84.5,72.9,56.1
+350,University of Turku,Finland,53,31.6,34.9,83.3,67,52.5
+350,United Arab Emirates University,United Arab Emirates,53,27,34.5,83.2,77.4,89.1
+350,University College Cork,Ireland,53,28.3,31.6,82.4,75.9,77.2
+350,Washington State University,United States,53,36.9,34.5,74.8,82.9,60.3
+350,Western Sydney University,Australia,53,29.5,31.7,87.7,51.5,87.2
+350,University of the Witwatersrand,South Africa,53,33,42.9,72.4,81.3,76.3
+350,Xiamen University,China,53,38,33.5,83.7,72.1,38.4
+400,Aix-Marseille University,France,51,43,27.2,71.9,63.2,76.3
+400,Amirkabir University of Technology,Iran,51,34.8,33.7,77,85.1,38.8
+400,Autonomous University of Madrid,Spain,51,38.7,29.9,76.3,65.4,60.9
+400,University of Bayreuth,Germany,51,38,40.8,65,83.4,67.7
+400,University of Bordeaux,France,51,37.2,29.9,72.5,66.7,66.6
+400,Brunel University London,United Kingdom,51,25.2,26.5,80.7,60.1,98.4
+400,University of Campinas,Brazil,51,50,45.5,54,65.5,40.4
+400,University of Canberra,Australia,51,24.1,31.6,82.4,40.8,88.3
+400,Chongqing University,China,51,32.8,38.2,75.9,79.6,42
+400,"City, University of London",United Kingdom,51,27.4,30.9,78.6,61.8,95.5
+400,University of Colorado Denver/Anschutz Medical Campus,United States,51,33.4,23.7,93.7,73.4,36.9
+400,University of Connecticut,United States,51,41.2,30.2,72.8,68.7,64.6
+400,Daegu Gyeongbuk Institute of Science and Technology (DGIST),South Korea,51,48.8,38.9,64.8,78.1,34.5
+400,Edith Cowan University,Australia,51,23.7,26.2,86.9,69.2,87.6
+400,University of Electronic Science and Technology of China,China,51,34.8,35.2,80.9,85.5,33.9
+400,University of Florence,Italy,51,35.5,34.4,78.6,72.9,51.9
+400,Free University of Bozen-Bolzano,Italy,51,31.8,22.8,85.5,45.6,78.6
+400,University of Georgia,United States,51,41.2,40.5,68.2,69.8,43.9
+400,Hasselt University,Belgium,51,33.5,38.1,69.1,83.9,71.6
+400,Heriot-Watt University,United Kingdom,51,34.3,33.4,65.2,75.1,94.8
+400,Hokkaido University,Japan,51,51.2,44,47.4,95.1,47.5
+400,Hunan University,China,51,28.9,30.4,92,75.2,32.5
+400,Illinois Institute of Technology,United States,51,42.6,26.9,67.8,91.5,73.2
+400,Iowa State University,United States,51,39.5,34.5,69.3,84.8,46
+400,James Cook University,Australia,51,28.3,30.9,79.6,58.9,77.7
+400,Justus Liebig University Giessen,Germany,51,34.4,38,72.5,70.5,62.7
+400,University of Kansas,United States,51,42.7,25.9,73.1,79.9,58.6
+400,Koç University,Turkey,51,31.8,40.5,68.9,91.9,57.4
+400,Leibniz University Hannover,Germany,51,38.3,41.5,62.1,81.6,58.2
+400,University of Manitoba,Canada,51,31.8,34.7,76.3,62.3,59.1
+400,Middle East Technical University,Turkey,51,44.2,43.1,53.6,81.9,56
+400,University of Milan,Italy,51,31.3,31.8,87.3,69.5,47.2
+400,University of Milan-Bicocca,Italy,51,27.8,26,91.1,66.7,47
+400,Murdoch University,Australia,51,23.2,29.6,81.4,67.2,94.2
+400,University of Naples Federico II,Italy,51,36.7,28.3,86.9,72,35.4
+400,Peter the Great St Petersburg Polytechnic University,Russian Federation,51,43.4,31.3,67.4,61.6,65.2
+400,Sabanc? University,Turkey,51,31.7,37.9,69.5,90.2,66.6
+400,University of St Gallen,Switzerland,51,33.8,21,81.4,66.6,93.6
+400,University of Saskatchewan,Canada,51,39,35.1,62.9,95.8,78.9
+400,University of Sharjah,United Arab Emirates,51,20.7,25.7,93.8,29,98.8
+400,Shenzhen University,China,51,27.8,34.3,85.3,57.9,42.4
+400,Southern Medical University,China,51,44.1,36.7,74.8,56.4,30.4
+400,University of Southern Queensland,Australia,51,28.4,25.9,88,46.9,81.8
+400,Technion Israel Institute of Technology,Israel,51,37.5,34,66.9,68.1,71.8
+400,Temple University,United States,51,40.7,24.3,85.2,70.4,43.6
+400,University of Texas at Dallas,United States,51,29.5,28.3,84.9,72.3,62.7
+400,University of Trento,Italy,51,29.3,34.8,80.5,65.2,61.1
+400,University of Tsukuba,Japan,51,51.8,42.6,52.3,72.9,51.3
+400,University of Victoria,Canada,51,27.4,31.2,80.1,63.8,88.9
+400,York University,Canada,51,28.2,32.4,78.3,69.6,79.5
+500,"Asia University, Taiwan",Taiwan,49,18.3,36.6,80.6,63.2,49.2
+500,Aston University,United Kingdom,49,22.2,26.5,82.5,64.1,95.2
+500,Auckland University of Technology,New Zealand,49,23.8,21.2,84,40.8,92.4
+500,Australian Catholic University,Australia,49,16.8,25.7,97,21.9,80.7
+500,Bangor University,United Kingdom,49,27.6,25.3,72.7,64.3,88.2
+500,Bauman Moscow State Technical University,Russian Federation,49,71.7,43.9,22.1,51.7,59.3
+500,Bond University,Australia,49,28.2,23.1,82.5,23.1,82.3
+500,Bournemouth University,United Kingdom,49,23.2,21.1,86.7,38.4,89
+500,University of Brescia,Italy,49,24.4,19.2,89.3,62.4,44.9
+500,Universiti Brunei Darussalam,Brunei Darussalam,49,28.5,28.9,76,22.9,75.7
+500,"University of California, Merced",United States,49,26.2,23.9,86.8,48.1,55
+500,Campus Bio-Medico University of Rome,Italy,49,32.6,29,76.9,48.8,31
+500,University of Catania,Italy,49,32.4,22.7,81.2,59,34.9
+500,Centrale Nantes,France,49,40.7,33.4,50.6,81.1,87.8
+500,University of Central Florida,United States,49,28.5,34.4,74.7,78.3,39.9
+500,Charles Darwin University,Australia,49,24.8,32.5,73.9,36.3,81.6
+500,Charles University,Czech Republic,49,38.8,33.1,61.9,60.1,64.7
+500,Chung-Ang University,South Korea,49,37.4,38.4,52,98.3,62.6
+500,Claude Bernard University Lyon 1,France,49,40.3,27.1,65,71.3,63.7
+500,University of Coimbra,Portugal,49,31.4,38.2,59.9,78,54.3
+500,"Colorado State University, Fort Collins",United States,49,33.4,31.7,74.4,69.4,46.6
+500,Constructor University Bremen,Germany,49,36.7,35.9,48.9,84.7,93.5
+500,Dalian University of Technology,China,49,37,35,68.1,86.8,40.2
+500,University of Delaware,United States,49,32.7,31.8,72.5,80.9,62.3
+500,Dublin City University,Ireland,49,24.5,35.2,77.1,62.8,73.9
+500,École des Ponts ParisTech,France,49,43.9,30.3,55.7,87.2,82.7
+500,Federal University of Toulouse Midi-Pyrénées,France,49,29.4,30.2,65.7,70.2,72.6
+500,Florida International University,United States,49,31,29.3,74.2,61.5,51
+500,University of Fribourg,Switzerland,49,36.8,33.2,63.2,54.7,83.1
+500,University of Genoa,Italy,49,36.1,28.3,78,73.4,47.3
+500,George Mason University,United States,49,29.7,27.5,82.7,62,59.9
+500,Georgia State University,United States,49,35,25.4,72.6,65.2,57.1
+500,"Goldsmiths, University of London",United Kingdom,49,29.2,25.2,75.4,28.9,81
+500,University of Greifswald,Germany,49,35.5,29.9,73.8,60.2,57.1
+500,University of Guelph,Canada,49,32.6,36.2,66.2,78.1,64.5
+500,Gwangju Institute of Science and Technology (GIST),South Korea,49,48.5,39.6,50.3,99.9,43.9
+500,HSE University,Russian Federation,49,34.4,44,57.3,56.5,51.4
+500,University of Hull,United Kingdom,49,27.4,24.3,74.3,59.8,85.4
+500,Imam Mohammad Ibn Saud Islamic University,Saudi Arabia,49,43.4,23.4,65.8,21.5,69.8
+500,IMT Atlantique,France,49,47.5,36.5,43.6,90.5,84.8
+500,Institut Agro,France,49,43.8,32.6,60.2,59.6,60.3
+500,Iran University of Science and Technology,Iran,49,33.6,37.4,75.2,73.9,24.3
+500,University of Johannesburg,South Africa,49,28.6,36.3,66.8,44.8,81
+500,Johannes Kepler University of Linz,Austria,49,36.8,35.4,58.2,98.7,71.7
+500,University of Jyväskylä,Finland,49,31.4,34.1,78.2,53,49.7
+500,Universiti Kebangsaan Malaysia,Malaysia,49,45.7,27.8,58.7,47.4,74.9
+500,University of Kent,United Kingdom,49,27.6,29,77.6,51.9,93.5
+500,University of Kentucky,United States,49,41.3,30.8,71.8,70.9,46.8
+500,King Saud University,Saudi Arabia,49,31.4,19.9,84.5,48.7,77.2
+500,University of Limerick,Ireland,49,27.1,32.6,64.1,75.9,76.1
+500,Lincoln University,New Zealand,49,33.9,26.7,68.4,49.7,92
+500,University of Lisbon,Portugal,49,29.6,38,69.9,64.7,56.9
+500,University of Marburg,Germany,49,36.7,31.4,68.8,63.1,62.3
+500,Maynooth University,Ireland,49,21.1,30.7,77,58.3,74.8
+500,Missouri University of Science and Technology,United States,49,33.2,28.7,69.6,88.1,72.4
+500,Mizzou - University of Missouri,United States,49,40.6,26,66,69.9,53.6
+500,University of Modena and Reggio Emilia,Italy,49,32,24.6,79.6,80.3,40.2
+500,National Research Nuclear University MEPhI,Russian Federation,49,53.1,41,42.4,57.5,78.8
+500,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,49,33.2,36.9,63.8,93.2,56.4
+500,National Tsing Hua University,Taiwan,49,38.9,42.3,58.4,99.5,46.2
+500,National Yang Ming Chiao Tung University,Taiwan,49,44,44.3,52.9,99.9,41.4
+500,University of Nebraska-Lincoln,United States,49,33.8,31.1,71.5,67,65.9
+500,University of Neuchâtel,Switzerland,49,31.8,26.4,67.2,53.5,85.9
+500,New Jersey Institute of Technology,United States,49,27.4,23.5,69.2,69.8,93.6
+500,University of Oregon,United States,49,31.1,30.5,79.4,70.2,43.2
+500,University of Passau,Germany,49,31.5,36.5,66.5,62.2,58.2
+500,University of Pisa,Italy,49,31.1,31.2,80.5,68.7,43.2
+500,University of Plymouth,United Kingdom,49,24.4,21.9,79.5,66.1,80.6
+500,Polytechnic University of Turin,Italy,49,29.7,30.2,73.5,85.8,53.2
+500,Pontificia Universidad Católica de Chile,Chile,49,29.7,34.3,67.6,84.7,57.9
+500,University of Porto,Portugal,49,31.3,35.4,71.1,66.3,57.9
+500,University of Portsmouth,United Kingdom,49,20,20,84.5,40.6,94.7
+500,Prince Sultan University (PSU),Saudi Arabia,49,18.4,20.5,87,37.8,85.8
+500,Quaid-i-Azam University,Pakistan,49,29.7,24.1,84.2,22.9,53.7
+500,Université du Québec,Canada,49,33.7,33.8,57.2,71.5,74.3
+500,Rensselaer Polytechnic Institute,United States,49,34.1,30.3,60.9,89.9,78.7
+500,Royal Veterinary College,United Kingdom,49,30,20.7,75.6,61.1,95.1
+500,Universiti Sains Malaysia,Malaysia,49,42.9,27.8,60,53.7,71.9
+500,Saint Louis University,United States,49,41.1,16.3,80.9,60.6,42
+500,SOAS University of London,United Kingdom,49,42.5,36.1,60.2,15.6,80.4
+500,University of South Carolina-Columbia,United States,49,35.9,24.6,75.1,63.4,59.2
+500,Stevens Institute of Technology,United States,49,26.9,25.3,74.6,62.4,80.8
+500,University of Stirling,United Kingdom,49,23,26.2,82.4,41,91.4
+500,Sumy State University,Ukraine,49,24.3,13.5,68.9,20,63.2
+500,Syracuse University,United States,49,33.8,28.2,73.3,72.7,56.5
+500,Taipei Medical University,Taiwan,49,47.4,32.6,60.9,85.1,48.5
+500,University of Tehran,Iran,49,37.7,28.4,71.9,60.5,33.6
+500,Universiti Teknologi Malaysia,Malaysia,49,44.1,29.3,65,55,71.5
+500,Tokyo Medical and Dental University (TMDU),Japan,49,46.7,31.3,53.4,99,39
+500,TU Dortmund University,Germany,49,35.7,42.2,62.3,72,57.3
+500,Tulane University,United States,49,42.9,24.4,73.1,67.8,50.7
+500,University of Turin,Italy,49,23,30.1,84.5,74.4,45.5
+500,Umeå University,Sweden,49,26,33.5,80.2,60.6,64.9
+500,Universiti Utara Malaysia,Malaysia,49,38.4,27.6,69.7,28.1,78.7
+500,University of Vaasa,Finland,49,22,27.7,90.3,39.5,65.3
+500,Verona University,Italy,49,29.6,26.2,84.1,67,46
+500,Victoria University,Australia,49,27.4,29.9,73.1,57.2,75.5
+500,Victoria University of Wellington,New Zealand,49,28.6,34.1,69.4,58.4,80.3
+500,Virginia Commonwealth University,United States,49,36.4,23.2,82.8,72.7,36.5
+500,University of Waikato,New Zealand,49,26.1,31,74.3,72.4,89.8
+500,Wake Forest University,United States,49,39.6,22,80.6,78.5,38.7
+500,Zayed University,United Arab Emirates,49,28.3,25.4,85.7,35,74.5
+600,Aberystwyth University,United Kingdom,45.3,26.3,23,68.5,62.4,87.3
+600,Åbo Akademi University,Finland,45.3,29.5,31.6,59.3,67.1,68.1
+600,Ajou University,South Korea,45.3,35.6,37.7,52.8,92.3,48
+600,University of Alaska Fairbanks,United States,45.3,34.5,31,63.1,47.5,70.1
+600,Alfaisal University,Saudi Arabia,45.3,24.1,15.2,72.7,42.1,97.7
+600,American University of Beirut,Lebanon,45.3,29.7,17.9,73.5,66,72.9
+600,Anglia Ruskin University (ARU),United Kingdom,45.3,20.2,16.3,84.8,19,94.2
+600,Anna University,India,45.3,32,26.3,72.4,51,20.4
+600,University of L’Aquila,Italy,45.3,32.1,22.8,73.2,70.9,36.4
+600,Auburn University,United States,45.3,36,25.7,59.6,69.3,57.7
+600,Babol Noshirvani University of Technology,Iran,45.3,21.5,21.5,94.4,28.4,25.3
+600,Bar-Ilan University,Israel,45.3,30,34.1,54.1,85.8,46.8
+600,Beirut Arab University,Lebanon,45.3,48.5,24.6,47.3,18.6,88.2
+600,Ben-Gurion University of the Negev,Israel,45.3,34.1,30.6,59,71.6,34.5
+600,University of Bradford,United Kingdom,45.3,23.3,22.4,73.8,58.1,90.1
+600,Brighton and Sussex Medical School,United Kingdom,45.3,26.6,22,74.4,37.8,93.1
+600,Ca’ Foscari University of Venice,Italy,45.3,34.2,36.3,52.8,64.7,63
+600,University of Calabria,Italy,45.3,34.9,19.5,69.6,47.4,43.2
+600,University of Canterbury,New Zealand,45.3,28.6,30.9,62.4,68.2,85.1
+600,Carleton University,Canada,45.3,22.6,31.2,67,75.5,77.2
+600,Central Queensland University,Australia,45.3,19.7,26.7,76,39.5,65.3
+600,"China University of Petroleum, Beijing",China,45.3,31.6,37.5,56.6,81.8,30.1
+600,Complutense University of Madrid,Spain,45.3,40.3,29.4,58.8,52.1,46.7
+600,Concordia University,Canada,45.3,25.7,29.3,66.2,66.3,86.6
+600,University of Côte d’Azur,France,45.3,28.4,22,65.6,62.4,80.6
+600,University of Crete,Greece,45.3,19.9,25.7,76.5,64.5,47.4
+600,University of Cyprus,Cyprus,45.3,22.5,25.8,75.3,64.3,77.7
+600,University of Denver,United States,45.3,39.9,24.3,64.2,55.8,31.2
+600,Donghua University,China,45.3,27.8,22.1,72.8,85.3,39.9
+600,University of Eastern Finland,Finland,45.3,28.9,31.2,69.7,67.4,48.5
+600,Edinburgh Napier University,United Kingdom,45.3,18.1,18.4,77.9,47.7,93.7
+600,ENSTA Bretagne,France,45.3,39.4,28.6,48.1,75.5,68.9
+600,University of Ferrara,Italy,45.3,29.6,24.9,74.3,66.9,44.7
+600,University of Granada,Spain,45.3,28.5,26.6,65.7,52.2,52.6
+600,University of Graz,Austria,45.3,29.2,21.8,66.9,51.2,81.3
+600,Graz University of Technology,Austria,45.3,40.4,21.4,51.5,91.5,81.5
+600,University of Greenwich,United Kingdom,45.3,17.8,17.5,81.2,40.9,97.2
+600,Hamburg University of Technology,Germany,45.3,37.6,24.5,53,79.5,61.4
+600,University of Houston,United States,45.3,33.8,29.7,65.8,70.2,50.8
+600,University of Huddersfield,United Kingdom,45.3,28.3,25,66.3,44.4,88.4
+600,University of Iceland,Iceland,45.3,23.4,34,70.6,75.6,55.8
+600,Istanbul Technical University,Turkey,45.3,35.8,36.6,51.8,87.3,45.8
+600,Jamia Millia Islamia,India,45.3,41.1,14.4,75.7,37.5,39.7
+600,Jinan University,China,45.3,25.9,22.8,73.5,43.6,63.1
+600,Keele University,United Kingdom,45.3,21.5,24.6,73.3,66.1,81.3
+600,King Khalid University,Saudi Arabia,45.3,29.8,20.1,70.3,48.6,91
+600,University of Klagenfurt,Austria,45.3,31.2,19.4,72.4,48.1,87.6
+600,University of KwaZulu-Natal,South Africa,45.3,31.5,34.8,63.7,39.7,55.9
+600,Kyungpook National University,South Korea,45.3,33.2,38.1,51.5,96.2,50.2
+600,Lebanese American University,Lebanon,45.3,26.7,13.2,76.4,32.8,84.2
+600,Leuphana University of Lüneburg,Germany,45.3,25.5,22.9,85.3,25.8,59.8
+600,University of Lincoln,United Kingdom,45.3,19.9,18.7,82.2,24.7,80.2
+600,Liverpool John Moores University,United Kingdom,45.3,21.6,19.3,77.7,35.4,83
+600,Mahatma Gandhi University,India,45.3,38.8,38.1,62.3,23.2,28.1
+600,Manchester Metropolitan University,United Kingdom,45.3,20.5,18.5,77.4,57.7,80.6
+600,Massey University,New Zealand,45.3,28.7,28.2,60.5,77.6,87.5
+600,Memorial University of Newfoundland,Canada,45.3,27.5,24.5,60.9,83.2,85.7
+600,University of Messina,Italy,45.3,30.5,25.3,79.1,59.5,34.1
+600,Middlesex University,United Kingdom,45.3,22.8,18.5,80,46.8,93.4
+600,University of Mons,Belgium,45.3,24.8,32.5,63.9,64,71.5
+600,Nantes Université,France,45.3,29.2,25.2,67.2,64.1,55
+600,National Cheng Kung University (NCKU),Taiwan,45.3,35.4,39.2,47.2,100,40.8
+600,National and Kapodistrian University of Athens,Greece,45.3,22.6,23.9,77.3,89.8,56.6
+600,National Taiwan Normal University,Taiwan,45.3,35,32,51.4,92.7,50.4
+600,National Yunlin University of Science and Technology,Taiwan,45.3,20.5,27.3,74.6,69.1,43.2
+600,Nazarbayev University,Kazakhstan,45.3,25.4,29.5,65.9,40.4,74.3
+600,University of Nebraska Medical Center,United States,45.3,36.9,16.4,77.8,66.1,41.3
+600,University of Nicosia,Cyprus,45.3,22.6,21,76.1,26.3,91.2
+600,Northumbria University,United Kingdom,45.3,21.5,22.7,75.8,40.4,90
+600,Nottingham Trent University,United Kingdom,45.3,20.7,14.3,84.6,37.3,88.5
+600,NOVA University of Lisbon,Portugal,45.3,29.5,33.7,61.5,71.5,62
+600,Polytechnic University of Bari,Italy,45.3,23,27.6,76.9,59.9,42.5
+600,University of Pretoria,South Africa,45.3,31.2,34.3,56.7,69.9,61.4
+600,Pusan National University,South Korea,45.3,39.2,39.1,45.1,86.6,37.8
+600,Universiti Putra Malaysia,Malaysia,45.3,36,30.5,51.2,64.9,80.7
+600,Rovira i Virgili University,Spain,45.3,27.4,24.3,68.1,49.7,58.9
+600,Rush University,United States,45.3,41.3,14.2,78,56,28.9
+600,University of Salerno,Italy,45.3,21.9,24.4,79.2,52.4,37.4
+600,Sciences Po,France,45.3,32.4,25.6,60.1,17.2,84.6
+600,Shanghai University,China,45.3,31.8,38,62.7,71.3,42.9
+600,Shiraz University of Technology,Iran,45.3,37,22.8,77.7,32.6,33.7
+600,Shoolini University of Biotechnology and Management Sciences,India,45.3,27.6,17.9,85.2,17.7,70
+600,University of Siena,Italy,45.3,25,25.6,75.9,74.9,48.7
+600,"Soochow University, China",China,45.3,27.7,24.3,79.8,75.6,30.6
+600,Southern Cross University,Australia,45.3,23.5,27.7,65.4,52.8,73.7
+600,University of the Sunshine Coast,Australia,45.3,20.9,27.7,70.2,37.3,69.1
+600,University of Tabriz,Iran,45.3,26.7,23.4,80.1,43.1,40.8
+600,Tabriz University of Medical Sciences,Iran,45.3,43,15.1,73.1,29.9,30.2
+600,Taif University,Saudi Arabia,45.3,18.3,17.8,84.1,20.9,75.6
+600,The University of Texas at San Antonio,United States,45.3,21,22.5,79.2,63.6,42.8
+600,Tomsk State University,Russian Federation,45.3,49.2,40,31.8,53.8,79.1
+600,University of Trieste,Italy,45.3,31.9,25.1,74.2,52.3,52
+600,TU Braunschweig,Germany,45.3,34.5,24,61.5,77,60.6
+600,The University of Tulsa,United States,45.3,36.1,17.2,71.9,52.9,44.6
+600,UiT The Arctic University of Norway,Norway,45.3,27.7,22.1,68.8,54,65.6
+600,University of Ulsan,South Korea,45.3,29.4,26.6,69,86.6,25.2
+600,University of Valencia,Spain,45.3,28.9,25.6,75.7,58.2,49.2
+600,Wayne State University,United States,45.3,36.4,20.4,70.2,79.3,41.8
+600,University of the West of England,United Kingdom,45.3,19.5,15,82.6,30.2,78.6
+600,University of Windsor,Canada,45.3,28.7,29.8,56.7,60.7,90.8
+600,University of Wuppertal,Germany,45.3,29.8,29.8,67.3,64.6,55
+600,Yangzhou University,China,45.3,32.8,24.6,64.9,66.7,54
+800,Abdul Wali Khan University Mardan,Pakistan,41.8,18.4,12.6,80.4,21.8,49
+800,Air University,Pakistan,41.8,24.2,12.5,81.5,39.5,48.7
+800,The University of Aizu,Japan,41.8,26.6,13.8,58.6,63.7,82.6
+800,The University of Alabama,United States,41.8,26,21.2,64.4,46.6,39.3
+800,Alagappa University,India,41.8,34.8,12.8,64.8,23.2,44.4
+800,Aligarh Muslim University,India,41.8,41.1,14,61.6,34.3,38.2
+800,Amedeo Avogadro University of Eastern Piedmont,Italy,41.8,12.7,23.5,71.3,47.1,48.2
+800,American University,United States,41.8,35.2,17.1,57.2,38.5,46.5
+800,American University of Sharjah,United Arab Emirates,41.8,24.5,26.3,57.9,27.9,88.6
+800,University of Arkansas,United States,41.8,27.4,30.5,62.6,67.3,36.2
+800,University of Aveiro,Portugal,41.8,27.1,30.2,57.3,48.1,48.6
+800,Babol University of Medical Sciences,Iran,41.8,41.7,12,70.5,18,21
+800,Banaras Hindu University,India,41.8,47.2,16.4,66.4,26.8,25
+800,University of Bari Aldo Moro,Italy,41.8,19.8,21.8,78.3,57.8,37.5
+800,University of the Basque Country,Spain,41.8,27,23.9,65.8,65.5,46.2
+800,Baylor University,United States,41.8,39.2,19.7,61.3,54.8,38.6
+800,University of Beira Interior,Portugal,41.8,20.1,22.2,65.4,36.7,52.3
+800,Bharathiar University,India,41.8,36.7,32.6,48,34.6,31.1
+800,Bilkent University,Turkey,41.8,27.8,26,48.8,91.4,70
+800,Birmingham City University,United Kingdom,41.8,17.3,11.8,77.8,23.2,81.9
+800,Bo?aziçi University,Turkey,41.8,26.1,26.6,57.4,59.6,50.6
+800,University of Campania Luigi Vanvitelli,Italy,41.8,25.6,9.6,79,47.7,31.6
+800,Cankaya University,Turkey,41.8,14,15.4,83.4,17,51
+800,University of Cape Coast,Ghana,41.8,16.5,23.8,71,44.6,46.9
+800,Capital Medical University,China,41.8,35.9,20.9,65.8,46,26.4
+800,Capital University of Science and Technology,Pakistan,41.8,13.4,16.1,82,22.2,46.6
+800,The Catholic University of America,United States,41.8,44.4,20,45.6,68.7,51.7
+800,The Catholic University of Korea,South Korea,41.8,30.7,38.7,42.9,89.9,36.2
+800,Chang Gung University,Taiwan,41.8,26.5,34.6,47.2,95.5,28.5
+800,Chulalongkorn University,Thailand,41.8,36.7,32.2,50.2,76.6,44.1
+800,Clark University,United States,41.8,26.6,20.8,66.8,54,70.5
+800,COMSATS University Islamabad,Pakistan,41.8,17.9,16.6,88.2,30.5,50
+800,University of Córdoba,Spain,41.8,27,19.9,62.6,41.9,52.3
+800,Coventry University,United Kingdom,41.8,20.9,14.9,69.6,26.8,95.6
+800,Cyprus University of Technology,Cyprus,41.8,29.4,19.1,63.3,21.9,71.2
+800,University of Debrecen,Hungary,41.8,41.2,22.5,40.7,51.1,59.7
+800,De Montfort University,United Kingdom,41.8,17.8,15.1,71,45,93.9
+800,University of Derby,United Kingdom,41.8,18.5,12.8,71.8,26.5,75
+800,Duy Tan University,Vietnam,41.8,12.1,14.2,87.5,17.4,52.5
+800,East China University of Science and Technology,China,41.8,29.9,25.8,60.2,87.1,23.2
+800,Eastern Mediterranean University,Northern Cyprus,41.8,26,15.2,73.8,35.9,75.5
+800,École Centrale de Lyon,France,41.8,36,25.7,32.6,82.5,79.2
+800,École des Mines de Saint-Étienne,France,41.8,44.3,31.4,34.5,77.3,70.6
+800,École Nationale des Travaux Publics de l'État (ENTPE),France,41.8,32.1,37,31.3,80.8,67.7
+800,Egypt-Japan University of Science and Technology (E-JUST),Egypt,41.8,34.2,27.6,62.4,27.7,51.5
+800,"University of Engineering and Technology, Taxila",Pakistan,41.8,16.4,12.8,82.6,17.1,48.5
+800,Universidade Estadual Paulista (Unesp),Brazil,41.8,41.5,33.1,38.1,40.5,38.6
+800,Ewha Womans University,South Korea,41.8,37.6,35.3,44.5,82.8,49.6
+800,Federal University of Rio de Janeiro,Brazil,41.8,41.8,36,36.7,81,35.9
+800,Universidade Federal do Rio Grande do Sul,Brazil,41.8,36.4,22.5,54.1,52.9,34.1
+800,Federation University Australia,Australia,41.8,20.9,17.2,71.3,41.7,85.8
+800,University of Foggia,Italy,41.8,24.3,24.7,65.5,30.6,30.3
+800,Gabriele d‘Annunzio University,Italy,41.8,16.3,18.3,71.7,59.9,40.6
+800,Glasgow Caledonian University,United Kingdom,41.8,20.7,13.9,66.7,46.1,75.6
+800,Government College University Faisalabad,Pakistan,41.8,20.8,15,83.4,32.7,48.2
+800,Guangdong University of Technology,China,41.8,17.2,19.3,79.6,63.5,28.4
+800,Hacettepe University,Turkey,41.8,32.5,26.8,50.4,73.5,27.5
+800,University of Haifa,Israel,41.8,23.9,30.1,68.4,64.5,34.5
+800,University of Hail,Saudi Arabia,41.8,22.1,10.5,72.3,23.5,76.8
+800,Harokopio University of Athens,Greece,41.8,25.1,27.4,72.9,37.4,41.1
+800,University of Hertfordshire,United Kingdom,41.8,18.6,13.4,67.2,33.9,91.6
+800,Hiroshima University,Japan,41.8,39.6,26.4,44.7,68.5,51.5
+800,Imam Abdulrahman Bin Faisal University,Saudi Arabia,41.8,27.7,13.9,70.6,20.8,75.3
+800,Imam Khomeini International University,Iran,41.8,30.6,19.6,72.4,26.7,26.9
+800,Indian Institute of Technology Guwahati,India,41.8,35.5,24.1,52,49.5,28.6
+800,Indian Institute of Technology (Indian School of Mines) Dhanbad,India,41.8,37.6,24.1,59.7,30,18.4
+800,Indian Institute of Technology Patna,India,41.8,33.2,24.1,70.6,19.8,22.3
+800,University of Insubria,Italy,41.8,19.7,22.7,80.4,43.2,42.4
+800,"International Institute of Information Technology, Hyderabad",India,41.8,26,21.4,71.7,49.6,39.5
+800,Iran University of Medical Sciences,Iran,41.8,48.2,16.4,54.5,39.1,38.3
+800,ISCTE-University Institute of Lisbon,Portugal,41.8,26.4,35.7,56.3,55.2,53
+800,Isfahan University of Technology,Iran,41.8,21.5,26.5,62,75.2,33
+800,ITMO University,Russian Federation,41.8,34,34.9,40,69,67.1
+800,Jagiellonian University,Poland,41.8,38.4,29,55.7,46.7,43.4
+800,Jamia Hamdard University,India,41.8,21.1,15,74.8,40.4,41.9
+800,Jawaharlal Nehru University,India,41.8,41.9,24.3,51.8,33.9,23.7
+800,Jiangsu University,China,41.8,25.6,14.1,77.5,51.1,55.1
+800,Jönköping University,Sweden,41.8,20.1,19.2,78.3,28.2,65.7
+800,The University of Jordan,Jordan,41.8,27.8,13.4,62.7,30.8,67.1
+800,Jouf University,Saudi Arabia,41.8,30.5,18.3,58.3,21.3,76.7
+800,Juntendo University,Japan,41.8,37.6,17.1,59.3,81.4,25.3
+800,University of Kaiserslautern,Germany,41.8,38.7,28.7,44.4,83,56.7
+800,Kansas State University,United States,41.8,32.9,20.9,57.4,66.9,57.5
+800,University of Kashan,Iran,41.8,27.1,19.9,74.7,21.9,24.8
+800,Kashan University of Medical Sciences and Health Services,Iran,41.8,32.9,15,75.6,17.4,25.3
+800,Keio University,Japan,41.8,36.9,27,49.2,73.3,38.4
+800,KIIT University,India,41.8,38.5,15.8,61.5,52,39.4
+800,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,41.8,40.8,21.7,43.6,36.1,64.4
+800,Kobe University,Japan,41.8,39.5,27.2,48.1,75.4,39
+800,Konkuk University,South Korea,41.8,32.2,37.6,49.1,73.7,45
+800,Kurdistan University of Medical Sciences,Iran,41.8,40.8,11.2,67.6,18.8,27.9
+800,Lehigh University,United States,41.8,33,22.5,57.6,63.6,73.8
+800,University of Lille,France,41.8,32.5,23.2,58.6,67.2,68
+800,London South Bank University,United Kingdom,41.8,18.6,12.4,65.9,52.4,92.3
+800,University of Lorraine,France,41.8,27.3,18.9,58,60.6,72.9
+800,Louisiana State University,United States,41.8,32.7,21.4,61.1,63.1,47.8
+800,Lviv Polytechnic National University,Ukraine,41.8,22.9,11.3,34.2,18.8,27.1
+800,Mahidol University,Thailand,41.8,39.3,25,46.3,78.6,48.7
+800,Malaviya National Institute of Technology,India,41.8,29.9,15.6,76.5,19.8,20.3
+800,Universiti Malaysia Pahang,Malaysia,41.8,27.4,19,67.5,28.3,57.9
+800,Manipal Academy of Higher Education,India,41.8,45,18.5,46.3,44.9,48.3
+800,Marche Polytechnic University,Italy,41.8,23.2,22.6,75.6,64.9,36
+800,"University of Maryland, Baltimore County",United States,41.8,28.8,24.6,61.5,66.8,50.1
+800,Masaryk University,Czech Republic,41.8,25.9,31,50.1,41.7,66.3
+800,Mashhad University of Medical Sciences,Iran,41.8,34.9,14.7,63.9,28.5,29.7
+800,Mazandaran University of Medical Sciences,Iran,41.8,44.1,12.4,65.6,28.1,24.7
+800,University of Minho,Portugal,41.8,26.3,30.3,59.3,74.7,51.9
+800,Mississippi State University,United States,41.8,27.3,20,58.8,66.2,50.7
+800,Monterrey Institute of Technology,Mexico,41.8,24,22.7,61.9,60.1,65.8
+800,University of Namur,Belgium,41.8,24.4,27.2,53.7,62.8,69.7
+800,Nanjing University of Aeronautics and Astronautics,China,41.8,28.2,31.6,50.1,71.4,24.7
+800,Nanjing Forestry University,China,41.8,22.6,21.2,79.4,28.7,28
+800,Nanjing Tech University,China,41.8,21.8,16.2,69.1,68.1,37.1
+800,National Institute of Applied Sciences of Lyon (INSA Lyon),France,41.8,37.2,27,38.3,93.8,75.1
+800,National University of Sciences and Technology,Pakistan,41.8,25.1,19.4,71.2,34.9,55.1
+800,National University of Science and Technology (MISiS),Russian Federation,41.8,39.1,27.1,43.2,64.1,65.6
+800,National Sun Yat-Sen University,Taiwan,41.8,28.2,33.7,43.8,79.1,47.2
+800,National Technical University of Athens,Greece,41.8,26.3,23,59.1,59.7,38.1
+800,National Institute of Technology Rourkela,India,41.8,30.6,20.2,64.7,29.9,23.1
+800,National Institute of Technology Silchar,India,41.8,32.4,19.5,71.7,18.4,20.5
+800,Near East University,Northern Cyprus,41.8,25.9,18.8,66.6,49.9,86.8
+800,"University of Nevada, Las Vegas",United States,41.8,29.3,25.6,64.7,51.5,38.3
+800,University of New Brunswick UNB,Canada,41.8,24.3,25,62.4,64,81.1
+800,University of North Carolina at Charlotte,United States,41.8,23.2,22.1,74.4,58.7,37
+800,"Northeastern University, China",China,41.8,31.5,28.1,57.8,73.7,46.7
+800,Northern Illinois University,United States,41.8,26.3,15.9,60,60.4,62.8
+800,North-West University,South Africa,41.8,22.7,18.7,64.3,48,56.6
+800,Norwegian University of Life Sciences,Norway,41.8,32.1,14.7,64,36.5,70.8
+800,Novosibirsk State University,Russian Federation,41.8,42.2,36.6,31.6,40.7,51.9
+800,Ohio University (Main campus),United States,41.8,30.6,20.1,61.2,54.7,37.2
+800,Oklahoma State University,United States,41.8,34.1,20.9,60.8,65.8,56
+800,Old Dominion University,United States,41.8,26.1,20.4,61.2,64,38.1
+800,Ontario Tech University,Canada,41.8,18.8,25,63.5,51.9,63.2
+800,The Open University,United Kingdom,41.8,17.7,16.1,68.7,52.6,63.6
+800,Open University of Catalonia,Spain,41.8,18.4,18.2,75.9,29.7,51
+800,Örebro University,Sweden,41.8,20.1,22.5,77.9,43.8,54.6
+800,Otto von Guericke University of Magdeburg,Germany,41.8,33.4,18,54.4,51.4,74.5
+800,Oxford Brookes University,United Kingdom,41.8,25.1,21.1,62.5,29.1,87.9
+800,University of Palermo,Italy,41.8,18.9,22.5,69.8,47.2,34.8
+800,Panjab University,India,41.8,32.6,16.2,67.9,39.2,23.5
+800,University of Parma,Italy,41.8,19.4,22.6,72.2,65.9,38.7
+800,Parthenope University of Naples,Italy,41.8,18.5,22.6,78.2,25.6,32.2
+800,Universiti Pendidikan Sultan Idris,Malaysia,41.8,35.3,25.2,38.8,62.3,70.8
+800,Universitat Politècnica de Catalunya,Spain,41.8,31.2,21,57.3,69.7,61.4
+800,Polytechnic University of Valencia,Spain,41.8,30,25,55.4,83.2,57.6
+800,Prince Sattam Bin Abdulaziz University,Saudi Arabia,41.8,21.3,12,80.8,23.5,75.8
+800,Princess Nourah bint Abdulrahman University,Saudi Arabia,41.8,26.7,16.3,66.1,28.3,91.7
+800,Qazvin University of Medical Sciences,Iran,41.8,38.7,11.6,71.9,18.7,26.5
+800,Qingdao University,China,41.8,17.8,18.4,84.1,40,24.4
+800,Universitat Ramon Llull,Spain,41.8,20.7,18.2,70.3,32.1,72.6
+800,Reykjavík University,Iceland,41.8,15.6,24,76.1,28.7,64.4
+800,University of Rhode Island,United States,41.8,26.3,20.5,57.4,50,53.7
+800,University of Rome III,Italy,41.8,23.1,25.3,58.3,49.5,45.4
+800,Roskilde University,Denmark,41.8,21.9,33.4,55.5,76.1,54.6
+800,RUDN University,Russian Federation,41.8,39.1,23,46.1,21,70.4
+800,Saint-Petersburg Mining University,Russian Federation,41.8,29.7,16.9,69.3,50.4,43.1
+800,University of Salento,Italy,41.8,30.1,21.8,64.5,52.2,34.5
+800,University of Sannio,Italy,41.8,23.6,20.5,63.6,71.1,29.3
+800,University of Santiago de Compostela,Spain,41.8,29.7,21.1,58.7,69.6,46.6
+800,University of Sassari,Italy,41.8,31.1,24.7,66.3,45.7,41.9
+800,Saveetha Institute of Medical and Technical Sciences,India,41.8,31.7,10.2,77.8,17.3,58.9
+800,Shahid Beheshti University of Medical Sciences,Iran,41.8,45.1,22.9,49.9,63.5,27.1
+800,University of Siegen,Germany,41.8,27.4,26.9,60.7,46.2,62.7
+800,South China Normal University,China,41.8,22.9,21.7,63.9,51.4,37.4
+800,South Ural State University,Russian Federation,41.8,23.2,13.5,74.7,24.7,54.5
+800,SRUC (Scotland’s Rural College),United Kingdom,41.8,25.3,12.8,79.3,26.9,64.8
+800,University of Stavanger,Norway,41.8,24.7,15.6,66.6,30.2,74.4
+800,Sultan Qaboos University,Oman,41.8,28.1,22.2,62.3,35.7,74
+800,Sunway University,Malaysia,41.8,24.7,14.6,71.7,17.2,78.3
+800,SUNY Binghamton University,United States,41.8,30.7,22,61.1,62.8,42.7
+800,Tallinn University of Technology,Estonia,41.8,25.7,20.6,65.7,48.1,69.1
+800,Tehran University of Medical Sciences,Iran,41.8,50,18.5,54.3,45.1,37.5
+800,Universiti Tenaga Nasional (UNITEN),Malaysia,41.8,25.1,16.8,58,70.8,60.8
+800,University of Texas at Arlington,United States,41.8,25.2,20.5,65.5,62.9,55
+800,Texas Tech University,United States,41.8,30.7,20.9,56.9,58,58.9
+800,Thapar Institute of Engineering and Technology,India,41.8,24.3,11.9,84.8,23,28.7
+800,University of Toledo,United States,41.8,35.7,16.7,54.5,68.8,56.7
+800,Ton Duc Thang University,Vietnam,41.8,12.9,16,90.6,20.9,63.1
+800,Toronto Metropolitan University,Canada,41.8,19.5,32.3,57.3,70.3,62.1
+800,University of Tuscia,Italy,41.8,21.4,22.6,77.3,54.9,43.2
+800,University of Udine,Italy,41.8,28.5,20.2,73.1,61.1,41.8
+800,Ulster University,United Kingdom,41.8,21.3,22.4,62,50.1,82.4
+800,Umm Al-Qura University,Saudi Arabia,41.8,33.3,14.4,62.2,53.2,73.1
+800,Paris Lodron Universität Salzburg,Austria,41.8,31.6,23.4,55,45.8,93.4
+800,Urmia University of Medical Sciences,Iran,41.8,35.3,11.7,69.3,17.8,25.2
+800,VIT University,India,41.8,27.9,15.6,68.3,28.9,46.2
+800,University of Warsaw,Poland,41.8,33.1,29.9,55.6,37.1,45.6
+800,University of the Western Cape,South Africa,41.8,22,23.8,59.3,22.6,65.7
+800,University of the West of Scotland,United Kingdom,41.8,24.4,16,66.5,24.2,86.9
+800,William & Mary,United States,41.8,38.4,21.7,62.2,37.1,39.1
+800,University of Wolverhampton,United Kingdom,41.8,19.1,14.7,64.7,40.7,81.1
+800,Worcester Polytechnic Institute,United States,41.8,30,22.1,61.2,61.8,57.2
+800,Wroclaw Medical University,Poland,41.8,40.7,13.3,66.9,36.5,37.7
+800,University of Wyoming,United States,41.8,35.9,20.3,62.1,58.6,37.7
+800,Xi’an Jiaotong-Liverpool University,China,41.8,18.6,15.1,70.8,20.9,77.3
+800,Xidian University,China,41.8,24.3,25,61,77.5,25.9
+800,Yeungnam University,South Korea,41.8,24.1,18,66.8,47,54.9
+800,Zhejiang Normal University,China,41.8,20.3,19,75.4,54.1,35.6
+800,Zhengzhou University,China,41.8,18.7,19.8,82.5,35.8,25.2
+1000,University of the Aegean,Greece,36.9,18.3,21.9,54.4,80,33.9
+1000,Ahvaz Jundishapur University of Medical Sciences (AJUMS),Iran,36.9,38.1,10.7,58.1,20.1,21.8
+1000,Al-Azhar University,Egypt,36.9,19.2,10.9,69.2,20.4,57.4
+1000,University of Alcalá,Spain,36.9,27.8,15.1,55,41.9,64.4
+1000,Alexandria University,Egypt,36.9,17.9,17.7,58.2,27.2,51.4
+1000,University of Algarve,Portugal,36.9,18.5,19.5,52.3,25.3,66.4
+1000,American University in Cairo,Egypt,36.9,26.7,24,51.1,23,70.3
+1000,Amity University,India,36.9,23.6,14,62.3,20,31.1
+1000,Amrita Vishwa Vidyapeetham,India,36.9,28.4,20.5,60.8,41.1,36.9
+1000,"University of the Andes, Colombia",Colombia,36.9,24.4,19.6,48.4,28.5,60.8
+1000,Arak University of Medical Sciences,Iran,36.9,31.7,10.2,66.4,18.9,21.2
+1000,Aristotle University of Thessaloniki,Greece,36.9,22.3,16.8,66.3,52.7,38.1
+1000,Arts et Métiers,France,36.9,31.1,19.5,35.2,67.7,67
+1000,Aswan University,Egypt,36.9,16.7,12.1,75.6,18.4,50.4
+1000,Athens University of Economics and Business,Greece,36.9,18.1,23.6,53.3,57.8,44.5
+1000,Bahçe?ehir University,Turkey,36.9,19.5,24.4,59.4,39.6,61.2
+1000,Bahria University,Pakistan,36.9,14.2,9.7,77.3,16.2,48.7
+1000,University of the Balearic Islands,Spain,36.9,26.8,15.1,56.4,32,58.1
+1000,University of Belgrade,Serbia,36.9,21.3,27,49.4,34,42.3
+1000,University of Bergamo,Italy,36.9,19.4,21.2,59.6,33.3,37.5
+1000,"Birla Institute of Technology and Science, Pilani",India,36.9,23.7,17,67.4,31.7,25.1
+1000,BRAC University,Bangladesh,36.9,14.8,12.3,71.1,15.7,42.2
+1000,Université de Bretagne Occidentale,France,36.9,20.3,19.6,52,47.8,60.5
+1000,University of Brighton,United Kingdom,36.9,19.8,16.5,53.9,60.9,84.4
+1000,Bucharest University of Economic Studies,Romania,36.9,19.7,11.6,75.9,20.8,27.8
+1000,Cairo University,Egypt,36.9,25,18.5,59.9,39.2,45.4
+1000,University of Camerino (Unicam),Italy,36.9,18,17.6,58.6,60,53
+1000,Carlos III University of Madrid,Spain,36.9,29.5,20.8,42.9,66.9,60
+1000,University of Castilla-La Mancha,Spain,36.9,24.2,17.2,53.7,46.3,42
+1000,Catholic University of Portugal,Portugal,36.9,19.6,18.7,64.4,25.6,55.7
+1000,Changsha University of Science and Technology,China,36.9,16.8,13.5,76.5,41.6,27.9
+1000,Chapman University,United States,36.9,36.9,14.7,48.1,59.2,46.8
+1000,Charles Sturt University,Australia,36.9,18.5,17.9,55.1,58,66.3
+1000,Institute of Chemical Technology,India,36.9,37.5,20.7,51,57.9,17.4
+1000,Chengdu University,China,36.9,18.5,14.5,74.1,28.5,28.2
+1000,Chiang Mai University,Thailand,36.9,28.5,19.1,46.3,58.1,39.5
+1000,Chiba University,Japan,36.9,33.2,20.9,42,68.9,33.9
+1000,University of Chile,Chile,36.9,25.9,19.8,50.5,57.4,52.9
+1000,China University of Petroleum (East China),China,36.9,22.2,23,54.3,68.2,23.8
+1000,Chonnam National University,South Korea,36.9,28.5,28.3,43.6,57.5,32.8
+1000,Chungnam National University,South Korea,36.9,29.9,29.7,34.9,71.7,26
+1000,Clarkson University,United States,36.9,29.9,18,41.2,67.4,63.3
+1000,University of Clermont Auvergne,France,36.9,21.8,18.1,54.2,61.6,68.3
+1000,University of la Costa,Colombia,36.9,13.2,10.7,74.2,16.3,54.9
+1000,Covenant University,Nigeria,36.9,24.7,24.4,56.6,24.2,54.3
+1000,CY Cergy Paris University,France,36.9,23.8,25.3,44.4,56.6,92.7
+1000,Czech University of Life Sciences Prague (CZU),Czech Republic,36.9,20.1,15.4,50.8,50.2,76.4
+1000,Damietta University,Egypt,36.9,16.4,9.4,73,17.4,46.1
+1000,University of Delhi,India,36.9,40.4,24.2,39,40.5,23.3
+1000,Delhi Technological University,India,36.9,16.9,20.1,76.7,28.5,19.7
+1000,University of Deusto,Spain,36.9,22.5,23.2,54.3,36.6,42.3
+1000,University of Dhaka,Bangladesh,36.9,17.5,10,68.8,18.1,48.5
+1000,Eötvös Loránd University,Hungary,36.9,28.6,19.2,57.3,33.4,51.3
+1000,Federal University of Minas Gerais,Brazil,36.9,40.2,23.3,43.3,50.8,33.4
+1000,Universidade Federal de Santa Catarina,Brazil,36.9,32.5,21.6,41.6,64.2,35.3
+1000,Universidade Federal de São Paulo (UNIFESP),Brazil,36.9,33.2,22.5,48.2,47.2,35.2
+1000,Ferdowsi University of Mashhad,Iran,36.9,28.6,26.8,48.2,45.4,38.6
+1000,Florida Atlantic University,United States,36.9,22.5,21.9,57.3,57.6,51.8
+1000,Florida Institute of Technology,United States,36.9,29,16.4,45.2,54.8,80.4
+1000,University of the Free State,South Africa,36.9,22.4,18.7,56.4,26.9,51.7
+1000,Fuzhou University,China,36.9,18.9,16.5,71.5,53.2,36.7
+1000,University of Girona,Spain,36.9,20.8,22.4,56.3,55,56.8
+1000,University of Gloucestershire,United Kingdom,36.9,17.4,14,57.6,34.5,65.7
+1000,Gorgan University of Agricultural Sciences and Natural Resources,Iran,36.9,15.8,11.3,78,34.2,35.7
+1000,Guangzhou University,China,36.9,19.4,12.7,77.1,22.4,35.9
+1000,Guangzhou Medical University,China,36.9,24.2,10.2,72.5,26.6,28.5
+1000,Guilan University of Medical Sciences,Iran,36.9,38.2,10.4,63.7,16.6,21.9
+1000,Harbin Engineering University,China,36.9,28.1,30.6,43.6,64.9,24.4
+1000,Hazara University Mansehra,Pakistan,36.9,27.1,10.7,70.9,16.7,49
+1000,Howard University,United States,36.9,48,18.8,41.6,39.8,39.3
+1000,University of Ibadan,Nigeria,36.9,27.6,14.4,59.3,24.4,41
+1000,Ilam University of Medical Sciences,Iran,36.9,30.8,12,65.7,17.2,23.4
+1000,"Indian Institute of Science Education and Research, Pune",India,36.9,42.9,25.1,35.7,25.4,38.9
+1000,Indian Institute of Technology Gandhinagar,India,36.9,41.1,27.2,39,26.5,29.6
+1000,University of Indonesia,Indonesia,36.9,45.5,23.1,29.2,51.9,60.3
+1000,Indraprastha Institute of Information Technology Delhi,India,36.9,22.8,16,66.2,57.8,44.6
+1000,Inha University,South Korea,36.9,31.2,27.2,41.7,83.9,38.8
+1000,Universitat Internacional de Catalunya,Spain,36.9,22.8,17.6,57,21.2,65.9
+1000,"International Islamic University, Islamabad",Pakistan,36.9,17.3,11.2,72.7,17.6,60
+1000,Isfahan University of Medical Sciences,Iran,36.9,45.6,13.6,47,25.6,25.4
+1000,Islamia College Peshawar,Pakistan,36.9,21.4,11.1,62.9,17.1,55.6
+1000,University of Jaén,Spain,36.9,20.7,18.8,64.2,41,45.4
+1000,Jahangirnagar University,Bangladesh,36.9,24.1,8.9,71.9,19.5,49.7
+1000,Jaume I University,Spain,36.9,23,20.5,56.5,47.7,45.7
+1000,Jawaharlal Nehru Technological University Anantapur (JNTUA),India,36.9,28.9,14.1,60.7,17.5,19.6
+1000,Jaypee University of Information Technology,India,36.9,23.2,16.5,70.6,22.5,23.8
+1000,Jazan University,Saudi Arabia,36.9,21,9.9,67.3,19.4,77.4
+1000,Jeonbuk National University,South Korea,36.9,30.2,27.3,45,68.1,34.1
+1000,Jiangnan University,China,36.9,24.7,22.4,60.2,76.6,24
+1000,Jordan University of Science and Technology,Jordan,36.9,19.8,13.6,67.3,40.8,61.1
+1000,JSS Academy of Higher Education and Research,India,36.9,39.7,10.6,51.9,22,51.8
+1000,Kafrelsheikh University,Egypt,36.9,14.7,9.1,76.2,20,51.9
+1000,Kalasalingam Academy of Research and Education,India,36.9,29.1,8.9,74.8,19.9,30.3
+1000,Kaohsiung Medical University,Taiwan,36.9,26.4,26.1,44,81.3,28.7
+1000,Kazan Federal University,Russian Federation,36.9,44.7,21.7,32.3,42.6,69.2
+1000,King Faisal University,Saudi Arabia,36.9,19.9,12.2,68,31.4,75.5
+1000,King Mongkut’s University of Technology Thonburi,Thailand,36.9,21.5,22.1,59.5,71,43.3
+1000,Kingston University,United Kingdom,36.9,20,15.3,53.2,52.2,91.3
+1000,K.N. Toosi University of Technology,Iran,36.9,22.6,21,60.2,34.8,35.7
+1000,Kore University of Enna,Italy,36.9,18,12.3,71.3,40.9,37.3
+1000,Kumamoto University,Japan,36.9,33.6,19.6,40.9,77.5,36.5
+1000,University of Kurdistan,Iran,36.9,16.8,14.7,70.8,19,35.9
+1000,Kyoto Prefectural University of Medicine,Japan,36.9,33.6,16,47.8,68.2,20.1
+1000,University of Lahore,Pakistan,36.9,17.6,10.2,68.8,20.3,52.6
+1000,Lahore University of Management Sciences,Pakistan,36.9,23.3,16.7,60.2,43.1,53
+1000,Lakehead University,Canada,36.9,17.6,24,51.4,48.7,59.2
+1000,Lebanese University,Lebanon,36.9,42.8,22.3,23.6,17.7,78.8
+1000,Leeds Beckett University,United Kingdom,36.9,17.7,16.2,65,49.9,67.3
+1000,Lithuanian University of Health Sciences,Lithuania,36.9,27.1,12.6,55.5,25.5,52.9
+1000,University of Ljubljana,Slovenia,36.9,24.5,20.1,54.6,69.8,42.4
+1000,University of Lleida,Spain,36.9,23.5,20.1,58.2,57.3,45.4
+1000,Lovely Professional University,India,36.9,21.5,12.8,73.7,17.5,43.4
+1000,Makerere University,Uganda,36.9,23.4,25.3,39.6,52.1,68.1
+1000,University of Malakand,Pakistan,36.9,16.8,14,74.1,26.7,49.2
+1000,University of Malta,Malta,36.9,23.4,16.2,60.6,20.5,53.8
+1000,University of Management and Technology,Pakistan,36.9,13.8,10.4,80.4,19.1,51.3
+1000,Mansoura University,Egypt,36.9,19.5,12.4,68.1,31.8,74.1
+1000,Marquette University,United States,36.9,36.9,18.2,54,49.3,33.1
+1000,Medical University of Lodz,Poland,36.9,27.4,11,67.6,39.7,32.3
+1000,University of Medicine and Pharmacy Carol Davila,Romania,36.9,26.3,11,62.6,24.6,38.8
+1000,University of Memphis,United States,36.9,27.5,19,55,63,35
+1000,University of Mohaghegh Ardabili,Iran,36.9,19.3,17.3,71.5,19.7,32.9
+1000,Montana State University,United States,36.9,24,20.4,56.3,63,38
+1000,University of Murcia,Spain,36.9,25.2,19.9,52.6,61.4,38.9
+1000,Nanjing University of Information Science and Technology,China,36.9,18,18.3,68.6,42,42.4
+1000,Nanjing Medical University,China,36.9,36.3,16.5,58.1,41.2,25.8
+1000,Nanjing Normal University,China,36.9,25.1,15.1,66.5,50.7,29.8
+1000,National Autonomous University of Mexico,Mexico,36.9,29.9,30.4,34.4,62.5,58.4
+1000,National Taipei University of Technology,Taiwan,36.9,27.3,25,35.8,94.1,41.6
+1000,"National Institute of Technology, Tiruchirappalli",India,36.9,33.8,17.1,60.2,27.1,21.2
+1000,The New School,United States,36.9,29.8,15.5,45.8,27.2,61.1
+1000,New Mexico State University (Main campus),United States,36.9,25.8,22.1,49.8,62.9,45.6
+1000,North China Electric Power University,China,36.9,22,23.1,51.4,60.1,22.4
+1000,Northeast Normal University,China,36.9,28.2,15.6,60.9,45.5,31.1
+1000,University of Northern British Columbia (UNBC),Canada,36.9,21.1,21.8,51.7,21.4,52
+1000,North South University,Bangladesh,36.9,12.9,10,76.1,15.8,43.3
+1000,Nova Southeastern University,United States,36.9,39.1,12.2,50.1,38.9,34.4
+1000,Okayama University,Japan,36.9,34.6,21.5,36.4,84.9,37.2
+1000,University of Oviedo,Spain,36.9,29,18.5,49.2,40.6,37.8
+1000,Ozyegin University,Turkey,36.9,16.3,23.9,53.5,58,57.7
+1000,Pablo de Olavide University,Spain,36.9,23.8,17.5,58.5,66.9,47.8
+1000,Palacký University Olomouc,Czech Republic,36.9,23.4,23.9,49.8,36.8,61.8
+1000,Panthéon-Sorbonne University – Paris 1,France,36.9,33.9,31.8,36.6,27.3,67.7
+1000,University of Patras,Greece,36.9,19,17.8,56.2,68.4,35.1
+1000,UPES,India,36.9,28.3,16.7,63.7,17.1,50.7
+1000,Université de Poitiers,France,36.9,28.6,25.7,36,45,58.9
+1000,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,36.9,33.4,30.5,37.1,62.9,43.2
+1000,Portland State University,United States,36.9,22.1,23.2,55.7,54.7,35
+1000,University of the Punjab,Pakistan,36.9,27.7,14.7,62.4,24.9,46.7
+1000,Qassim University,Saudi Arabia,36.9,36,20.4,42.8,21.6,80.2
+1000,Qom University of Medical Sciences,Iran,36.9,35.2,7.3,60,17.9,22.4
+1000,University of Regina,Canada,36.9,17.8,19.5,62.9,36.1,71
+1000,Reichman University,Israel,36.9,13.1,16.6,64.3,31.4,63.6
+1000,University of Rennes 1,France,36.9,32.1,17.9,44.7,64,63.8
+1000,Robert Gordon University,United Kingdom,36.9,17.5,13.2,53.4,36,87.1
+1000,Rochester Institute of Technology,United States,36.9,22.9,20.2,58.4,60.7,46.3
+1000,University of Roehampton,United Kingdom,36.9,23,21.5,52,35.8,85
+1000,University of Salamanca,Spain,36.9,32,21.8,50.4,39.9,53.6
+1000,University of Salford,United Kingdom,36.9,18.8,15,61.1,46.9,82.2
+1000,San Diego State University,United States,36.9,21.5,11.9,71.1,58.3,37
+1000,Savitribai Phule Pune University,India,36.9,44,11.8,54.5,22.8,25.2
+1000,Sechenov University,Russian Federation,36.9,32.6,17.1,47.7,39.4,62.1
+1000,University of Seoul,South Korea,36.9,28.8,26.1,41,52.1,34.9
+1000,University of Seville,Spain,36.9,23.8,24.5,53.6,50.8,44.6
+1000,Shahrekord University of Medical Sciences,Iran,36.9,33.7,10.5,62.1,17.3,20.6
+1000,Shantou University,China,36.9,21.2,16.4,63,33.8,42.9
+1000,Sheffield Hallam University,United Kingdom,36.9,19.4,14.4,66.7,33.1,64
+1000,Shiraz University,Iran,36.9,29.3,24.6,55,57.4,29.1
+1000,Shiraz University of Medical Sciences,Iran,36.9,41.7,12.7,55.7,24.5,24.1
+1000,Shri Mata Vaishno Devi University,India,36.9,24.7,17.2,68,26.1,22.8
+1000,Siksha ‘O’ Anusandhan,India,36.9,37.9,16.7,47.7,40.8,19.9
+1000,Sogang University,South Korea,36.9,27.2,30.6,39.8,73.3,45
+1000,Institute of Space Technology,Pakistan,36.9,18.6,13.3,70.5,16.5,47.1
+1000,University of Tabuk,Saudi Arabia,36.9,16.9,10.4,69,26.1,75.6
+1000,Technical University of Madrid,Spain,36.9,26.6,15.8,49.8,57.4,53.8
+1000,"University of Technology, Iraq",Iraq,36.9,25.8,9.2,65.7,20,25
+1000,University of Texas at El Paso,United States,36.9,24.5,28.7,44.8,51.9,46.8
+1000,Tokyo University of Agriculture and Technology,Japan,36.9,35,29.1,29.6,84.5,38.1
+1000,Tokyo Medical University,Japan,36.9,35.1,17,54,70.4,21.4
+1000,Tomsk Polytechnic University,Russian Federation,36.9,40.5,23.5,31.7,54.9,69.4
+1000,University of Tours,France,36.9,32.7,15.9,42.2,52.9,61.2
+1000,University of Trás-os-Montes and Alto Douro,Portugal,36.9,22.5,31.2,44.6,23.5,40.5
+1000,University of Tunis El Manar,Tunisia,36.9,42.3,19.9,31.1,49.5,50.5
+1000,Urmia University,Iran,36.9,29.6,19.5,56.9,25.8,38
+1000,"University of Veterinary and Animal Sciences, Lahore",Pakistan,36.9,22.2,17,53.7,46.7,55.5
+1000,University of Vic – Central University of Catalonia,Spain,36.9,19.1,13.1,70.8,20.2,59.1
+1000,University of Vigo,Spain,36.9,25.1,17.9,57.8,49.5,47.4
+1000,Vilnius University,Lithuania,36.9,26.6,17.5,51.4,44.4,46.7
+1000,Waseda University,Japan,36.9,33.7,26.2,43.1,56.7,54.8
+1000,Wenzhou University,China,36.9,16.2,15,78.1,27.8,34.8
+1000,Wenzhou Medical University,China,36.9,18.4,13.6,68.7,38.3,42.8
+1000,University of Westminster,United Kingdom,36.9,19.4,18.1,55.3,40,87.1
+1000,Y?ld?z Technical University,Turkey,36.9,32.1,28,41.2,64.1,40.9
+1000,Yokohama City University,Japan,36.9,28.4,11.3,59.4,62.4,29
+1000,Zagazig University,Egypt,36.9,14.2,9.2,71.4,49.8,49
+1000,University of Zaragoza,Spain,36.9,28.3,18.5,46.4,55.7,42.8
+1000,ZHAW Zurich University of Applied Sciences,Switzerland,36.9,22.2,15.8,46,59.2,72.4
+1000,Zhejiang Gongshang University,China,36.9,21.8,12.6,61.1,30.8,44.1
+1200,University of A Coruña,Spain,32.6,24.2,17.5,45.6,36.1,36.5
+1200,"Adam Mickiewicz University, Pozna?",Poland,32.6,19.7,28.4,43.5,29.6,37.8
+1200,AGH University of Krakow,Poland,32.6,25.8,20.9,38.6,68.5,29.9
+1200,Aichi Medical University,Japan,32.6,30.5,13.5,43.1,39.5,21.5
+1200,Ain Shams University,Egypt,32.6,27.9,15.3,45.8,48,51.8
+1200,Akdeniz University,Turkey,32.6,22.7,27.3,42.6,54.7,25.2
+1200,Al-Balqa Applied University,Jordan,32.6,12,13.6,59.2,22.5,39.3
+1200,University of Alicante,Spain,32.6,25,19.8,43.8,51.6,44.6
+1200,University of Almería,Spain,32.6,21.7,18.9,48.9,33.7,42.2
+1200,An-Najah National University,Palestine,32.6,13.3,9.8,65.4,21,61.2
+1200,University of Applied Sciences and Arts of Western Switzerland,Switzerland,32.6,24,13.1,38.3,33.8,87.4
+1200,Ateneo de Manila University,Philippines,32.6,30.8,10.8,52.4,27.6,33.5
+1200,Universidad Autónoma de Chile,Chile,32.6,12.5,12.2,54.5,16.1,55.4
+1200,Azarbaijan Shahid Madani University,Iran,32.6,14.9,15.3,67.9,19,27.9
+1200,Babe?-Bolyai University,Romania,32.6,23.3,16.8,46,35.2,39
+1200,Bahauddin Zakariya University,Pakistan,32.6,19.6,12.6,58.5,19.2,48.1
+1200,Bangladesh Agricultural University (BAU),Bangladesh,32.6,29.5,9.9,45.2,22.6,49.5
+1200,Bangladesh University of Engineering and Technology,Bangladesh,32.6,21.7,15.8,50.7,35.2,29.8
+1200,Bartin University,Turkey,32.6,11.1,13,69.6,16.3,37.4
+1200,University of Bedfordshire,United Kingdom,32.6,17.5,14.3,52.4,25.6,83.9
+1200,Benha University,Egypt,32.6,15.7,9.2,66.5,18.9,49.1
+1200,Beni-Suef University,Egypt,32.6,16.8,9.8,61.1,19.5,51.4
+1200,Bowling Green State University,United States,32.6,22.4,13.9,52.7,40.5,28.9
+1200,Brno University of Technology,Czech Republic,32.6,22.2,19.3,39,70.3,58.3
+1200,University of Bucharest,Romania,32.6,24.8,21.1,43.2,25.3,29.1
+1200,University of Cadiz,Spain,32.6,20.4,16.7,43.7,30,42.3
+1200,University of Calcutta,India,32.6,40,15.2,33.7,30.3,19.3
+1200,Canterbury Christ Church University,United Kingdom,32.6,20.7,13.8,44.6,18,59.6
+1200,University of Central Lancashire,United Kingdom,32.6,18.3,13.8,51.9,34.3,82.3
+1200,Central Michigan University,United States,32.6,28.8,15.3,46.8,44.9,33.4
+1200,"University of Chemistry and Technology, Prague",Czech Republic,32.6,32.8,14.7,29,45.7,51
+1200,China Pharmaceutical University,China,32.6,23.4,18.3,52.8,73.4,22.2
+1200,Chung Yuan Christian University,Taiwan,32.6,18.1,24.4,39,62.6,41.2
+1200,University of Colombo,Sri Lanka,32.6,25.4,10.6,60.2,18.7,39.3
+1200,Comenius University in Bratislava,Slovakia,32.6,31.2,16.6,41.8,25,52.6
+1200,Czech Technical University in Prague,Czech Republic,32.6,30.9,18.8,32.2,51.9,60.2
+1200,Democritus University of Thrace,Greece,32.6,16.1,16.5,54.3,32.1,30.4
+1200,University of Desarrollo,Chile,32.6,17.8,10.8,53,21.2,52.2
+1200,Diego Portales University,Chile,32.6,15.3,11.8,53.8,18,53
+1200,Université Djillali Liabès de Sidi Bel-Abbès,Algeria,32.6,30.6,9.3,46,16.9,37.4
+1200,Don State Technical University,Russian Federation,32.6,20.6,9,54.9,17.9,31.7
+1200,Dr B.R. Ambedkar National Institute of Technology Jalandhar,India,32.6,25.4,13.2,54.6,22.2,17.8
+1200,Durban University of Technology,South Africa,32.6,17.3,11.8,62,18.4,46.5
+1200,University of East London,United Kingdom,32.6,21.8,15.1,41,28.2,84.9
+1200,Edge Hill University,United Kingdom,32.6,18.1,13.8,55.6,22,54.7
+1200,"University of Engineering and Technology, Peshawar",Pakistan,32.6,13.7,11.5,60.9,25,49.8
+1200,University of Engineering & Technology (UET) Lahore,Pakistan,32.6,18.8,9.9,53.5,24.1,50.6
+1200,European University of Madrid,Spain,32.6,21.5,10.9,54.3,17.7,61.7
+1200,University of Extremadura,Spain,32.6,24.7,12.4,51.9,22.4,35.7
+1200,Fayoum University,Egypt,32.6,15.9,11.9,65.5,24.9,46.4
+1200,Federal University of São Carlos,Brazil,32.6,33.4,19.8,33.5,44.8,29.5
+1200,Federal University of Technology Akure,Nigeria,32.6,24.8,11.1,50.6,18.2,40.4
+1200,Financial University under the Government of the Russian Federation,Russian Federation,32.6,26.7,18,50.3,30.9,34.5
+1200,Firat University,Turkey,32.6,19.2,10.3,64.5,19.7,31.5
+1200,Florida Agricultural and Mechanical University,United States,32.6,33.4,16.7,39.8,37.3,50.3
+1200,University of Franche-Comté,France,32.6,21.3,15.7,40.6,44.9,70.6
+1200,Fu Jen Catholic University,Taiwan,32.6,24,29.2,26.3,65.5,31.1
+1200,Fujian Agriculture and Forestry University,China,32.6,18.3,15.5,62,34.8,32.7
+1200,Fujita Health University,Japan,32.6,27.6,13,55.4,53.3,22.3
+1200,Gauhati University,India,32.6,36.2,26.6,23.3,34.3,22.2
+1200,Gda?sk University of Technology,Poland,32.6,19.7,17,48.3,50.7,35
+1200,University of Ghana,Ghana,32.6,14.9,21.3,42.1,37.3,52.3
+1200,Gifu University,Japan,32.6,30.6,23.2,29.5,65.9,29.5
+1200,GLA University,India,32.6,16.8,10.6,63.9,16,20.9
+1200,University of Gujrat,Pakistan,32.6,13.4,11.3,69.5,16,45.8
+1200,Guru Ghasidas Vishwavidyalaya,India,32.6,16.6,9.8,63.7,21.6,22.3
+1200,Hakim Sabzevari University,Iran,32.6,15.3,11.5,61.6,16.5,38
+1200,Hamamatsu University School of Medicine,Japan,32.6,33.6,18.3,36.9,58.3,24
+1200,Huaqiao University,China,32.6,15.5,14.3,48.1,28.4,70.9
+1200,Icesi University,Colombia,32.6,23.5,10.5,55.8,16.1,41.1
+1200,Ilmenau University of Technology,Germany,32.6,31,21.4,32.8,64.9,57.1
+1200,IMT Nord Europe,France,32.6,32.2,25.2,19.7,64.8,73.4
+1200,Indian Institute of Science Education and Research Kolkata,India,32.6,40.8,19.4,33.4,28.8,24
+1200,Indian Institute of Technology Ropar,India,32.6,36.5,18.4,44.7,27.2,23.7
+1200,Indian Institute of Technology Mandi,India,32.6,36.5,13.4,49.2,18.3,26.8
+1200,University of Ioannina,Greece,32.6,14,12.4,55.9,47.4,43.2
+1200,University of Isfahan,Iran,32.6,30.4,16.8,40.9,26.2,35.5
+1200,The Islamia University of Bahawalpur,Pakistan,32.6,16.4,11.4,66.7,18.2,48.2
+1200,Istanbul University,Turkey,32.6,23.5,22,34.4,50.9,38.2
+1200,Istanbul University-Cerrahpa?a,Turkey,32.6,26,24.1,41.7,59.8,26.9
+1200,Iuliu Ha?ieganu University of Medicine and Pharmacy Cluj-Napoca,Romania,32.6,25.8,10.9,54.3,25.2,50.2
+1200,Jadavpur University,India,32.6,35.3,15.8,46,35.4,19.2
+1200,University of Jeddah,Saudi Arabia,32.6,17.4,9.2,51.5,16,73.2
+1200,Jimma University,Ethiopia,32.6,16.4,8.9,60.2,16.2,39.2
+1200,Kanazawa University,Japan,32.6,35.5,18.8,35.4,70.4,33.6
+1200,Kansai Medical University,Japan,32.6,30,10.6,51.6,47.9,21
+1200,Karlstad University,Sweden,32.6,19.9,14.4,53.8,29.4,57.4
+1200,Karnatak University Dharwad,India,32.6,35.1,9.7,52.5,21.6,27.8
+1200,Kerman University of Medical Sciences,Iran,32.6,32.7,11.8,51.2,20.5,25.6
+1200,Kharkiv National University of Radio Electronics,Ukraine,32.6,22.2,9.4,28,16.5,32.9
+1200,Kindai University,Japan,32.6,18.4,11.8,51.9,50.2,30.9
+1200,Kohat University of Science and Technology,Pakistan,32.6,21.9,14.2,49,20.8,59.5
+1200,University of Kragujevac,Serbia,32.6,23.8,10.7,60,21.2,31.8
+1200,Kurume University,Japan,32.6,27.5,13.6,48.4,44.7,26.3
+1200,Kuwait University,Kuwait,32.6,19.5,9.9,55.5,28.9,66.4
+1200,Kwame Nkrumah University of Science and Technology,Ghana,32.6,16.2,20.7,50.8,52,47.2
+1200,University of Lagos,Nigeria,32.6,14.6,14.4,65.5,20.9,41.5
+1200,University of La Laguna,Spain,32.6,21.9,15.8,54.7,28.7,50.7
+1200,University of Las Palmas de Gran Canaria,Spain,32.6,19.8,16.1,45.6,25.2,42.1
+1200,University of Latvia,Latvia,32.6,18.6,27.1,40.3,42.5,47.6
+1200,University of Leoben,Austria,32.6,35.2,13.7,31.6,58.8,77.4
+1200,University of León,Spain,32.6,23.2,13.6,46.7,70.3,36.5
+1200,Lorestan University,Iran,32.6,27.2,11.1,51.2,18.3,25.7
+1200,Mae Fah Luang University,Thailand,32.6,16.2,14.6,47.5,39.6,54
+1200,Maharishi Markandeshwar University (MMU),India,32.6,26.9,8.9,53.8,17.6,34.3
+1200,University of Malaga,Spain,32.6,21.5,16,43.2,51.5,42.2
+1200,Universiti Malaysia Sarawak (UNIMAS),Malaysia,32.6,29.9,19.3,22.9,66.9,61
+1200,University of Maragheh,Iran,32.6,12.1,16.6,55.7,17.5,34
+1200,University of Mazandaran,Iran,32.6,27.5,18.9,39.1,24.7,32.1
+1200,Medical University of Bialystok,Poland,32.6,39,11.8,40,39.1,29.9
+1200,Medical University of Gda?sk,Poland,32.6,28.7,10.6,47.9,39.6,43.8
+1200,Medical University of Warsaw,Poland,32.6,26.5,13.5,43.6,43.3,31
+1200,"Mehran University of Engineering and Technology, Jamshoro, Pakistan",Pakistan,32.6,17.1,8.1,55.6,16.9,50
+1200,Miguel Hernández University of Elche,Spain,32.6,20.4,17.8,43.8,70.7,41.2
+1200,Ming Chi University of Technology,Taiwan,32.6,16.4,25.1,43.4,47.1,29.5
+1200,Minia University,Egypt,32.6,17.2,9.5,66,19.2,49.6
+1200,Mirpur University of Science and Technology,Pakistan,32.6,11.5,9.4,60,15.8,48.6
+1200,Muhimbili University of Health and Allied Sciences,Tanzania,32.6,18,13.1,55.3,23.5,50.5
+1200,Nagoya City University,Japan,32.6,30.4,17.5,32.6,73.2,23.6
+1200,Najran University,Saudi Arabia,32.6,13,9.8,63.4,16.1,76.1
+1200,National Central University,Taiwan,32.6,30.8,24.9,29.7,88.8,44.4
+1200,National Chengchi University,Taiwan,32.6,27.6,27.8,24.8,60.6,48.8
+1200,National Chung Hsing University,Taiwan,32.6,23.8,25.2,33.8,78.8,32.5
+1200,National Institute of Technology Warangal,India,32.6,25.1,13.6,50.8,18.4,24.1
+1200,Necmettin Erbakan University,Turkey,32.6,37.2,14.1,39,21.4,38.7
+1200,Nicolaus Copernicus University in Toru?,Poland,32.6,23.8,21.1,38,30.8,33.6
+1200,Niigata University,Japan,32.6,30.6,15,41.8,49.7,29
+1200,Nile University,Egypt,32.6,17.3,13.3,59.7,42.4,31.6
+1200,Nippon Medical School,Japan,32.6,28.5,10.7,57.1,50.3,20.5
+1200,Northwest University,China,32.6,24.4,15.3,51.5,35.3,25
+1200,Oakland University,United States,32.6,25.5,15.9,44.5,47.7,39.4
+1200,Óbuda University,Hungary,32.6,14.4,16.4,55.7,20.7,42.6
+1200,"University of Occupational and Environmental Health, Japan",Japan,32.6,30.2,11.7,54.8,46.8,22.5
+1200,University of Pécs,Hungary,32.6,39.1,16.5,29.9,32,54.3
+1200,University of Peradeniya,Sri Lanka,32.6,18.4,9.2,58.6,23.3,39.8
+1200,Universidad Peruana Cayetano Heredia,Peru,32.6,16.9,12.9,53.3,29.8,49.8
+1200,University of Peshawar,Pakistan,32.6,19.4,12.2,61,17.4,47.3
+1200,Plekhanov Russian University of Economics,Russian Federation,32.6,25.9,12.9,44.7,20.6,59
+1200,PMAS Arid Agriculture University Rawalpindi,Pakistan,32.6,18.8,11.3,53.9,19.1,47.8
+1200,Pondicherry University,India,32.6,33.5,18.4,38.3,42.5,19.4
+1200,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,32.6,32.9,16.9,42.3,39.2,35.1
+1200,Poznan University of Medical Sciences,Poland,32.6,27.1,13.4,41.2,44.4,34.1
+1200,Public University of Navarre,Spain,32.6,22.4,14.3,49.5,38.3,46.5
+1200,University of Rajshahi,Bangladesh,32.6,15.9,9.3,59.3,17.6,39.6
+1200,Razi University,Iran,32.6,27.8,14,43.2,38.5,26.5
+1200,Riga Technical University,Latvia,32.6,26.4,23.9,32,46.4,57
+1200,Riphah International University,Pakistan,32.6,14.2,9.6,67.1,16,48.7
+1200,Rowan University,United States,32.6,26.6,12.4,45.9,30.8,39
+1200,Sahand University of Technology,Iran,32.6,20.6,14.6,57.4,37.9,22.6
+1200,Universidad San Francisco de Quito,Ecuador,32.6,22.3,11.1,48.9,17.4,67
+1200,University of Sargodha,Pakistan,32.6,27.6,11.9,50.5,17.7,48.1
+1200,Semnan University,Iran,32.6,30.7,12.8,50.7,18.4,22.4
+1200,University of Sfax,Tunisia,32.6,33.7,13.9,40.5,34.5,44.7
+1200,?Shahid Chamran University of Ahvaz,Iran,32.6,29.6,19.3,34.5,51.8,27.2
+1200,Shahrekord University,Iran,32.6,19.4,13.5,55.8,17.9,22.1
+1200,Shahrood University of Technology,Iran,32.6,28.3,17.2,52.4,18.7,32.4
+1200,Shanghai Maritime University,China,32.6,16.8,12.8,51.8,37.4,36
+1200,Shinshu University,Japan,32.6,26.8,18,34.6,63.1,32.6
+1200,Siberian Federal University,Russian Federation,32.6,30.4,24.2,26.9,55.3,59.5
+1200,Sidi Mohamed Ben Abdellah University,Morocco,32.6,26.6,11.3,50.6,16.9,25.3
+1200,University of Social Welfare and Rehabilitation Sciences,Iran,32.6,33.6,19.9,33.6,27.9,34.9
+1200,University of South Africa,South Africa,32.6,24.7,19.3,50.5,26,41.4
+1200,University of South Bohemia in ?eské Bud?jovice,Czech Republic,32.6,21.4,18.2,51,19.5,53
+1200,University of South Dakota,United States,32.6,34.5,15.9,33.6,36,29.6
+1200,University of the South Pacific,Fiji,32.6,14.1,17.6,53.5,43,62.9
+1200,University of South Wales,United Kingdom,32.6,18.3,11.8,42,56.5,77.2
+1200,Staffordshire University,United Kingdom,32.6,17.9,11.5,48,21.5,64.8
+1200,Suez University,Egypt,32.6,13,8.3,70.9,24.4,48.9
+1200,Suez Canal University,Egypt,32.6,19.7,8.8,57.6,28.3,50.6
+1200,SWPS University of Social Sciences and Humanities,Poland,32.6,12.8,16.4,53,16.2,52.7
+1200,Symbiosis International University,India,32.6,22.1,12.1,62.7,18,40.8
+1200,University of Szeged,Hungary,32.6,29.9,15.8,40.5,48.1,57.8
+1200,Taibah University,Saudi Arabia,32.6,14.4,10.2,54.2,18.5,76
+1200,Tallinn University,Estonia,32.6,24.8,23,42.6,22.1,59.3
+1200,Tanta University,Egypt,32.6,20.4,9.1,62.6,20,47.8
+1200,Technical University of Cartagena,Spain,32.6,25.1,12.7,42.9,36.3,40.7
+1200,Technological University Dublin,Ireland,32.6,19.1,13.1,45.6,66,64.9
+1200,University of Technology of Troyes,France,32.6,31.5,11.9,29.1,42,74.8
+1200,Teesside University,United Kingdom,32.6,19.6,13.1,52.7,19.7,81
+1200,Texas State University,United States,32.6,17.8,16,47.8,31.6,43.9
+1200,TOBB University of Economics and Technology,Turkey,32.6,17.9,14.3,48.2,48.8,40.5
+1200,Tokyo Metropolitan University,Japan,32.6,29.8,16.2,39.2,48,36.5
+1200,Toyohashi University of Technology (TUT),Japan,32.6,28.7,24,24.7,89.8,43.5
+1200,Toyota Technological Institute,Japan,32.6,28.7,16.2,38.4,57.2,33.2
+1200,Universiti Tunku Abdul Rahman (UTAR),Malaysia,32.6,16.8,17.1,48.1,53.6,45.3
+1200,Universiti Malaysia Terengganu (UMT),Malaysia,32.6,19.1,18.7,47.6,30.1,49.7
+1200,Ural Federal University,Russian Federation,32.6,24.9,25.9,34.7,50.6,59.8
+1200,University of Urbino Carlo Bo,Italy,32.6,15.8,17.8,52.2,33.1,52.5
+1200,Urmia University of Technology,Iran,32.6,11.4,16.8,59.9,16.6,27.7
+1200,USAMV Cluj-Napoca,Romania,32.6,19.9,9.1,54.5,23.8,40
+1200,Wakayama Medical University,Japan,32.6,33.8,12.7,49.5,59.1,19.6
+1200,Western Michigan University,United States,32.6,24,17.1,39.2,39.3,43.1
+1200,The University of the West Indies,Jamaica,32.6,19.7,11.8,51.9,31.5,47.3
+1200,University of West London,United Kingdom,32.6,19.7,9.7,47.8,16.2,91.7
+1200,University of Winchester,United Kingdom,32.6,18.9,16.3,50.5,16,59.8
+1200,University of Wroc?aw,Poland,32.6,24.3,25.9,35.9,25.6,44.1
+1200,Yazd University,Iran,32.6,25.3,17.3,44.7,39.4,36.1
+1200,University of Zagreb,Croatia,32.6,26,15.9,44.7,59.7,31.2
+1200,Zewail City of Science and Technology,Egypt,32.6,25.8,17.3,53.9,20.5,37.7
+1200,Zhejiang University of Finance and Economics,China,32.6,14,13.3,67,37.5,30.5
+1200,University of Žilina,Slovakia,32.6,27.7,18,48.2,30.6,31.8
+1500,Acharya Nagarjuna University,India,28.2,44.8,9.6,21.2,26,29.2
+1500,Adolfo Ibáñez University,Chile,28.2,14.8,17.4,39.2,17.1,64.1
+1500,"The University of Agriculture, Peshawar",Pakistan,28.2,15.6,10.2,36.5,22.3,48.1
+1500,Universitas Airlangga,Indonesia,28.2,28.6,12.5,31.9,19.1,57.3
+1500,Al-Farabi Kazakh National University,Kazakhstan,28.2,24.8,11.1,27.1,25.3,72.5
+1500,Allameh Tabataba ’i University,Iran,28.2,29.1,14.2,28.5,19,32.4
+1500,Al-Nahrain University,Iraq,28.2,27.9,8.7,34.1,16.6,25.4
+1500,University of Al-Qadisiyah,Iraq,28.2,18.5,7.8,55,16.7,26.3
+1500,Anadolu University,Turkey,28.2,22.3,11.8,41.2,22,32.7
+1500,"University of the Andes, Chile",Chile,28.2,20.6,15.7,30.1,17.2,50
+1500,University of Antofagasta,Chile,28.2,16.9,9.4,51.7,17.2,53.2
+1500,University of Antioquia,Colombia,28.2,17.7,20.3,33.5,37,40.9
+1500,"Arab Academy for Science, Technology and Maritime Transport",Egypt,28.2,28.1,12.3,32.9,22.6,53.3
+1500,Ariel University,Israel,28.2,15.6,18.9,37,25.9,30.9
+1500,Assiut University,Egypt,28.2,16.1,10.8,48,22.2,52.9
+1500,Atatürk University,Turkey,28.2,19.1,16.7,45,24.5,25.5
+1500,At?l?m University,Turkey,28.2,18.4,9.7,38.4,36.7,45.3
+1500,Austral University of Chile,Chile,28.2,17.3,14.7,30.2,30.9,51.4
+1500,Autonomous University of Sinaloa,Mexico,28.2,13.5,12.1,46.7,15.9,30.2
+1500,University of Babylon,Iraq,28.2,21.4,8.2,47.3,30.3,21.4
+1500,Banasthali University,India,28.2,34.6,11.7,31.4,23.8,25.6
+1500,Bandung Institute of Technology (ITB),Indonesia,28.2,23.7,17.1,29.2,29.4,38.5
+1500,Bayero University,Nigeria,28.2,17.4,9.7,43.2,16.8,49
+1500,Belarusian State University,Belarus,28.2,25.5,11.5,17,55.4,66.8
+1500,Bezmiâlem Vakif University,Turkey,28.2,30.4,11.9,26.9,21.6,27.2
+1500,BINUS University,Indonesia,28.2,20,17.2,37.5,25.1,34.1
+1500,University of Botswana,Botswana,28.2,16.8,14.2,46.5,19.9,58.4
+1500,Botswana International University of Science and Technology (BIUST),Botswana,28.2,25.5,11,35.1,16.6,77
+1500,Instituto Politécnico de Bragança,Portugal,28.2,13.1,13.5,42.6,21.2,64.5
+1500,University of Brasília,Brazil,28.2,32.6,14.9,28.7,27.7,36.9
+1500,The British University in Egypt,Egypt,28.2,17.5,9.5,47.7,16.3,36.9
+1500,B. S. Abdur Rahman Crescent Institute of Science and Technology,India,28.2,18.6,9.9,43.6,17.4,24.6
+1500,Bu-Ali Sina University,Iran,28.2,22.3,16.5,42.8,21.1,25.3
+1500,Budapest University of Technology and Economics,Hungary,28.2,22.2,18.3,35.8,59.3,37.6
+1500,University of Burgos,Spain,28.2,22.1,14.7,41.7,39.7,38
+1500,Cardiff Metropolitan University,United Kingdom,28.2,20.3,12.8,34.8,41.3,78.7
+1500,Universidad de Cartagena,Colombia,28.2,13.8,9.1,56.8,17.2,41.2
+1500,University of Carthage,Tunisia,28.2,23.8,9.9,31.2,20.7,44.4
+1500,Universidad Católica San Antonio de Murcia (UCAM),Spain,28.2,16.7,14.3,33.9,25.3,54.2
+1500,Chang Gung University of Science and Technology,Taiwan,28.2,15.1,17,37.2,34.9,20.3
+1500,University of Chester,United Kingdom,28.2,18.5,13,30.3,19.8,64.9
+1500,Chosun University,South Korea,28.2,20.9,20.8,25,71.9,36
+1500,Christ University Bengaluru India,India,28.2,14.6,9.9,44.4,15.9,25.4
+1500,Chungbuk National University,South Korea,28.2,26.5,21.2,29.9,50.6,29.6
+1500,Chung Shan Medical University,Taiwan,28.2,18.9,20,27,48.9,21.4
+1500,Cochin University of Science and Technology,India,28.2,37.6,20,25.4,45.6,20.2
+1500,University of Concepción,Chile,28.2,17.3,16.4,38.2,44.6,52
+1500,University of Costa Rica,Costa Rica,28.2,19.3,9.1,43,19.5,46.7
+1500,Cukurova University,Turkey,28.2,23.8,23.4,26.2,26.7,28.9
+1500,Del Rosario University,Colombia,28.2,22.9,13.5,27.2,26.4,51.3
+1500,University of Diyala,Iraq,28.2,26.6,8.2,44.3,20.5,28.3
+1500,Dokuz Eylül University,Turkey,28.2,19.4,18.2,25.5,67.1,25.5
+1500,Dow University of Health Sciences,Pakistan,28.2,24.2,10,46.5,18.7,43.2
+1500,Duzce University,Turkey,28.2,15.5,19.9,44.7,50.7,30.2
+1500,Universidade Eduardo Mondlane,Mozambique,28.2,10.1,9.4,56.7,16.6,51.1
+1500,"University of Education, Lahore",Pakistan,28.2,11.4,9.1,56.9,15.9,50.5
+1500,Ege University,Turkey,28.2,32.7,16.7,30.4,63.4,25.7
+1500,Ehime University,Japan,28.2,24.3,14.9,27.9,54,32.1
+1500,The University of Electro-Communications,Japan,28.2,22.3,22.7,28.4,65.9,37.5
+1500,Erciyes University,Turkey,28.2,20.9,16.1,36.1,57,29.3
+1500,Escuela Superior Politécnica del Litoral,Ecuador,28.2,20.4,9.5,32.3,18.3,56.4
+1500,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,28.2,31.8,13.5,24.6,26.3,30.4
+1500,Far Eastern Federal University,Russian Federation,28.2,31.5,19.6,21,26.6,62.7
+1500,Universidade Federal do ABC (UFABC),Brazil,28.2,16.8,17.6,41.1,26.6,45.9
+1500,Universidade Federal da Bahia,Brazil,28.2,27.5,12.3,30.5,19.7,28.4
+1500,Universidade Federal do Ceará (UFC),Brazil,28.2,24.2,16.6,24.6,44.5,27.2
+1500,Federal University of Espírito Santo,Brazil,28.2,24.7,15.7,25.1,47.3,28.8
+1500,Federal University of Goiás,Brazil,28.2,30,13.8,26.2,30.8,27.7
+1500,Federal University of Lavras,Brazil,28.2,27,16.8,26.6,29.3,26.5
+1500,Universidade Federal do Paraná (UFPR),Brazil,28.2,28.4,16.4,29.1,49.2,27.6
+1500,Federal University of Pernambuco,Brazil,28.2,30.7,13.3,25.1,40.2,25.7
+1500,Federal University of Rio Grande do Norte (UFRN),Brazil,28.2,25.3,11.3,30.6,24.8,31.3
+1500,Federal University of Santa Maria,Brazil,28.2,31.5,13,36.8,24.1,25
+1500,Federal University of Uberlândia,Brazil,28.2,23.3,12.7,36.1,29.8,24.4
+1500,Federal University of Viçosa,Brazil,28.2,32.2,14.5,23,26.6,24.5
+1500,Federico Santa María Technical University,Chile,28.2,12.3,10.8,36.2,32.3,56.9
+1500,Feng Chia University,Taiwan,28.2,18.4,18.9,25.5,40.9,37.7
+1500,Ferhat Abbas Sétif University 1,Algeria,28.2,17.2,8.5,50.6,17.7,39.6
+1500,University of La Frontera,Chile,28.2,17.6,12.3,32.7,22.8,51.3
+1500,Universitas Gadjah Mada,Indonesia,28.2,30.9,19.8,21.7,52.8,45.8
+1500,Gazi University,Turkey,28.2,25.6,19,32.7,60.3,21.7
+1500,University of Gda?sk,Poland,28.2,23.6,14.8,30.8,21.7,35.1
+1500,Gebze Technical University,Turkey,28.2,22.6,13.8,37.6,35,29.2
+1500,"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Romania,28.2,17.8,11.3,36.4,16.8,36.1
+1500,Georgia Southern University,United States,28.2,18.4,11.6,43.2,41.6,34.8
+1500,German Jordanian University,Jordan,28.2,17.8,11.4,40.6,19.5,69.1
+1500,Government College University Lahore,Pakistan,28.2,21,11.5,37.2,20.3,51.2
+1500,University of Guilan,Iran,28.2,21.2,17.5,46.2,27.9,23.4
+1500,Gunma University,Japan,28.2,28.6,14.2,20.7,57.4,26.7
+1500,Guru Jambheshwar University of Science and Technology,India,28.2,27.8,8.9,40.8,27.2,18.2
+1500,Gyeongsang National University,South Korea,28.2,26.2,18,32.6,65.1,26.7
+1500,Hallym University,South Korea,28.2,25.2,19.8,31.8,60.6,23.4
+1500,Halmstad University,Sweden,28.2,15,16.8,40.2,27.9,66.7
+1500,The Hashemite University,Jordan,28.2,13.2,14.2,40.6,25.4,53.1
+1500,Université Hassan II de Casablanca,Morocco,28.2,19.5,9.2,39.9,24.6,28.2
+1500,Université Polytechnique Hauts-de-France,France,28.2,15.8,8.7,36.6,57.8,70.3
+1500,Helwan University,Egypt,28.2,16.2,8.9,38.8,19.9,47.6
+1500,University of Hormozgan,Iran,28.2,24.6,14.1,37.6,22.8,26.4
+1500,University of Hradec Králové,Czech Republic,28.2,19.7,15.2,40.8,23.5,60.4
+1500,Hungarian University of Agriculture and Life Sciences,Hungary,28.2,25.8,11.6,32.5,23,62.3
+1500,Hyogo Medical University,Japan,28.2,29,13.5,36.5,53.1,19.2
+1500,Ibn Tofaïl University,Morocco,28.2,24.6,13,44.8,18.7,28.5
+1500,Ilam University,Iran,28.2,17.1,12.8,50.9,18.2,25.2
+1500,Ilia State University,Georgia,28.2,18.1,10,47.7,16.1,52
+1500,University of Ilorin,Nigeria,28.2,20.6,10.9,46.1,18.1,40.1
+1500,Immanuel Kant Baltic Federal University,Russian Federation,28.2,35.9,18.8,16.9,34.4,62.4
+1500,Incheon National University,South Korea,28.2,22.8,17.3,36.9,33.6,36.4
+1500,Indian Institute of Science Education and Research Bhopal,India,28.2,35.8,14.6,24.1,19.5,24.5
+1500,IPB University,Indonesia,28.2,30.9,9.8,24.2,39.2,45
+1500,I-Shou University,Taiwan,28.2,15,21.2,27.8,68.5,44.2
+1500,Istanbul Bilgi University,Turkey,28.2,18.7,11.7,42.6,16.3,62.8
+1500,Istanbul Medeniyet University,Turkey,28.2,14.5,11.7,56.9,18.8,25.9
+1500,Ivan Franko National University of Lviv,Ukraine,28.2,24.5,10.5,10,17.9,31.7
+1500,Izmir Institute of Technology,Turkey,28.2,20.2,15.1,27.8,56.7,35.5
+1500,Jeju National University,South Korea,28.2,27.4,19.2,35,38.2,31.2
+1500,Jiangsu Normal University,China,28.2,16.3,12.9,47.1,23.9,27.4
+1500,The Jikei University School of Medicine,Japan,28.2,30.1,10.8,40.5,42.6,19.7
+1500,The John Paul II Catholic University of Lublin,Poland,28.2,27.7,14.3,35.1,18.6,34
+1500,Kagawa University,Japan,28.2,25.7,12.9,27.4,54.1,31.9
+1500,Kagoshima University,Japan,28.2,25.7,13.5,24,55.2,27.7
+1500,Kangwon National University,South Korea,28.2,22,21.9,32.4,47.4,24.1
+1500,Karabük University,Turkey,28.2,12.6,9.4,57.2,16.1,48.2
+1500,Karunya Institute of Technology and Sciences,India,28.2,18.7,13.4,48.4,18.6,23.2
+1500,Kaunas University of Technology,Lithuania,28.2,22.2,15.3,39,36.9,39.2
+1500,Kharazmi University,Iran,28.2,32.7,13.8,37.2,25,29.5
+1500,Kharkiv Aviation Institute,Ukraine,28.2,20.6,9.2,44.5,16.4,32.6
+1500,Khon Kaen University,Thailand,28.2,23.3,15.7,35.5,36.1,35.4
+1500,Khulna University,Bangladesh,28.2,17,9.5,46.9,17.1,43.7
+1500,King Mongkut's University of Technology North Bangkok,Thailand,28.2,16.2,12.7,50.9,25.9,28.7
+1500,Kitasato University,Japan,28.2,27,11.5,28.8,56.5,20
+1500,KL University,India,28.2,22.4,11.1,52,16.6,21.5
+1500,Kyoto Institute of Technology,Japan,28.2,27.2,17.1,15.2,73.3,33.7
+1500,Kyushu Institute of Technology (Kyutech),Japan,28.2,26.3,15.6,31.4,60.3,40.8
+1500,University of Lethbridge,Canada,28.2,20.3,14.1,31.2,34.6,61.4
+1500,Lodz University of Technology,Poland,28.2,21.2,15.7,34.4,66.9,29.8
+1500,Universidad Loyola,Spain,28.2,23.2,13,39.2,17.3,48.8
+1500,"Lumière University, Lyon 2",France,28.2,24.6,18.6,24.9,32.8,67.5
+1500,Universidade Lusófona,Portugal,28.2,23.2,8.6,35.7,17.8,59.7
+1500,Universiti Malaysia Perlis,Malaysia,28.2,21.6,12.5,46,26,33.3
+1500,Manipal University Jaipur,India,28.2,19.5,14.2,51.9,23.9,24
+1500,University of Manouba,Tunisia,28.2,21.8,9.2,44.2,19.4,45.8
+1500,University of Maribor,Slovenia,28.2,20.1,16.9,40.8,36.5,38.9
+1500,University of Marrakech Cadi Ayyad,Morocco,28.2,20.5,11.5,36.5,21.6,40.2
+1500,University of Mauritius,Mauritius,28.2,17.6,13.4,45.3,40.3,35.4
+1500,Medical University of Lublin,Poland,28.2,30.5,12.3,30.5,36.1,36.8
+1500,Medical University of Silesia in Katowice,Poland,28.2,28.1,12.4,31.1,29,24.7
+1500,Medical University of Sofia,Bulgaria,28.2,30.8,13.5,27.9,48.8,53.9
+1500,University of Medicine and Pharmacy of Craiova,Romania,28.2,24.3,9.9,37.2,19.2,40.5
+1500,Mendel University in Brno,Czech Republic,28.2,20.9,19.4,36.8,21,55.1
+1500,Metropolitan Autonomous University,Mexico,28.2,19.9,23.9,22.8,28.6,29.2
+1500,Mie University,Japan,28.2,26.9,13.9,23.9,61.8,24.8
+1500,Mohammed V University of Rabat,Morocco,28.2,29.1,15,32.2,37.3,32.1
+1500,University of Monastir,Tunisia,28.2,25.7,10.1,36.2,28.1,46
+1500,Morgan State University,United States,28.2,22.8,12.6,29.2,28.7,56.3
+1500,Moscow Aviation Institute,Russian Federation,28.2,32.9,14.4,26.4,48.6,31.9
+1500,Moscow Power Engineering Institute,Russian Federation,28.2,23.6,18.3,20.4,51.4,39.9
+1500,Multimedia University,Malaysia,28.2,19.5,13,29,62.2,41.2
+1500,Mutah University,Jordan,28.2,29.7,11.5,27.6,20.9,61.2
+1500,Nagaoka University of Technology,Japan,28.2,34.3,16.4,19.9,62.1,43.2
+1500,Nagasaki University,Japan,28.2,29.4,14.8,28.5,48.4,40.3
+1500,Nagoya Institute of Technology,Japan,28.2,21.5,20.3,23,73.2,31.4
+1500,University of Nairobi,Kenya,28.2,12,10.6,45.9,18.8,49.8
+1500,University of Namibia,Namibia,28.2,13.1,8.6,51.3,15.8,62.8
+1500,National Changhua University of Education,Taiwan,28.2,22.2,17.8,20.6,74.5,28.8
+1500,National Chin-Yi University of Technology,Taiwan,28.2,13.9,25.1,27.4,42.1,28.7
+1500,National Chung Cheng University,Taiwan,28.2,23.5,22.2,25,72.9,26.5
+1500,National University of Colombia,Colombia,28.2,19.7,13.6,37.1,36.9,41.1
+1500,National University of Distance Education (UNED),Spain,28.2,24.9,18.9,37.8,35.8,31
+1500,National Dong Hwa University,Taiwan,28.2,19.1,23.8,26.3,33.5,48.6
+1500,National Institute of Technology Srinagar,India,28.2,23.1,10.7,45.7,16.7,19.8
+1500,National Kaohsiung University of Science and Technology,Taiwan,28.2,15.2,20.3,35,61.6,26.8
+1500,National Research University of Electronic Technology (MIET),Russian Federation,28.2,43.8,14.9,10.7,50.2,25.5
+1500,National Taiwan Ocean University,Taiwan,28.2,19.7,25,30.2,63,34.7
+1500,National Technical University Kharkiv Polytechnic Institute,Ukraine,28.2,24.8,9,14.9,17.5,33.6
+1500,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,28.2,26.5,9.9,16,22.2,22.4
+1500,University of Nigeria Nsukka,Nigeria,28.2,29.1,10.6,30.3,17.3,37
+1500,Ochanomizu University,Japan,28.2,33.2,16.5,19.7,36.5,38.2
+1500,Oles Honchar Dnipro National University,Ukraine,28.2,25.1,9,7.4,18.9,21.5
+1500,Opole University of Technology,Poland,28.2,18.5,13.8,37.3,18.5,36.1
+1500,University of Oradea,Romania,28.2,16.7,14.6,35,16.9,41
+1500,Osaka Metropolitan University,Japan,28.2,29.1,18.7,29.8,79.5,26.6
+1500,Osmania University,India,28.2,33.9,16.3,31.1,27.7,21.4
+1500,Paris Nanterre University,France,28.2,20.9,16.8,27.9,42.9,66.7
+1500,University of Pau and Pays de l’Adour,France,28.2,23.4,12.4,21.6,28.5,79.9
+1500,Pavol Jozef Šafárik University in Košice,Slovakia,28.2,40.7,10.2,17.1,24.9,62.1
+1500,Persian Gulf University,Iran,28.2,17.8,14.1,45.5,28.8,38.2
+1500,University of the Philippines,Philippines,28.2,25.4,15.3,38.7,22.8,38.4
+1500,Pirogov Russian National Research Medical University,Russian Federation,28.2,44.2,13.3,14.5,28.1,22.6
+1500,Polytechnic Institute of Porto,Portugal,28.2,15,11.9,49.6,22.1,31.8
+1500,Pontifical Catholic University of Peru,Peru,28.2,24.8,9.8,29.7,16.9,45.6
+1500,Pontifical Catholic University of Valparaíso,Chile,28.2,15.8,17.1,32.8,38.1,51.1
+1500,Pontifical Javeriana University,Colombia,28.2,20.7,11.5,37.4,21,45.3
+1500,Pontifícia Universidade Católica do Paraná,Brazil,28.2,26.3,12.8,34.3,43,30.7
+1500,Port Said University,Egypt,28.2,13.7,8.5,53.7,16.8,46.6
+1500,Pozna? University of Life Sciences,Poland,28.2,25.1,11.3,45.2,27.4,25.9
+1500,Poznan University of Technology,Poland,28.2,22.6,13,35.9,41.8,26.9
+1500,Prince of Songkla University,Thailand,28.2,23.4,14.8,32.6,43.5,37.7
+1500,University of Puerto Rico,Puerto Rico,28.2,25,11.4,40.8,37.6,44.4
+1500,Pukyong National University,South Korea,28.2,26.7,13.9,28.5,39,36.4
+1500,University of Qom,Iran,28.2,22.2,12.1,35.1,17.3,48.6
+1500,University Rey Juan Carlos,Spain,28.2,15.8,13.4,51.2,31.3,39.9
+1500,Rikkyo University,Japan,28.2,18.6,9.3,34,19.7,58.4
+1500,Ritsumeikan University,Japan,28.2,19.8,13.9,27.4,30.3,46.8
+1500,Université Saint-Joseph de Beyrouth,Lebanon,28.2,32.6,10.9,24.2,27,69.7
+1500,Saitama Medical University,Japan,28.2,26.5,10.3,39.3,41.5,18.3
+1500,Sakarya University,Turkey,28.2,16.5,10.6,45.4,24,28.4
+1500,Samara National Research University (Samara University),Russian Federation,28.2,27.5,14.8,21.8,26.6,37.1
+1500,Sapporo Medical University,Japan,28.2,29.7,12.9,33.1,58.3,17.6
+1500,SASTRA University,India,28.2,22.4,11.3,45,30.3,29.4
+1500,Sathyabama Institute of Science and Technology,India,28.2,31.2,9.9,35.1,16.9,29.7
+1500,Universitas Sebelas Maret,Indonesia,28.2,19.3,19.3,33.9,48.3,33.3
+1500,Selçuk University,Turkey,28.2,22.4,14.4,36.7,58.2,34.1
+1500,Semnan University of Medical Sciences and Health Services,Iran,28.2,25.4,10.5,46.2,16.2,29.1
+1500,Seoul National University of Science and Technology (SeoulTech),South Korea,28.2,28,20.1,32.7,39.8,30.6
+1500,University of La Serena,Chile,28.2,12.3,9.9,49.2,16.4,50.4
+1500,Shahid Bahonar University of Kerman,Iran,28.2,19.4,13.7,41.8,26.9,26.3
+1500,Shahid Sadoughi University of Medical Sciences,Iran,28.2,39.1,10.6,20.8,17.5,20.6
+1500,Shahjalal University of Science and Technology,Bangladesh,28.2,13.2,8.4,43.4,16.6,44.8
+1500,University of Shanghai for Science and Technology,China,28.2,23.1,11.5,40.4,36.7,26.6
+1500,Shibaura Institute of Technology,Japan,28.2,20.8,20.1,22.3,36.3,42.3
+1500,Shiga University of Medical Science,Japan,28.2,31.5,12.8,32.3,62.7,24.5
+1500,Showa University,Japan,28.2,32.8,10.3,35.5,40.2,19.8
+1500,Silesian University of Technology,Poland,28.2,21.8,15.6,39.4,31.5,26.6
+1500,Université de Skikda,Algeria,28.2,12.5,7.6,51.3,15.8,40.6
+1500,Slovak University of Agriculture in Nitra,Slovakia,28.2,23.6,12.2,27.4,18.9,48.5
+1500,Sohag University,Egypt,28.2,12.5,9,53.5,18.3,48.8
+1500,Soonchunhyang University,South Korea,28.2,19.8,25.4,33,48.2,35
+1500,Soongsil University,South Korea,28.2,26.7,15,25.1,47.4,35.6
+1500,Université Sorbonne Nouvelle,France,28.2,25.7,15.3,20.8,15.6,70
+1500,University of Sousse,Tunisia,28.2,30.3,10.3,31.4,19.3,40.1
+1500,University of South China,China,28.2,26.8,13.9,27.7,30.6,22.3
+1500,Southern Federal University,Russian Federation,28.2,27.9,14.3,21.4,32.1,40.3
+1500,South Valley University,Egypt,28.2,16,9.2,53.3,17.7,48.9
+1500,Southwest Petroleum University,China,28.2,17.9,15.1,38.3,53.1,21.8
+1500,University of Split,Croatia,28.2,17.9,13.9,49.1,23.1,36
+1500,Sri Venkateswara University,India,28.2,36.8,11.3,23.6,20.9,31.5
+1500,SRM Institute of Science and Technology,India,28.2,21.6,11.5,51.6,21.9,26.8
+1500,?tefan cel Mare University of Suceava,Romania,28.2,15.6,13,49.3,16.8,36.9
+1500,St Marianna University School of Medicine,Japan|Not accredited,28.2,27.6,9.9,44.4,37.3,20.1
+1500,St Petersburg Electrotechnical University (LETI),Russian Federation,28.2,22.6,16.4,22.8,37.6,41.7
+1500,Universiti Sultan Zainal Abidin,Malaysia,28.2,24.1,11.3,38.6,16.5,47
+1500,University of Sunderland,United Kingdom,28.2,18.2,9.9,40.2,42.1,71.6
+1500,Suranaree University of Technology,Thailand,28.2,21.9,20.9,27.7,54.9,37.9
+1500,Universitas Syiah Kuala,Indonesia,28.2,14,9.4,51.5,19.5,25.8
+1500,University of Talca,Chile,28.2,17.4,13.7,31.5,36.7,52.3
+1500,Tamkang University,Taiwan,28.2,15.3,12.7,34.1,43.6,42.9
+1500,University of Tarapacá,Chile,28.2,12.4,19,45.1,19.4,59
+1500,Taras Shevchenko National University of Kyiv,Ukraine,28.2,30,13.1,20.2,31.4,31.8
+1500,Technical University of Cluj-Napoca,Romania,28.2,17,13.2,39.3,29.5,25
+1500,Technical University of Crete,Greece,28.2,13.1,11.1,50.4,40.6,40.7
+1500,Technical University of Košice,Slovakia,28.2,26.5,17.1,30.2,30,44.8
+1500,University of Technology of Compiègne,France,28.2,26.7,10.9,24.3,48.8,83.8
+1500,Universiti Teknikal Malaysia Melaka,Malaysia,28.2,20.1,11.4,32.6,19.6,44.2
+1500,Institut Teknologi Sepuluh Nopember,Indonesia,28.2,25.3,10.8,25.4,35.4,42.5
+1500,University of Texas Rio Grande Valley,United States,28.2,17.9,8.5,45.1,17.4,46.1
+1500,Tezpur University,India,28.2,31.3,15.3,27.9,33.8,18.4
+1500,Thammasat University,Thailand,28.2,26.3,19.1,25.7,30.1,38.1
+1500,Thiagarajar College of Engineering,India,28.2,18.7,8.9,41.9,20.2,18
+1500,Toho University,Japan,28.2,24.7,15,33.7,57.3,21.5
+1500,Tokai University,Japan,28.2,18.3,12,36.5,46,30.4
+1500,Tokushima University,Japan,28.2,29.2,24,24.4,81.6,26.4
+1500,Tokyo University of Marine Science and Technology,Japan,28.2,31.3,15.2,19.7,43.1,44.4
+1500,Tokyo University of Science,Japan,28.2,24,26.1,26.4,74,29.1
+1500,Tomas Bata University in Zlín,Czech Republic,28.2,18.1,21,31.8,26.1,51.3
+1500,University of Toyama,Japan,28.2,27,14.6,29.2,61.9,33.1
+1500,Transilvania University of Bra?ov,Romania,28.2,15.4,11.5,49.8,18.7,36.9
+1500,Tribhuvan University,Nepal,28.2,11.3,8.2,49.5,15.9,46.7
+1500,Tunghai University,Taiwan,28.2,16.5,14.4,37.8,49.4,46.6
+1500,University of Tunis,Tunisia,28.2,30.9,10.3,23.5,16.6,39.2
+1500,Tzu Chi University,Taiwan,28.2,25.3,26,18.3,65.6,27.1
+1500,UNIR – International University of La Rioja,Spain,28.2,11.9,13.9,38,15.6,58.6
+1500,Unisinos University,Brazil,28.2,30.1,15.4,22.3,25.2,29.3
+1500,Universiti Tun Hussein Onn Malaysia (UTHM),Malaysia,28.2,22,13.5,37,18.5,42.1
+1500,University of Valladolid,Spain,28.2,25.1,14.4,37.9,43.8,38.1
+1500,Veltech University,India,28.2,17.9,9.1,44.4,16,27.7
+1500,University of Venda,South Africa,28.2,20.3,29.2,19.9,16.8,49
+1500,"Vietnam National University, Hanoi",Vietnam,28.2,20.9,11.2,46.8,19.1,48.9
+1500,Vilnius Gediminas Technical University (Vilnius Tech),Lithuania,28.2,22,16.3,36,57.8,47.2
+1500,"Visvesvaraya National Institute of Technology, Nagpur",India,28.2,24.5,13.4,41.8,40.4,20.1
+1500,V.N. Karazin Kharkiv National University,Ukraine,28.2,26.4,10.9,8.8,46.6,47.2
+1500,Volgograd State University,Russian Federation,28.2,24,12.9,34.5,15.8,27.9
+1500,VSB - Technical University of Ostrava,Czech Republic,28.2,26.8,19.7,27.8,31,46.9
+1500,Vytautas Magnus University,Lithuania,28.2,22.4,12.3,27.4,20.9,61.9
+1500,Walailak University,Thailand,28.2,20.9,13.3,35.5,16.3,40.7
+1500,Warsaw University of Life Sciences – SGGW,Poland,28.2,19.9,11.8,41.6,23.4,34.2
+1500,Warsaw University of Technology,Poland,28.2,22,19.6,33.3,53.5,31.7
+1500,University of West Bohemia,Czech Republic,28.2,20.5,18,35.2,27.7,32.4
+1500,University of Western Macedonia,Greece,28.2,11.6,17.1,39.3,26.2,27.9
+1500,West University of Timi?oara,Romania,28.2,24.3,13.7,40.2,17.4,34.9
+1500,Wroc?aw University of Environmental and Life Sciences,Poland,28.2,19.1,13.9,34.3,49.8,29.6
+1500,Wroc?aw University of Science and Technology,Poland,28.2,19.7,17.4,33.1,54.6,29.7
+1500,Wuhan Textile University,China,28.2,15,11,46.2,36.7,23.5
+1500,Xiangtan University,China,28.2,17,15.9,49,33.7,21.8
+1500,Xuzhou Medical University,China,28.2,15.8,16.3,43.5,26,21.4
+1500,Yamagata University,Japan,28.2,28,15.3,24.8,72.2,32.3
+1500,Yamaguchi University,Japan,28.2,28.5,13.4,21.4,57.3,33.4
+1500,University of Yamanashi,Japan,28.2,27.8,13.1,25.9,45.4,29
+1500,Yarmouk University,Jordan,28.2,19.9,12.9,41.5,20.8,53.1
+1500,Yasouj University,Iran,28.2,14.7,14.5,52.3,20.1,22.4
+1500,Yokohama National University,Japan,28.2,26,22.5,19.1,71.2,36.1
+1500,Yuan Ze University,Taiwan,28.2,18.5,24.1,32.1,69,42.8
+1500,Yuriy Fedkovych Chernivtsi National University,Ukraine,28.2,22.8,9.9,8.2,17.6,26.3
+1500,University of Zambia,Zambia,28.2,13.2,9.8,45.8,19.9,54.9
+1500,University of Zanjan,Iran,28.2,17.1,12.3,42.6,21.5,27.3
+1500,Zanjan University of Medical Sciences,Iran,28.2,36.4,12.6,35.5,24.2,21.5
+1500,Zhejiang Chinese Medical University,China,28.2,16.5,16.4,34.5,37.2,23
+1500,University of Zimbabwe,Zimbabwe,28.2,12.9,12.7,37.3,20.9,50.8
+1501+,Université 8 Mai 1945 Guelma,Algeria,22.7,14.7,8.6,25.4,15.9,37
+1501+,University Abdelhamid Ibn Badis Mostaganem,Algeria,22.7,17.7,7.8,8.1,15.7,33.5
+1501+,Abdelmalek Essaâdi University,Morocco,22.7,21.6,9.7,30.1,17.2,29.4
+1501+,University of Abou Bekr Belkaïd Tlemcen,Algeria,22.7,22.7,9,11.6,19.6,35.3
+1501+,Ac?badem University,Turkey,22.7,25.8,12,22.7,24.2,30.3
+1501+,Adelphi University,United States,22.7,24.1,7.7,26.1,16.4,33
+1501+,Afe Babalola University,Nigeria,22.7,23.4,11.6,17.2,24.6,43.6
+1501+,Akita University,Japan,22.7,25.6,13.4,20.8,39.1,26.7
+1501+,Aksaray University,Turkey,22.7,11.6,8.8,23.5,26.8,28
+1501+,Alexandru Ioan Cuza University,Romania,22.7,16.5,12.1,31.6,18.3,40.2
+1501+,Altai State University,Russian Federation,22.7,20.5,16.5,15.2,25.2,64.4
+1501+,Alzahra University,Iran,22.7,25.4,15.3,24.6,19.6,31
+1501+,University of Anbar,Iraq,22.7,17.7,9.1,39.1,16.9,29.3
+1501+,Universitas Andalas,Indonesia,22.7,24.7,12.7,16.5,36.1,33.2
+1501+,"University of the Andes, Venezuela",Venezuela,22.7,21.9,8.6,8.8,27.7,50.2
+1501+,Andhra University,India,22.7,38.2,10.4,18.7,26.1,24.1
+1501+,Universidad Andrés Bello (UNAB),Chile,22.7,15.1,10.4,33.5,20.7,50.6
+1501+,Ankara University,Turkey,22.7,18.2,11.6,30.5,36.6,34.4
+1501+,Ankara Yildirim Beyazit University,Turkey,22.7,19.2,12.6,23.1,17.3,35.4
+1501+,Annamalai University,India,22.7,35.5,9.6,20,22.2,20.1
+1501+,Antonio Nariño University,Colombia,22.7,16.6,7.9,33.1,16,51.5
+1501+,Aoyama Gakuin University,Japan,22.7,20,8.9,10.4,22.2,36.2
+1501+,Arak University,Iran,22.7,19.5,11.2,32.7,20.1,26.3
+1501+,Universidad Autónoma de Ciudad Juárez,Mexico,22.7,15.6,8,10.2,17.5,37.3
+1501+,Universidad Autónoma de Coahuila,Mexico,22.7,21.4,8,12.8,18.1,34.4
+1501+,Universidad Autónoma del Estado de Hidalgo,Mexico,22.7,19.2,9.6,11.1,18.1,26.4
+1501+,Universidad Autónoma del Estado de Mexico (UAEMex),Mexico,22.7,22.2,9.3,7.7,17.4,26.9
+1501+,Universidad Autónoma del Estado de Morelos,Mexico,22.7,17.1,9.1,9.1,28.8,27.4
+1501+,Universidad Autónoma de Nuevo León (UANL),Mexico,22.7,13.3,9.1,17.1,19.8,33.4
+1501+,Universidad Autónoma de Querétaro,Mexico,22.7,19.1,10.5,19.1,23.7,30
+1501+,Universidad Autónoma de Yucatán,Mexico,22.7,14.9,10,14.6,24.1,33.6
+1501+,Autonomous University of Baja California,Mexico,22.7,13,9,12.6,17,35.7
+1501+,Badji Mokhtar University – Annaba,Algeria,22.7,34.1,16.2,12.5,16.9,35
+1501+,University of Baghdad,Iraq,22.7,25.1,12.6,19.8,28.5,20.2
+1501+,Baku State University,Azerbaijan,22.7,20.1,8.6,13.8,19.7,35.5
+1501+,Ba?kent University,Turkey,22.7,20,12.2,15.7,29.1,22
+1501+,University of Basrah,Iraq,22.7,23.4,7.8,14.6,16.2,26.1
+1501+,University of Batna 2,Algeria,22.7,17.5,7.9,12.2,15.9,30.4
+1501+,University of Béjaïa,Algeria,22.7,13.8,8.3,14.4,20.9,44.9
+1501+,Belgorod State National Research University,Russian Federation,22.7,23.4,13.7,10.6,34.1,42.3
+1501+,Benemérita Universidad Autónoma de Puebla,Mexico,22.7,15.6,9.5,17.1,19.4,37.7
+1501+,University of Benin,Nigeria,22.7,15.5,5.7,35,16.4,34.7
+1501+,Bernardo O’Higgins University,Chile,22.7,13.9,10.3,10.7,20.9,54
+1501+,Bharath Institute of Higher Education and Research,India,22.7,21.1,7.3,30.2,21.2,35.9
+1501+,Bharati Vidyapeeth University,India,22.7,24.8,9.4,13.5,30.4,18.8
+1501+,Bialystok University of Technology,Poland,22.7,23,14.9,23.1,20.6,24.3
+1501+,Bilecik ?eyh Edebali University,Turkey,22.7,14.5,9.5,22.8,17.8,32
+1501+,University of Bío-Bío,Chile,22.7,12.9,12.8,13.9,19.1,46.7
+1501+,University of Birjand,Iran,22.7,11.1,9.5,26.7,16.8,26.2
+1501+,University of Biskra,Algeria,22.7,16.3,8.6,19.3,15.9,38.1
+1501+,Blida 1 University,Algeria,22.7,19.6,8.6,14.9,16.7,36.8
+1501+,Bolu Abant Izzet Baysal University,Turkey,22.7,15.6,9.3,29.2,17.4,32.4
+1501+,Bozok University,Turkey,22.7,16.1,9.4,30.3,16.9,28.9
+1501+,University of Brawijaya,Indonesia,22.7,20.5,9.9,17.2,20.4,25.7
+1501+,Burapha University,Thailand,22.7,16,9.8,10.3,20.9,27.6
+1501+,Bursa Technical University,Turkey,22.7,13.7,9.4,30.4,18.5,29.7
+1501+,Bursa Uluda? University,Turkey,22.7,18.8,10.4,20,31,32.3
+1501+,University of Caldas,Colombia,22.7,10.1,11,9,53.2,32.2
+1501+,Çank?r? Karatekin University,Turkey,22.7,12.5,9.5,22.7,15.6,41
+1501+,Catholic University of Brasília,Brazil,22.7,15.4,10.5,11.7,19,35.7
+1501+,Catholic University of the North,Chile,22.7,14.2,15.2,29,18.2,58
+1501+,Universidad Católica del Maule,Chile,22.7,13.4,13.4,19.3,15.8,57.5
+1501+,Universidad Católica de la Santísima Concepción,Chile,22.7,13.2,14.9,22.9,16.9,48.9
+1501+,University of Caxias do Sul,Brazil,22.7,15.9,9.4,11.8,22.3,21.6
+1501+,Ceará State University,Brazil,22.7,21.1,11.4,8.9,17.9,20.2
+1501+,Manisa Celal Bayar University,Turkey,22.7,14.9,5.2,21.6,16.7,22
+1501+,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ),Brazil,22.7,12.4,9.7,18.2,16.7,30.6
+1501+,CES University,Colombia,22.7,19.2,9.1,5.8,16.4,37.1
+1501+,Chaoyang University of Technology,Taiwan,22.7,14.1,18.2,28.2,47,38.9
+1501+,College of Charleston,United States,22.7,17.4,7.9,30.4,23.2,29.8
+1501+,Chelyabinsk State University,Russian Federation,22.7,12.3,10.7,10.7,17,25.9
+1501+,Chiba Institute of Technology,Japan,22.7,14.8,8.8,13,26.1,20.9
+1501+,Chinese Culture University,Taiwan,22.7,13.9,10,16.8,26.1,29.8
+1501+,Université Chouaïb Doukkali,Morocco,22.7,13.4,10.8,28.8,18.9,26.7
+1501+,Chubu University,Japan,22.7,17.1,11.9,15.9,33.4,34.1
+1501+,Chuo University,Japan,22.7,18.7,12.7,15.5,27.2,30.4
+1501+,University of Colima,Mexico,22.7,21.6,8,12.4,20,31.6
+1501+,Comillas Pontifical University,Spain,22.7,18.3,15.7,26.3,31.4,44.2
+1501+,Communication University of China,China,22.7,27.5,17.3,15.5,37.6,23.4
+1501+,Cracow University of Technology,Poland,22.7,21.2,10.7,30.4,28.2,27.3
+1501+,University of Craiova,Romania,22.7,18.3,11.5,25.2,18.4,24
+1501+,Damghan University,Iran,22.7,17.7,11.4,27,17.9,27.9
+1501+,University of Dar es Salaam,Tanzania,22.7,14.4,10.3,28.2,21.7,49.5
+1501+,De La Salle University,Philippines,22.7,19.6,12.8,31.3,17.4,29.3
+1501+,University for Development Studies,Ghana,22.7,11.1,9.9,31.1,18.9,51.5
+1501+,Dicle University,Turkey,22.7,30.3,16.9,12.7,53,21.9
+1501+,Diponegoro University,Indonesia,22.7,27.1,15.4,19.1,42.9,35.1
+1501+,Dokkyo Medical University,Japan,22.7,26.7,10.3,22,37.9,19.1
+1501+,Doshisha University,Japan,22.7,17.9,10.9,11.1,30.7,35.5
+1501+,Dumlupinar University,Turkey,22.7,10.9,7.8,23.3,19.8,38.5
+1501+,Dunarea de Jos University of Galati,Romania,22.7,19.8,9.2,17.5,16.4,46.1
+1501+,EAFIT University,Colombia,22.7,17,11,16.5,16.5,44.7
+1501+,El Bosque University,Colombia,22.7,23.7,9.3,20,16.9,46.6
+1501+,Erzincan Binali Y?ld?r?m University,Turkey,22.7,12,8.7,37.6,16.6,23.7
+1501+,Escuela Politécnica Nacional,Ecuador,22.7,18.2,9.4,29,18.6,52.1
+1501+,Eski?ehir Osmangazi University,Turkey,22.7,21.5,16.6,20.5,19.2,27
+1501+,Universidade do Estado de Santa Catarina,Brazil,22.7,26.5,11,15.7,17,21.2
+1501+,Universidade Estadual do Norte Fluminense Darcy Ribeiro,Brazil,22.7,21.1,10.9,21.6,22.3,34.5
+1501+,Universidade Estadual de Maringá,Brazil,22.7,28.9,13.8,20.2,21.2,22
+1501+,Universidade Estadual do Oeste do Paraná (Unioeste),Brazil,22.7,27.6,9.8,7.4,17.2,20.4
+1501+,"Federal University of Agriculture, Abeokuta",Nigeria,22.7,15.6,8,24.5,17,31.4
+1501+,Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA),Brazil,22.7,21.2,12.8,25.1,21.2,26.1
+1501+,Federal University of Itajubá,Brazil,22.7,17.7,9.6,21.3,20.5,28
+1501+,Universidade Federal de Juiz de Fora,Brazil,22.7,18.5,12.1,27.5,18.6,29.8
+1501+,Universidade Federal do Maranhão (UFMA),Brazil,22.7,15.2,10.3,14.5,18.7,23.2
+1501+,Federal University of Mato Grosso do Sul,Brazil,22.7,21.4,11.7,22.3,33,28.9
+1501+,Universidade Federal de Ouro Preto (UFOP),Brazil,22.7,22.1,12,20.7,25.5,24.7
+1501+,Federal University of Pará,Brazil,22.7,22.6,11.7,21.3,21.7,26.8
+1501+,Federal Rural University of Pernambuco,Brazil,22.7,25,11,19.1,20,23.4
+1501+,Universidade Federal Rural do Semi-Arido,Brazil,22.7,19.1,9,5.7,16.6,18.3
+1501+,Universidade Federal de Sergipe,Brazil,22.7,17,10.4,36.4,18.1,28.1
+1501+,Fluminense Federal University,Brazil,22.7,21,13.1,27.8,22.5,30.8
+1501+,University of Fortaleza (UNIFOR),Brazil,22.7,14.3,9.4,33.6,16.9,37.8
+1501+,Université Frères Mentouri Constantine 1,Algeria,22.7,20.2,8.1,13.5,18.2,38.3
+1501+,Universidad de las Fuerzas Armadas – ESPE,Ecuador,22.7,15.9,8.6,11.6,16.3,40.6
+1501+,University of Fukui,Japan,22.7,26,12.4,16.4,37.9,26.5
+1501+,Fukuoka University,Japan,22.7,23.5,9.7,17.9,37.1,24.4
+1501+,Université de Gabès,Tunisia,22.7,20.8,9.4,28.9,16.7,42.8
+1501+,Gaziantep University,Turkey,22.7,15.6,10.8,33,20.1,39.5
+1501+,Georgian Technical University,Georgia,22.7,32.4,9.3,22.2,16.1,40.8
+1501+,German University in Cairo,Egypt,22.7,18.6,8.7,34,16.8,48.6
+1501+,Gheorghe Asachi Technical University of Ia?i,Romania,22.7,15.9,9.6,23.2,26.2,32.1
+1501+,GITAM University,India,22.7,19.6,9.3,20.8,19,25.2
+1501+,Goa University,India,22.7,32.1,12.4,23,18.6,24.1
+1501+,Grigore T. Popa University of Medicine and Pharmacy,Romania,22.7,22.5,10.1,18.9,22.5,42.1
+1501+,University of Guadalajara,Mexico,22.7,16.3,8.8,13.7,18,31.2
+1501+,University of Guanajuato,Mexico,22.7,16.2,9.3,13.4,20.5,36.4
+1501+,Gubkin Russian State University of Oil and Gas,Russian Federation,22.7,23.4,10.5,12.5,38.2,26.8
+1501+,Hanoi University of Science and Technology,Vietnam,22.7,15.7,15.7,27.4,43.4,39.7
+1501+,Hasanuddin University,Indonesia,22.7,18.8,11.2,25.8,27.5,19.8
+1501+,Université Hassan 1er,Morocco,22.7,24.9,10.3,19.2,16.6,23.6
+1501+,Hassiba Benbouali University of Chlef,Algeria,22.7,15.5,12.3,20.7,32.7,41.9
+1501+,University of Havana,Cuba,22.7,28.1,11.8,10.8,33.9,53
+1501+,Hellenic Open University,Greece,22.7,22.4,8.5,34.2,15.8,26.2
+1501+,Herzen State Pedagogical University of Russia,Russian Federation,22.7,20.2,11.5,9.8,17.6,39.2
+1501+,Hindustan Institute of Technology and Science,India,22.7,21.9,9.3,33.6,16.3,23.4
+1501+,Hitit University,Turkey,22.7,15.2,9.8,15.1,16.5,22.8
+1501+,Hosei University,Japan,22.7,15.2,11,34,23.9,38.3
+1501+,Hue University,Vietnam,22.7,13.3,8.7,16.4,16.2,49.2
+1501+,University of Hyogo,Japan,22.7,22.5,13.2,11.8,56.5,24.6
+1501+,Ibaraki University,Japan,22.7,18.9,12.5,12.2,36.9,27.4
+1501+,Universidad Industrial de Santander (UIS),Colombia,22.7,14.4,12.2,11.6,31.5,38
+1501+,Industrial University of Tyumen,Russian Federation,22.7,19.5,8.4,14,18.3,23.1
+1501+,Inönü University,Turkey,22.7,17.8,9.4,21.5,18,21.1
+1501+,Instituto Politécnico Nacional (IPN),Mexico,22.7,20.7,9.9,14.5,26.7,25.5
+1501+,International Hellenic University,Greece,22.7,9.6,9.4,36.5,20.1,30.7
+1501+,Irkutsk National Research Technical University,Russian Federation,22.7,21.7,9.6,23.4,24.2,33.8
+1501+,Irkutsk State University,Russian Federation,22.7,18.6,11.5,9.1,18.9,28.1
+1501+,Islamic University of Indonesia,Indonesia,22.7,15.8,9.7,12.5,17.3,35.5
+1501+,Istanbul Ayd?n University,Turkey,22.7,17,9.2,32.3,15.8,56.9
+1501+,Istanbul Medipol University,Turkey,22.7,14.6,10.6,33.3,20.6,44
+1501+,Ivane Javakhishvili Tbilisi State University,Georgia,22.7,15.9,11.3,22.2,18,46.7
+1501+,Ivanovo State University of Chemistry and Technology,Russian Federation,22.7,16.4,9.7,7,21.3,25
+1501+,Iwate University,Japan,22.7,22.3,11.2,12.6,38.5,28.2
+1501+,Izmir University of Economics,Turkey,22.7,16.7,11.2,36.7,26.2,32.5
+1501+,Jan Evangelista Purkyn? University,Czech Republic,22.7,16.1,13.6,15.3,18,38.2
+1501+,Jan Kochanowski University in Kielce,Poland,22.7,21.3,12.3,11.9,18.4,27.9
+1501+,Jean Moulin University – Lyon 3,France,22.7,14.3,13.6,13.6,27.5,60.8
+1501+,Jember University,Indonesia,22.7,11.1,9.1,23,18.1,21.3
+1501+,Jianghan University,China,22.7,16.7,9.2,27.6,33.6,22
+1501+,University of Jijel,Algeria,22.7,12.8,8.8,12.7,16,37.5
+1501+,Kanagawa University,Japan,22.7,17.6,8.3,11.4,24.4,38.7
+1501+,Kanazawa Medical University,Japan,22.7,26.6,10.2,17.3,29.7,21.2
+1501+,Kansai University,Japan,22.7,20.2,8.3,7.3,25.5,33.4
+1501+,University of Karachi,Pakistan,22.7,14.1,10.6,19.5,24.5,44.4
+1501+,Karadeniz Technical University,Turkey,22.7,19.3,10.1,27.8,22.4,22.7
+1501+,Université Kasdi Merbah Ouargla,Algeria,22.7,20,8.6,16,17.3,29.4
+1501+,Kasetsart University,Thailand,22.7,18.1,12.6,23.5,25.7,33.8
+1501+,Kastamonu University,Turkey,22.7,11.6,11.6,35.8,15.9,35.5
+1501+,Kazan National Research Technical University,Russian Federation,22.7,18.8,10.8,24.9,42.6,31.7
+1501+,Kazan National Research Technological University,Russian Federation,22.7,21.9,8.8,12.4,36.1,35.4
+1501+,Kazan State Medical University,Russian Federation,22.7,40.5,10.3,7.3,17.1,45.2
+1501+,University of Kelaniya,Sri Lanka,22.7,16.8,8.1,12,17.2,36.2
+1501+,Kemerovo State University,Russian Federation,22.7,14.9,10.1,8.6,18.2,24.3
+1501+,University of Kerbala,Iraq,22.7,18.3,7.7,10.7,15.8,22.6
+1501+,King Mongkut’s Institute of Technology Ladkrabang,Thailand,22.7,16.5,22.9,19.2,55,30.7
+1501+,Kirikkale University,Turkey,22.7,14.3,18.8,17.2,20.3,18.8
+1501+,K?r?ehir Ahi Evran University,Turkey,22.7,11.8,9.8,18.4,16.5,37.3
+1501+,Kocaeli University,Turkey,22.7,14.3,9.7,22.1,23.7,25.8
+1501+,Kochi University,Japan,22.7,24.7,12.3,21.8,41.5,26.8
+1501+,Kochi University of Technology,Japan,22.7,17.6,15.6,15.9,68.4,39.1
+1501+,Kogakuin University,Japan,22.7,16.8,11.3,26.3,32.7,25
+1501+,Kookmin University,South Korea,22.7,24.5,14.3,20.1,37,36.1
+1501+,Universiti Kuala Lumpur,Malaysia,22.7,23.6,9,24.3,25.5,43.7
+1501+,University of Kufa,Iraq,22.7,20,8.7,18,16.7,29.5
+1501+,Kwansei Gakuin University,Japan,22.7,15.7,9.5,15.4,20.7,40.9
+1501+,Kyoto Sangyo University,Japan,22.7,14.3,9.1,14.9,22.4,44.8
+1501+,Ladoke Akintola University of Technology,Nigeria,22.7,16.2,11.1,28,32,32.5
+1501+,University of Laghouat,Algeria,22.7,14,8.6,17.2,15.9,39.7
+1501+,Lagos State University,Nigeria,22.7,12.9,9.3,25.3,16,41.9
+1501+,Lahore College for Women University (LCWU),Pakistan,22.7,16.5,9.6,37.6,16.1,40.6
+1501+,University of Lampung,Indonesia,22.7,17.1,8.1,26.3,16.8,18.4
+1501+,Latvia University of Life Sciences and Technologies,Latvia,22.7,16.3,17.3,15.8,30.5,24.1
+1501+,University of Life Sciences in Lublin,Poland,22.7,20.2,11.7,30.3,19.1,20.7
+1501+,L.N. Gumilyov Eurasian National University,Kazakhstan,22.7,21.9,11.6,21.1,15.7,54.2
+1501+,Lobachevsky State University of Nizhni Novgorod,Russian Federation,22.7,31.8,13.4,14.7,32.7,38.5
+1501+,University of ?ód?,Poland,22.7,20.6,15.6,28.8,19.2,35.5
+1501+,Londrina State University,Brazil,22.7,30.3,16.1,19.6,34.8,23.9
+1501+,University of Los Lagos,Chile,22.7,15.9,14.1,25.8,16,49.5
+1501+,Lucian Blaga University of Sibiu,Romania,22.7,18.5,14,29.7,16.8,28.4
+1501+,University of Lucknow,India,22.7,28.4,10.3,26.5,18,23.1
+1501+,University of Macerata (UNIMC),Italy,22.7,16.2,18.1,24.6,15.6,37.3
+1501+,Mackenzie Presbyterian University,Brazil,22.7,17.4,10.8,12.4,20.7,28.7
+1501+,Mahasarakham University,Thailand,22.7,18.8,8.5,10.5,17,25
+1501+,Universiti Malaysia Kelantan,Malaysia,22.7,16.1,13,32.6,16.2,41.9
+1501+,Maria Curie-Sk?odowska University (UMCS),Poland,22.7,21.6,19.3,22.4,22.7,33.4
+1501+,Marmara University,Turkey,22.7,17,11.7,31.9,26.9,30.7
+1501+,University of Mascara,Algeria,22.7,13.7,7.5,31.4,16.1,43.2
+1501+,Matej Bel University,Slovakia,22.7,19.4,13.9,15.5,16.4,40.7
+1501+,Universidad Mayor,Chile,22.7,18.6,9.1,28.7,16,49.5
+1501+,Meiji University,Japan,22.7,16.3,12.1,13.5,40.8,31.4
+1501+,Meijo University,Japan,22.7,14.5,12.1,11.6,42.8,27.3
+1501+,Mendeleev University of Chemical Technology,Russian Federation,22.7,19.6,14.1,14.3,43.4,23.6
+1501+,M’Hamed Bougara University of Boumerdès,Algeria,22.7,15.2,8.1,21.3,16.3,32.7
+1501+,Middle Technical University,Iraq,22.7,9.4,7.5,23.7,16.9,26.8
+1501+,Ming Chuan University,Taiwan,22.7,13.4,12,22.6,51,38.4
+1501+,MIREA - Russian Technological University,Russian Federation,22.7,15,11.7,8.6,48.1,22.2
+1501+,University of Miskolc,Hungary,22.7,25.6,13.4,16.1,21.7,31.7
+1501+,University of Miyazaki,Japan,22.7,27.4,11.8,24.3,44,27.8
+1501+,University Mohamed Boudiaf of M’Sila,Algeria,22.7,18.1,9.2,10.3,17.9,34.3
+1501+,Université Mohammed Premier,Morocco,22.7,19.2,9.9,33.6,16.4,35.1
+1501+,University of Montenegro,Montenegro,22.7,13,12.6,23.8,25.4,41.8
+1501+,Moscow Polytechnic University,Russian Federation,22.7,17,10.3,11,19,32.3
+1501+,Moscow State University of Civil Engineering,Russian Federation,22.7,20.3,11.6,25.3,39.6,25
+1501+,University of Mosul,Iraq,22.7,14.8,9.9,16.3,28.8,20.1
+1501+,Moulay Ismail University,Morocco,22.7,9.6,9.1,40.9,16.5,25.9
+1501+,Université Mouloud Mammeri de Tizi-Ouzou,Algeria,22.7,16.8,7.6,6.6,17.2,45.4
+1501+,Muroran Institute of Technology,Japan,22.7,21.7,10.6,22.9,33.5,40
+1501+,Mustansiriyah University,Iraq,22.7,25.3,8.4,16,19.1,32.5
+1501+,University of Mysore,India,22.7,28.2,9,23.2,22.3,42.3
+1501+,Universidad Nacional del Litoral,Argentina,22.7,12,9.4,16.9,24.1,29.2
+1501+,Nara Women’s University,Japan,22.7,24.3,8.7,17.3,22.4,41.4
+1501+,Naresuan University,Thailand,22.7,15.8,10.5,14.8,28.3,33.1
+1501+,National Aviation University,Ukraine,22.7,22.2,8.7,35.2,16.4,23.8
+1501+,National Chiayi University,Taiwan,22.7,14.4,14.1,21,56.7,21.8
+1501+,National Chi Nan University,Taiwan,22.7,20,18.4,13.3,72.1,32.1
+1501+,National University of Córdoba,Argentina,22.7,18,10.3,20,19.4,37.1
+1501+,National University of Costa Rica,Costa Rica,22.7,21,10,11.8,21.9,45
+1501+,National Formosa University,Taiwan,22.7,14.1,11.7,8.4,38.7,18.5
+1501+,National Ilan University,Taiwan,22.7,13.9,14.6,23.1,37.1,32.3
+1501+,National University of Kaohsiung,Taiwan,22.7,13.3,16,12.1,28.9,30.4
+1501+,National University of Life and Environmental Sciences of Ukraine,Ukraine,22.7,20.3,8.9,30.1,25.3,25.7
+1501+,National University of Medical Sciences (NUMS),Pakistan,22.7,23.1,9.5,9.2,16.2,28.4
+1501+,National Research Saratov State University,Russian Federation,22.7,26.8,16.1,17.6,39.1,38
+1501+,National University of San Martín,Argentina,22.7,19.2,10.7,26.9,24.6,45.4
+1501+,National Taichung University of Science and Technology,Taiwan,22.7,18.2,11.5,27.5,24.1,20.6
+1501+,National Taipei University,Taiwan,22.7,20.6,15.1,22.4,23.3,30.5
+1501+,National United University,Taiwan,22.7,13.5,11.7,15.7,41.8,20.5
+1501+,NED University of Engineering and Technology,Pakistan,22.7,12.7,13.1,19.8,26.3,49.9
+1501+,Universitas Negeri Surabaya,Indonesia,22.7,13.5,9,27.2,15.6,35
+1501+,Nizhny Novgorod State Technical University,Russian Federation,22.7,17.6,9.7,10.7,39.6,23.6
+1501+,Nnamdi Azikiwe University,Nigeria,22.7,18.3,8.7,23.8,16,32.3
+1501+,North-Caucasus Federal University,Russian Federation,22.7,27.8,9,9.1,17.4,33.3
+1501+,"University of the North, Colombia",Colombia,22.7,18.3,13,26,24,52.8
+1501+,North-Eastern Federal University,Russian Federation,22.7,24.7,10.1,11.2,17.5,26.5
+1501+,Northern (Arctic) Federal University named after M.V. Lomonosov,Russian Federation,22.7,20.3,11.1,7.7,19.7,31.9
+1501+,North-Western State Medical University named after I.I. Mechnikov,Russian Federation,22.7,26,9.8,7.7,17.1,29.7
+1501+,Nosov Magnitogorsk State Technical University,Russian Federation,22.7,18,9.8,10,17.7,21
+1501+,Universidade Nove de Julho (Uninove),Brazil,22.7,17.9,8.1,9.6,17.5,26.9
+1501+,University of Novi Sad,Serbia,22.7,19,11.7,29.1,36.4,33.6
+1501+,Novosibirsk State Technical University,Russian Federation,22.7,20.2,12.4,12.8,23.2,36.1
+1501+,Nueva Granada Military University,Colombia,22.7,21.5,8,5.3,15.7,27.7
+1501+,Obafemi Awolowo University,Nigeria,22.7,15.3,12.3,32,19,37.9
+1501+,Ogarev Mordovia State University,Russian Federation,22.7,20.2,9.2,5.8,17.2,37.2
+1501+,Oita University,Japan,22.7,25.8,11,20,35.3,22.9
+1501+,Ni?de Ömer Halisdemir University,Turkey,22.7,13.5,9.4,24.5,19.2,27.7
+1501+,Omsk State Technical University,Russian Federation,22.7,18.4,8.4,7.3,20,31.1
+1501+,Ondokuz Mayis University,Turkey,22.7,19,11.4,22.2,26.8,36.1
+1501+,Oran 1 University,Algeria,22.7,30.7,9,13.2,17.8,39.7
+1501+,Ordu University,Turkey,22.7,14,10.3,19.6,16.7,17.9
+1501+,Osaka Institute of Technology,Japan,22.7,14.8,15.3,20.6,37.3,26.2
+1501+,Osaka Medical and Pharmaceutical University,Japan,22.7,27.7,12.6,23.7,44.4,18.7
+1501+,University of Ostrava,Czech Republic,22.7,19.5,16.3,23.2,18.2,46.2
+1501+,Ovidius University of Constan?a,Romania,22.7,19.4,9.2,9.6,15.9,27
+1501+,Universitas Padjadjaran,Indonesia,22.7,28.5,12.2,19.2,23.6,34.3
+1501+,Pamukkale University,Turkey,22.7,15.2,9.5,16.7,18.5,20.4
+1501+,Universidad Panamericana (UP),Mexico,22.7,23.9,9.1,12,16,43.9
+1501+,University of Pannonia,Hungary,22.7,22.2,15.6,21.5,45.5,37.9
+1501+,University of Pardubice,Czech Republic,22.7,21.1,17.7,17.7,30,39.8
+1501+,Pavlov First Saint Petersburg State Medical University,Russian Federation,22.7,29.4,10.7,12.5,25.3,34.4
+1501+,Payame Noor University,Iran,22.7,12.9,9.1,26.1,19.6,21.3
+1501+,Pedagogical and Technological University of Colombia,Colombia,22.7,19.3,7.7,5.2,16,35.5
+1501+,University of the Peloponnese,Greece,22.7,16.1,12.6,28.9,29,27.8
+1501+,Universitas Pendidikan Indonesia,Indonesia,22.7,19.8,12.1,33,16.3,23.9
+1501+,Penza State University,Russian Federation,22.7,14.3,8.7,7.8,16.3,32.8
+1501+,Perm National Research Polytechnic University,Russian Federation,22.7,23.7,13.4,9.9,50,28.4
+1501+,Perm State University,Russian Federation,22.7,21.2,12.5,8.2,24.6,23.7
+1501+,University of Pernambuco,Brazil,22.7,16,10.3,15.2,18.3,26.4
+1501+,Universidad Peruana de Ciencias Aplicadas (UPC),Peru,22.7,13.5,8.7,10.1,15.6,26.5
+1501+,University of Phayao,Thailand,22.7,14.9,9.4,39.3,16.3,25.9
+1501+,Universidad Politécnica Salesiana,Ecuador,22.7,11.6,9.5,13.6,15.8,42
+1501+,Polytechnic University of Bucharest,Romania,22.7,19.8,11.4,28.8,29.7,24.2
+1501+,Polytechnic University of Timi?oara,Romania,22.7,16.7,10.1,33.9,30.9,22.6
+1501+,Pontifical Catholic University of Minas Gerais,Brazil,22.7,24.4,10.7,14.6,20.5,24.7
+1501+,Universidad Pontificia Bolivariana (UPB),Colombia,22.7,24.2,10.6,10.2,26.8,37.2
+1501+,Pontificia Universidad Católica del Ecuador,Ecuador,22.7,12.2,8.7,15.3,15.9,63.9
+1501+,University of Port Harcourt,Nigeria,22.7,23.1,14.4,15.4,21.8,32
+1501+,Prague University of Economics and Business,Czech Republic,22.7,15.5,14.9,27.6,16.8,47.9
+1501+,University of Primorska,Slovenia,22.7,16.4,14.9,26.5,21.9,61.8
+1501+,University of Prishtina,Kosovo,22.7,11.8,10.7,13.7,18.4,38.9
+1501+,Privolzhsky Research Medical University,Russian Federation,22.7,23.9,9.9,5.2,20,40.3
+1501+,PSG College of Technology,India,22.7,22.9,8.9,29.4,20.7,17.6
+1501+,Recep Tayyip Erdo?an University,Turkey,22.7,16.3,9.5,23.9,16.6,22.3
+1501+,REVA University,India,22.7,16,7.9,37.9,20.7,19.8
+1501+,Riga Stradi?š University,Latvia,22.7,17.3,13.8,26.3,23.2,62.7
+1501+,University of Rijeka,Croatia,22.7,18.7,16.7,29.9,25.8,29.2
+1501+,Russian Presidential Academy of National Economy and Public Administration,Russian Federation,22.7,26.8,17.1,18.1,19.4,23.2
+1501+,Russian State University for the Humanities,Russian Federation,22.7,13.5,13.4,16.8,15.7,22.1
+1501+,R V College of Engineering,India,22.7,24.6,9.4,29.3,17.8,16.1
+1501+,Ryukoku University,Japan,22.7,15.5,10.6,12,23.2,31.2
+1501+,University of the Ryukyus,Japan,22.7,25.4,14.1,22.6,37.2,37.6
+1501+,Rzeszów University of Technology,Poland,22.7,20.6,9.1,29.1,22.9,23.1
+1501+,University of La Sabana,Colombia,22.7,17.4,10.9,19.7,16.6,44.3
+1501+,Saga University,Japan,22.7,26,14.5,21.8,59,25.4
+1501+,Saitama University,Japan,22.7,22.9,15.5,19.4,41.2,41.5
+1501+,Samara State Technical University,Russian Federation,22.7,16.9,10.6,10.9,32.3,22.1
+1501+,San Sebastián University,Chile,22.7,14.2,9.2,12.1,16.1,43.2
+1501+,"University of Santiago, Chile (USACH)",Chile,22.7,15.8,15.4,29.8,27.7,45.9
+1501+,University of Santo Tomas,Philippines,22.7,19.6,9.5,25.8,20.7,67
+1501+,University of Sarajevo,Bosnia and Herzegovina,22.7,16.4,10.8,18.6,23.6,27.7
+1501+,Saratov State Medical University,Russian Federation,22.7,25.6,10.7,3.7,16.2,31.2
+1501+,Satbayev University,Kazakhstan,22.7,22.7,10.8,8.5,23.2,68.7
+1501+,University of Sciences and Technology Houari Boumediene,Algeria,22.7,17.8,7.4,12.8,18.2,35.3
+1501+,University of Science and Technology of Oran Mohamed-Boudiaf,Algeria,22.7,24.6,7,9,17.3,32.4
+1501+,SGH Warsaw School of Economics,Poland,22.7,24.8,15.2,24.1,16.1,36.7
+1501+,Shahed University,Iran,22.7,30.3,14.8,22.5,26.6,18.7
+1501+,Shimane University,Japan,22.7,25.7,13,19.3,37.1,28.7
+1501+,Shizuoka University,Japan,22.7,22.6,16,19.5,58.3,37
+1501+,University of Shizuoka,Japan,22.7,25.9,12.9,15.2,58.9,26.5
+1501+,Reshetnev Siberian State University of Science and Technology,Russian Federation,22.7,12.3,8.2,15.8,18.5,20.4
+1501+,Siberian State Medical University,Russian Federation,22.7,22.1,9.6,3.4,17.1,39.8
+1501+,Sichuan University of Science and Engineering,China,22.7,12,10.4,23.8,26.4,20.3
+1501+,University of Silesia in Katowice,Poland,22.7,23.2,13.5,23.4,21.8,29.7
+1501+,Silpakorn University,Thailand,22.7,19.3,13.6,20.7,38,29
+1501+,University of Sistan and Baluchestan,Iran,22.7,18.5,11.4,26.4,22.9,22.7
+1501+,Sivas Cumhuriyet University,Turkey,22.7,14.9,9.5,26.1,18.5,29.7
+1501+,Slovak University of Technology in Bratislava,Slovakia,22.7,27.6,12,22.3,28.7,32.8
+1501+,Sofia University,Bulgaria,22.7,28.3,12.2,23.4,21.6,39.4
+1501+,University of Sonora,Mexico,22.7,13.6,8.4,13.6,32.3,34.9
+1501+,Sophia University,Japan,22.7,22.6,11,13.3,25.4,50.9
+1501+,Southwest State University,Russian Federation,22.7,20.8,11.2,11.4,33.7,32.1
+1501+,University of Sri Jayewardenepura,Sri Lanka,22.7,13,9,35.7,18.4,35.8
+1501+,Srinakharinwirot University,Thailand,22.7,19.4,9.7,15.8,18.8,22.3
+1501+,Universitas Sriwijaya,Indonesia,22.7,12.4,9,18.1,16.2,19.9
+1501+,Saints Cyril and Methodius University in Skopje,North Macedonia,22.7,19.2,9.3,25.9,23.2,46
+1501+,State University of Bahia,Brazil,22.7,19.3,8.6,4.1,16.2,20
+1501+,State University of Malang,Indonesia,22.7,18.5,11.1,30,15.8,31.4
+1501+,State University of Ponta Grossa,Brazil,22.7,24.9,11.3,18.1,18.1,25.9
+1501+,State University of Santa Cruz,Brazil,22.7,22.9,9.3,14.1,17.4,34.9
+1501+,Süleyman Demirel University,Turkey,22.7,23.5,9.8,29.9,18.6,25.6
+1501+,Université Sultan Moulay Slimane,Morocco,22.7,11.8,9.8,29.9,21.1,21.5
+1501+,Universitas Sumatera Utara,Indonesia,22.7,16.5,10.5,26.6,17.1,27.6
+1501+,Széchenyi István University,Hungary,22.7,19.1,11.7,23.2,17.4,29.6
+1501+,Tamil Nadu Agricultural University,India,22.7,29.5,11,14,26.7,17
+1501+,Technical University of Liberec,Czech Republic,22.7,21,18.9,18.2,34.5,44.2
+1501+,Technical University of Loja,Ecuador,22.7,10.6,8.4,11.2,15.8,48.2
+1501+,Technical University of Sofia,Bulgaria,22.7,23.2,11.1,24.2,25,26.8
+1501+,Technological University of Pereira,Colombia,22.7,15,4.6,14.8,19.2,32.4
+1501+,Universidade Tecnológica Federal do Paraná (UTFPR),Brazil,22.7,16.7,10.2,22.3,42.3,25.3
+1501+,Teikyo University,Japan,22.7,17.4,12.7,33.9,37.2,26.7
+1501+,Universiti Teknologi MARA,Malaysia,22.7,20.2,14.7,28.6,23.9,24.2
+1501+,Telkom University,Indonesia,22.7,15,11,28.5,21.3,38.1
+1501+,Temuco Catholic University,Chile,22.7,19.8,10.5,12.7,23.9,43.1
+1501+,Tokat Gaziosmanpa?a University,Turkey,22.7,17.1,8.6,33.7,17.5,32.1
+1501+,Tokyo University of Agriculture,Japan,22.7,18.1,9.1,18.9,29.8,23.1
+1501+,Tokyo City University,Japan,22.7,17.6,12,13.9,43.6,28.6
+1501+,Tokyo Denki University,Japan,22.7,14.9,9,12.1,56.4,21.9
+1501+,Tomsk State University of Control Systems and Radioelectronics,Russian Federation,22.7,22.2,11,18.9,40,38.5
+1501+,Tottori University,Japan,22.7,28.8,13.4,21.3,46.7,26.6
+1501+,Toyama Prefectural University,Japan,22.7,25,9.5,9.5,27,21.8
+1501+,Toyo University,Japan,22.7,14.4,9.2,8.7,19.6,36
+1501+,Tula State University,Russian Federation,22.7,11.6,9,5.1,17.6,19
+1501+,Ufa University of Science and Technology,Russian Federation,22.7,19.3,10.2,8.1,25.6,22.7
+1501+,Ufa State Petroleum Technological University,Russian Federation,22.7,23,8,17.1,16.7,29.7
+1501+,Universiti Malaysia Sabah (UMS),Malaysia,22.7,17.8,14.3,25,21.8,41.8
+1501+,U?ak University,Turkey,22.7,11.4,10.4,14.3,19,32.1
+1501+,Utsunomiya University,Japan,22.7,20.4,12.6,9.1,27.7,29.1
+1501+,Uzhhorod National University,Ukraine,22.7,22.2,8.9,4.7,16.2,45.2
+1501+,Universidad del Valle,Colombia,22.7,23.2,8.7,12.2,17.9,40.6
+1501+,University of Valparaíso,Chile,22.7,15.4,12.2,22,18.7,47.8
+1501+,Van Yüzüncü Yil University,Turkey,22.7,21.7,22.8,19.3,45.4,21.4
+1501+,Instituto Politécnico de Viana do Castelo,Portugal,22.7,13,9.6,35.4,18.7,44.1
+1501+,Vietnam National University (Ho Chi Minh City),Vietnam,22.7,14.6,11.2,26.1,26.2,36.8
+1501+,"Vignan’s Foundation for Science, Technology and Research",India,22.7,22.2,7.6,36,16.7,21.1
+1501+,V.I. Vernadsky Crimean Federal University (Vernadsky CFU),Ukraine,22.7,19,9.9,7.6,16.6,27.2
+1501+,Volgograd State Technical University,Russian Federation,22.7,17.8,9.3,22.9,18.5,27.9
+1501+,Voronezh State University,Russian Federation,22.7,22.7,10.7,7.7,17.4,37
+1501+,Voronezh State Technical University,Russian Federation,22.7,20.5,8.5,29.8,18.8,23.9
+1501+,University of Warmia and Mazury in Olsztyn,Poland,22.7,16.9,13.5,35.3,21.8,23.3
+1501+,University of West Attica,Greece,22.7,10,9.7,34.7,22.8,24.9
+1501+,Yanshan University,China,22.7,19.5,11.7,34.5,36,20.4
+1501+,Yeditepe University,Turkey,22.7,22,12.4,17.6,59.3,38.8
+1501+,Yerevan State University,Armenia,22.7,23.9,8.6,26.8,16.4,38.1
+1501+,Yogyakarta State University,Indonesia,22.7,16.9,10.5,28.8,23.1,30.6
+1501+,Zonguldak Bülent Ecevit University,Turkey,22.7,12.5,11.2,21.6,48.1,26.4
+Reporter,Abbes Laghrour University of Khenchala,Algeria,,,,,,
+Reporter,Abbottabad University of Science and Technology,Pakistan,,,,,,
+Reporter,Abdelhafid Boussouf University Center of Mila,Algeria,,,,,,
+Reporter,Abdullah Gül University,Turkey,,,,,,
+Reporter,Abertay University,United Kingdom,,,,,,
+Reporter,Abia State University,Nigeria,,,,,,
+Reporter,Abrar University,Somalia,,,,,,
+Reporter,Ada Kent University,Northern Cyprus,,,,,,
+Reporter,Adventist University of Central Africa,Rwanda,,,,,,
+Reporter,AECC University College,United Kingdom,,,,,,
+Reporter,University Center of Aflou,Algeria,,,,,,
+Reporter,University of Agronomic Sciences and Veterinary Medicine of Bucharest,Romania,,,,,,
+Reporter,Universitas Ahmad Dahlan,Indonesia,,,,,,
+Reporter,University of Ahmed Draia,Algeria,,,,,,
+Reporter,Aichi Prefectural University,Japan,,,,,,
+Reporter,Université d’Ain Témouchent,Algeria,,,,,,
+Reporter,Ajeenkya DY Patil University,India,,,,,,
+Reporter,Ajman University,United Arab Emirates,,,,,,
+Reporter,Akhmet Yassawi University,Kazakhstan,,,,,,
+Reporter,Akita Prefectural University,Japan,,,,,,
+Reporter,Akli Mohand Oulhadj Bouira University,Algeria,,,,,,
+Reporter,Akwa Ibom State University,Nigeria,,,,,,
+Reporter,Al-Ahliyya Amman University,Jordan,,,,,,
+Reporter,Al Ain University,United Arab Emirates,,,,,,
+Reporter,Al Akhawayn University,Morocco,,,,,,
+Reporter,Al al-Bayt University,Jordan,,,,,,
+Reporter,Al-Ayen University,Iraq,,,,,,
+Reporter,Al-Baha University,Saudi Arabia,,,,,,
+Reporter,Al-Bayan University,Iraq,,,,,,
+Reporter,Albaydha University,Yemen,,,,,,
+Reporter,Al-Esraa University College,Iraq,,,,,,
+Reporter,Alex Ekwueme Federal University Ndufu-Alike,Nigeria,,,,,,
+Reporter,Al-Farabi University College,Iraq,,,,,,
+Reporter,Al-Furat Al-Awsat Technical University,Iraq,,,,,,
+Reporter,University of Algiers 1,Algeria,,,,,,
+Reporter,Algiers 2 University,Algeria,,,,,,
+Reporter,University of Algiers 3,Algeria,,,,,,
+Reporter,University of Al-Hamdaniya,Iraq,,,,,,
+Reporter,Al-Hussein Bin Talal University,Jordan,,,,,,
+Reporter,Alisher Navo’i Tashkent State University of Uzbek Language and Literature,Uzbekistan,,,,,,
+Reporter,Al-Janad University for Science and Technology,Yemen,,,,,,
+Reporter,University of Alkafeel,Iraq,,,,,,
+Reporter,Al-Karkh University of Science,Iraq,,,,,,
+Reporter,Al-Kitab University,Iraq,,,,,,
+Reporter,AlMaarefa University,Saudi Arabia,,,,,,
+Reporter,Al-Maarif University College,Iraq,,,,,,
+Reporter,Al-Manara College for Medical Sciences,Iraq,,,,,,
+Reporter,Almaty Technological University,Kazakhstan,,,,,,
+Reporter,Almazov National Medical Research Centre,Russian Federation,,,,,,
+Reporter,Al-Mustaqbal University,Iraq,,,,,,
+Reporter,Al-Muthanna University,Iraq,,,,,,
+Reporter,Al-Nisour University College,Iraq,,,,,,
+Reporter,Al-Noor University College,Iraq,,,,,,
+Reporter,Al-Qalam University College,Iraq,,,,,,
+Reporter,Al-Qasim Green University,Iraq,,,,,,
+Reporter,Al-Quds University,Palestine,,,,,,
+Reporter,Al-Rafidain University College,Iraq,,,,,,
+Reporter,Al Safwa University College,Iraq,,,,,,
+Reporter,Alt?nba? University,Turkey,,,,,,
+Reporter,Altoosi University College,Iraq,,,,,,
+Reporter,Al Turath University,Iraq,,,,,,
+Reporter,Al-Zaytoonah University of Jordan,Jordan,,,,,,
+Reporter,American University in the Emirates (AUE),United Arab Emirates,,,,,,
+Reporter,American University in Dubai,United Arab Emirates,,,,,,
+Reporter,American International University – Bangladesh,Bangladesh,,,,,,
+Reporter,American University of Madaba,Jordan,,,,,,
+Reporter,American University of the Middle East,Kuwait,,,,,,
+Reporter,American University of Ras Al Khaimah,United Arab Emirates,,,,,,
+Reporter,"Amity University, Chhattisgarh",India,,,,,,
+Reporter,"Amity University, Gurugram",India,,,,,,
+Reporter,"Amity University, Gwalior",India,,,,,,
+Reporter,"Amity University Rajasthan, Jaipur",India,,,,,,
+Reporter,"Amity University, Mumbai",India,,,,,,
+Reporter,Anáhuac University,Mexico,,,,,,
+Reporter,Andijan Machine-Building Institute,Uzbekistan,,,,,,
+Reporter,Andijan State University,Uzbekistan,,,,,,
+Reporter,Andijan State Medical Institute,Uzbekistan,,,,,,
+Reporter,Andijan State Pedagogical Institute (ASPI),Uzbekistan,,,,,,
+Reporter,Andrés Bello Catholic University (UCAB),Venezuela,,,,,,
+Reporter,Anglo-American University,Czech Republic,,,,,,
+Reporter,Ankara Science University,Turkey,,,,,,
+Reporter,Applied Science Private University,Jordan,,,,,,
+Reporter,Arab American University,Palestine,,,,,,
+Reporter,Arabian Gulf University,Bahrain,,,,,,
+Reporter,Arab Open University,Kuwait,,,,,,
+Reporter,Ark?n University of Creative Arts and Design (ARUCAD),Northern Cyprus,,,,,,
+Reporter,Armenian State Pedagogical University,Armenia,,,,,,
+Reporter,Arts University Bournemouth,United Kingdom,,,,,,
+Reporter,University of the Arts London,United Kingdom,,,,,,
+Reporter,Arts University Plymouth,United Kingdom,,,,,,
+Reporter,Arturo Prat University,Chile,,,,,,
+Reporter,Asahi University,Japan,,,,,,
+Reporter,Asfendiyarov Kazakh National Medical University,Kazakhstan,,,,,,
+Reporter,Ashikaga University,Japan,,,,,,
+Reporter,Ashur University College,Iraq,,,,,,
+Reporter,Atyrau University,Kazakhstan,,,,,,
+Reporter,Audencia,France,,,,,,
+Reporter,Austral University,Argentina,,,,,,
+Reporter,Autonomous University of Chiapas,Mexico,,,,,,
+Reporter,Azerbaijan University of Architecture and Construction,Azerbaijan,,,,,,
+Reporter,Azerbaijan State University of Economics,Azerbaijan,,,,,,
+Reporter,Babcock University,Nigeria,,,,,,
+Reporter,"Bacha Khan University, Charsadda",Pakistan,,,,,,
+Reporter,Badr University in Cairo (BUC),Egypt,,,,,,
+Reporter,Bakrie University,Indonesia,,,,,,
+Reporter,University of Balochistan,Pakistan,,,,,,
+Reporter,"Balochistan University of Information Technology, Engineering and Management Sciences (BUITEMS)",Pakistan,,,,,,
+Reporter,"University of Baltistan, Skardu",Pakistan,,,,,,
+Reporter,Bandirma Onyedi Eylül University,Turkey,,,,,,
+Reporter,Bangabandhu Sheikh Mujibur Rahman Agricultural University,Bangladesh,,,,,,
+Reporter,Barawa International University,Somalia,,,,,,
+Reporter,Bashkir State Medical University,Russian Federation,,,,,,
+Reporter,Bath Spa University,United Kingdom,,,,,,
+Reporter,University of Batna 1,Algeria,,,,,,
+Reporter,Bayburt University,Turkey,,,,,,
+Reporter,Baze University,Nigeria,,,,,,
+Reporter,Belarusian State University of Informatics and Radioelectronics,Belarus,,,,,,
+Reporter,Belarusian State Medical University,Belarus,,,,,,
+Reporter,Bells University of Technology,Nigeria,,,,,,
+Reporter,University of Benghazi,Libya,,,,,,
+Reporter,Benson Idahosa University,Nigeria,,,,,,
+Reporter,Beykent University,Turkey,,,,,,
+Reporter,Bilad Alrafidain University College,Iraq,,,,,,
+Reporter,Biruni University,Turkey,,,,,,
+Reporter,University of Bisha,Saudi Arabia,,,,,,
+Reporter,Bishop Grosseteste University,United Kingdom,,,,,,
+Reporter,University of Bogotá Jorge Tadeo Lozano,Colombia,,,,,,
+Reporter,Bohdan Khmelnytsky National University of Cherkasy,Ukraine,,,,,,
+Reporter,University of Bolton,United Kingdom,,,,,,
+Reporter,The British University in Dubai,United Arab Emirates,,,,,,
+Reporter,Buckinghamshire New University,United Kingdom,,,,,,
+Reporter,Bukhara Engineering Technological Institute,Uzbekistan,,,,,,
+Reporter,Bukhara State University,Uzbekistan,,,,,,
+Reporter,Bukhara State Medical Institute,Uzbekistan,,,,,,
+Reporter,Bukkyo University,Japan,,,,,,
+Reporter,Buriram Rajabhat University,Thailand,,,,,,
+Reporter,Ça? University,Turkey,,,,,,
+Reporter,Universidad Camilo José Cela,Spain,,,,,,
+Reporter,Canadian International College (CIC) – Cairo,Egypt,,,,,,
+Reporter,Universidad de Carabobo,Venezuela,,,,,,
+Reporter,Catholic University of Ávila,Spain,,,,,,
+Reporter,Catholic University in Erbil,Iraq,,,,,,
+Reporter,Universidad Católica de Colombia,Colombia,,,,,,
+Reporter,Universidad Católica de Cuenca,Ecuador,,,,,,
+Reporter,Universidad Católica San Pablo,Peru,,,,,,
+Reporter,Caucasus International University,Georgia,,,,,,
+Reporter,CBS International Business School,Germany,,,,,,
+Reporter,Cebu Technological University,Philippines,,,,,,
+Reporter,CECOS University of IT and Emerging Sciences,Pakistan,,,,,,
+Reporter,University of Celaya,Mexico,,,,,,
+Reporter,University Center Ali Kafi Tindouf,Algeria,,,,,,
+Reporter,University Center of Illizi,Algeria,,,,,,
+Reporter,University Center Morsli Abdellah of Tipaza,Algeria,,,,,,
+Reporter,University Center of Barika,Algeria,,,,,,
+Reporter,Central European University,Austria,,,,,,
+Reporter,Central Luzon State University,Philippines,,,,,,
+Reporter,University of Central Punjab,Pakistan,,,,,,
+Reporter,Centro de Estudios para la Calidad Educativa y la Investigación Científica (CECEIC),Mexico,,,,,,
+Reporter,Centro Universitário Cesuca,Brazil,,,,,,
+Reporter,Centurion University of Technology and Management,India,,,,,,
+Reporter,Universidad César Vallejo,Peru,,,,,,
+Reporter,CETYS Universidad,Mexico,,,,,,
+Reporter,Charisma University,Turks and Caicos Islands,,,,,,
+Reporter,Chernihiv Polytechnic National University,Ukraine,,,,,,
+Reporter,Chettinad Academy of Research and Education,India,,,,,,
+Reporter,University of Chichester,United Kingdom,,,,,,
+Reporter,Chinhoyi University of Technology,Zimbabwe,,,,,,
+Reporter,Chitkara University,India,,,,,,
+Reporter,Universidad Científica del Sur,Peru,,,,,,
+Reporter,Cihan University – Erbil,Iraq,,,,,,
+Reporter,Cihan University Sulaimaniya,Iraq,,,,,,
+Reporter,"City University of Science and Information Technology, Peshawar",Pakistan,,,,,,
+Reporter,Civil Aviation Academy,Kazakhstan,,,,,,
+Reporter,University of Civil Protection,Belarus,,,,,,
+Reporter,Conservatoire for Dance and Drama,United Kingdom,,,,,,
+Reporter,University of Constantine 3,Algeria,,,,,,
+Reporter,Courtauld Institute of Art,United Kingdom,,,,,,
+Reporter,Cranfield University,United Kingdom,,,,,,
+Reporter,University for the Creative Arts,United Kingdom,,,,,,
+Reporter,University of Cumbria,United Kingdom,,,,,,
+Reporter,University of Cyberjaya,Malaysia,,,,,,
+Reporter,Cyprus Health and Social Sciences University,Northern Cyprus,,,,,,
+Reporter,Daffodil International University (DIU),Bangladesh,,,,,,
+Reporter,Daneshpajoohan Pishro Higher Education Institute,Iran,,,,,,
+Reporter,Dawood University of Engineering and Technology,Pakistan,,,,,,
+Reporter,Debre Tabor University,Ethiopia,,,,,,
+Reporter,Delta University for Science and Technology,Egypt,,,,,,
+Reporter,"Delta State University, Abraka",Nigeria,,,,,,
+Reporter,Denau Institute of Entrepreneurship and Pedagogy,Uzbekistan,,,,,,
+Reporter,Dhaka International University,Bangladesh,,,,,,
+Reporter,DHA Suffa University,Pakistan,,,,,,
+Reporter,Dhofar University,Oman,,,,,,
+Reporter,University of Djilali Bounaama Khemis Miliana,Algeria,,,,,,
+Reporter,Don Bosco University,India,,,,,,
+Reporter,Donetsk National University of Economics and Trade named after Mykhailo Tuhan-Baranovsky (DonNUET),Ukraine,,,,,,
+Reporter,Dovletmammet Azadi Turkmen National Institute of World Languages,Turkmenistan,,,,,,
+Reporter,"Dr D. Y. Patil Vidyapeeth, Pune",India,,,,,,
+Reporter,Dr. M.G.R. Educational and Research Institute,India,,,,,,
+Reporter,D. Serikbayev East Kazakhstan Technical University,Kazakhstan,,,,,,
+Reporter,University of Dubai,United Arab Emirates,,,,,,
+Reporter,University of Duhok,Iraq,,,,,,
+Reporter,Dulaty University,Kazakhstan,,,,,,
+Reporter,EAE Business School,Spain,,,,,,
+Reporter,EAN University,Colombia,,,,,,
+Reporter,University of Eastern Philippines,Philippines,,,,,,
+Reporter,École Nationale Polytechnique,Algeria,,,,,,
+Reporter,École Nationale Polytechnique d’Oran Maurice Audin,Algeria,,,,,,
+Reporter,École Nationale Supérieure Agronomique,Algeria,,,,,,
+Reporter,"École Nationale Supérieure Agronomique, Algiers",Algeria,,,,,,
+Reporter,École Nationale Supérieure de Biotechnologie Taoufik Khaznadar (ENSB),Algeria,,,,,,
+Reporter,École Nationale Supérieure d’Informatique (ESI),Algeria,,,,,,
+Reporter,École Nationale Supérieure de Management Koléa,Algeria,,,,,,
+Reporter,École Nationale Supérieure des Sciences de la Mer et de l’Aménagement du Littoral (ENSSMAL),Algeria,,,,,,
+Reporter,École Nationale Supérieure Vétérinaire d’Alger,Algeria,,,,,,
+Reporter,École National Polytechnique de Constantine,Algeria,,,,,,
+Reporter,École Normale Supérieure de Béchar,Algeria,,,,,,
+Reporter,École Normale Supérieure de Bouzaréah,Algeria,,,,,,
+Reporter,École Normale Supérieure El Katiba Assia Djebar Constantine (ENSC),Algeria,,,,,,
+Reporter,École Normale Supérieure de Kouba,Algeria,,,,,,
+Reporter,École Normale Supérieure de Laghouat,Algeria,,,,,,
+Reporter,École Normale Supérieure d’Oran,Algeria,,,,,,
+Reporter,École Polytechnique d’Architecture et d’Urbanisme,Algeria,,,,,,
+Reporter,École Supérieure de Comptabilité et de Finances de Constantine,Algeria,,,,,,
+Reporter,École Supérieure en Informatique 8 Mai 1945 de Sidi-Bel-Abbès,Algeria,,,,,,
+Reporter,École Supérieure en Sciences Appliquées de Tlemcen,Algeria,,,,,,
+Reporter,École Supérieure en Sciences Biologiques d’Oran (ESSBO),Algeria,,,,,,
+Reporter,École Supérieure en Sciences et Technologies de l’Informatique et du Numérique (ESTIN),Algeria,,,,,,
+Reporter,University of Economics – Varna,Bulgaria,,,,,,
+Reporter,Edo State University Uzairue,Nigeria,,,,,,
+Reporter,Edwin Clark University,Nigeria,,,,,,
+Reporter,Effat University,Saudi Arabia,,,,,,
+Reporter,Egerton University,Kenya,,,,,,
+Reporter,Egyptian Russian University,Egypt,,,,,,
+Reporter,Elizade University,Nigeria,,,,,,
+Reporter,University of El Oued,Algeria,,,,,,
+Reporter,Emir Abdelkader University of Islamic Sciences,Algeria,,,,,,
+Reporter,"Institute of Engineering, Technical and Transport Communications of Turkmenistan",Turkmenistan,,,,,,
+Reporter,Escola Superior de Enfermagem do Porto (ESEP),Portugal,,,,,,
+Reporter,Escuela Superior Politécnica de Chimborazo,Ecuador,,,,,,
+Reporter,ESIC,Spain,,,,,,
+Reporter,Eski?ehir Technical University,Turkey,,,,,,
+Reporter,Universidade Estadual do Maranhão,Brazil,,,,,,
+Reporter,Universidade Estadual do Norte do Paraná (UENP),Brazil,,,,,,
+Reporter,European University,Georgia,,,,,,
+Reporter,European University of Armenia,Armenia,,,,,,
+Reporter,European University Cyprus,Cyprus,,,,,,
+Reporter,European University of Tunis,Tunisia,,,,,,
+Reporter,"Evangel University, Akaeze",Nigeria,,,,,,
+Reporter,Falmouth University,United Kingdom,,,,,,
+Reporter,Federal University of Kashere,Nigeria,,,,,,
+Reporter,Federal University of Latin American Integration (UNILA),Brazil,,,,,,
+Reporter,Federal University of Paraí­ba (UFPB),Brazil,,,,,,
+Reporter,"Federal University of Petroleum Resources, Effurun",Nigeria,,,,,,
+Reporter,"Federal University of Technology, Minna",Nigeria,,,,,,
+Reporter,"Federal University of Technology, Owerri",Nigeria,,,,,,
+Reporter,Fergana Medical Institute of Public Health,Uzbekistan,,,,,,
+Reporter,Fergana Polytechnic Institute,Uzbekistan,,,,,,
+Reporter,Fergana State University,Uzbekistan,,,,,,
+Reporter,Finis Terrae University,Chile,,,,,,
+Reporter,Forman Christian College,Pakistan,,,,,,
+Reporter,Fountain University,Nigeria,,,,,,
+Reporter,University of Franca,Brazil,,,,,,
+Reporter,Francisk Skorina Gomel State University,Belarus,,,,,,
+Reporter,Fukushima University,Japan,,,,,,
+Reporter,Future University in Egypt,Egypt,,,,,,
+Reporter,University of Gafsa,Tunisia,,,,,,
+Reporter,Gangadhar Meher University,India,,,,,,
+Reporter,University of Garmian,Iraq,,,,,,
+Reporter,General Sir John Kotelawala Defence University,Sri Lanka,,,,,,
+Reporter,University of Ghardaia,Algeria,,,,,,
+Reporter,Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,Pakistan,,,,,,
+Reporter,Glasgow School of Art,United Kingdom,,,,,,
+Reporter,Gomel State Medical University,Belarus,,,,,,
+Reporter,The Government Sadiq College Women University Bahawalpur,Pakistan,,,,,,
+Reporter,Government College Women University Faisalabad,Pakistan,,,,,,
+Reporter,"Government College Women University, Sialkot",Pakistan,,,,,,
+Reporter,"The Graduate University for Advanced Studies, SOKENDAI",Japan,,,,,,
+Reporter,Graphic Era University,India,,,,,,
+Reporter,Guildhall School of Music and Drama,United Kingdom,,,,,,
+Reporter,Gulf College,Oman,,,,,,
+Reporter,Gulf Medical University,United Arab Emirates,,,,,,
+Reporter,Gulistan State University,Uzbekistan,,,,,,
+Reporter,University of Hafr Al Batin,Saudi Arabia,,,,,,
+Reporter,Hagoromo University of International Studies,Japan,,,,,,
+Reporter,Hakuoh University,Japan,,,,,,
+Reporter,Haliç University,Turkey,,,,,,
+Reporter,Häme University of Applied Sciences,Finland,,,,,,
+Reporter,Hanseo University,South Korea,,,,,,
+Reporter,Harper Adams University,United Kingdom,,,,,,
+Reporter,Hartpury University,United Kingdom,,,,,,
+Reporter,Hawler Medical University,Iraq,,,,,,
+Reporter,University of Health Sciences Lahore,Pakistan,,,,,,
+Reporter,"University of Health Sciences, Turkey",Turkey,,,,,,
+Reporter,School of Higher Commercial Studies (EHEC Algiers),Algeria,,,,,,
+Reporter,"Higher National School of Renewable Energies, Environment and Sustainable Development",Algeria,,,,,,
+Reporter,Higher School of Management and Digital Economy (HSMDE),Algeria,,,,,,
+Reporter,Higher School of Agronomy – Mostaganem (ESAM),Algeria,,,,,,
+Reporter,Higher School of Management – Tlemcen,Algeria,,,,,,
+Reporter,University of the Highlands and Islands,United Kingdom,,,,,,
+Reporter,Hilla University College,Iraq,,,,,,
+Reporter,Hiroshima International University,Japan,,,,,,
+Reporter,Hiroshima Shudo University,Japan,,,,,,
+Reporter,Hiroshima Institute of Technology,Japan,,,,,,
+Reporter,Hitotsubashi University,Japan,,,,,,
+Reporter,Ho Chi Minh City Open University,Vietnam,,,,,,
+Reporter,Hodeida University,Yemen,,,,,,
+Reporter,Hokkaido University of Science,Japan,,,,,,
+Reporter,University of Home Economics Lahore,Pakistan,,,,,,
+Reporter,Ho Technical University,Ghana,,,,,,
+Reporter,Hryhorii Skovoroda University in Pereiaslav,Ukraine,,,,,,
+Reporter,University of Human Development,Iraq,,,,,,
+Reporter,Humboldt State University,United States,,,,,,
+Reporter,Hyogo University of Teacher Education,Japan,,,,,,
+Reporter,Ibn Khaldoun University,Algeria,,,,,,
+Reporter,"ICFAI University, Dehradun",India,,,,,,
+Reporter,IFHE Hyderabad,India,,,,,,
+Reporter,Ilma University,Pakistan,,,,,,
+Reporter,Imam Al-Kadhum College (IKC),Iraq,,,,,,
+Reporter,IMT Mines Alès,France,,,,,,
+Reporter,"Independent University, Bangladesh",Bangladesh,,,,,,
+Reporter,Indira Gandhi Delhi Technical University for Women,India,,,,,,
+Reporter,Information Technology University of the Punjab,Pakistan,,,,,,
+Reporter,Innopolis University,Russian Federation,,,,,,
+Reporter,Institute of Cancer Research,United Kingdom,,,,,,
+Reporter,Universidad Internacional del Ecuador,Ecuador,,,,,,
+Reporter,International American University,United States,,,,,,
+Reporter,International Christian University,Japan,,,,,,
+Reporter,International Engineering and Technology University (METU),Kazakhstan,,,,,,
+Reporter,International University for the Humanities and Development,Turkmenistan,,,,,,
+Reporter,International IT University,Kazakhstan,,,,,,
+Reporter,International University of Rabat,Morocco,,,,,,
+Reporter,Institute of International Relations of the Ministry of Foreign Affairs of Turkmenistan,Turkmenistan,,,,,,
+Reporter,Inter-State School of Veterinary Sciences and Medicine,Senegal,,,,,,
+Reporter,Ionian University,Greece,,,,,,
+Reporter,Ion Mincu University of Architecture and Urbanism,Romania,,,,,,
+Reporter,Iqra University,Pakistan,,,,,,
+Reporter,The Islamic University,Iraq,,,,,,
+Reporter,Islamic University of Gaza,Palestine,,,,,,
+Reporter,Islamic University of Madinah,Saudi Arabia,,,,,,
+Reporter,Universitas Islam Sultan Agung,Indonesia,,,,,,
+Reporter,Isra University,Jordan,,,,,,
+Reporter,Israel Technological University,Ecuador,,,,,,
+Reporter,Istanbul Arel University,Turkey,,,,,,
+Reporter,Istanbul Geli?im University,Turkey,,,,,,
+Reporter,Istanbul Kültür University,Turkey,,,,,,
+Reporter,Istanbul Okan University,Turkey,,,,,,
+Reporter,IUBAT – International University of Business Agriculture and Technology,Bangladesh,,,,,,
+Reporter,Universita IULM,Italy,,,,,,
+Reporter,Ivano Frankivsk National Technical University of Oil and Gas,Ukraine,,,,,,
+Reporter,Jabir ibn Hayyan Medical University,Iraq,,,,,,
+Reporter,Jadara University,Jordan,,,,,,
+Reporter,Japan Advanced Institute of Science and Technology (JAIST),Japan,,,,,,
+Reporter,Japan University of Economics,Japan,,,,,,
+Reporter,Jashore University of Science and Technology,Bangladesh,,,,,,
+Reporter,University of Jendouba,Tunisia,,,,,,
+Reporter,Jizzakh Polytechnic Institute,Uzbekistan,,,,,,
+Reporter,Jizzakh State Pedagogical University,Uzbekistan,,,,,,
+Reporter,John von Neumann University,Hungary,,,,,,
+Reporter,Kabarak University,Kenya,,,,,,
+Reporter,Kabardino-Balkarian State University,Russian Federation,,,,,,
+Reporter,University of Kabianga,Kenya,,,,,,
+Reporter,Kadir Has University,Turkey,,,,,,
+Reporter,Kamianets-Pod?lskyi Ivan Ohiienko National University,Ukraine,,,,,,
+Reporter,Karaganda Buketov University,Kazakhstan,,,,,,
+Reporter,Karaganda University of Kazpotrebsoyuz,Kazakhstan,,,,,,
+Reporter,Karakalpak State University,Uzbekistan,,,,,,
+Reporter,Karshi Engineering Economics Institute,Uzbekistan,,,,,,
+Reporter,Kazakh-British Technical University,Kazakhstan,,,,,,
+Reporter,Kazakh National Pedagogical University Abai,Kazakhstan,,,,,,
+Reporter,Kazakh National Women’s Teacher Training University,Kazakhstan,,,,,,
+Reporter,Kazakhstan Medical University KSPH,Kazakhstan,,,,,,
+Reporter,Kazan State Power Engineering University,Russian Federation,,,,,,
+Reporter,Keisen University,Japan,,,,,,
+Reporter,Kharkiv University of Humanities “People’s Ukrainian Academy”,Ukraine,,,,,,
+Reporter,Kharkiv National Automobile and Highway University,Ukraine,,,,,,
+Reporter,Kharkiv National University of Internal Affairs,Ukraine,,,,,,
+Reporter,Khazar University,Azerbaijan,,,,,,
+Reporter,Khulna University of Engineering and Technology (KUET),Bangladesh,,,,,,
+Reporter,Khwaja Fareed University of Engineering and Information Technology,Pakistan,,,,,,
+Reporter,Khyber Medical University,Pakistan,,,,,,
+Reporter,Kimyo International University in Tashkent,Uzbekistan,,,,,,
+Reporter,King Abdullah University of Science and Technology (KAUST),Saudi Arabia,,,,,,
+Reporter,King Danylo University,Ukraine,,,,,,
+Reporter,King Edward Medical University,Pakistan,,,,,,
+Reporter,Kinnaird College for Women,Pakistan,,,,,,
+Reporter,University of Kirkuk,Iraq,,,,,,
+Reporter,Kitami Institute of Technology,Japan,,,,,,
+Reporter,KLE Technological University,India,,,,,,
+Reporter,Knowledge University,Iraq,,,,,,
+Reporter,Kobe Gakuin University,Japan,,,,,,
+Reporter,Kocaeli Health and Technology University,Turkey,,,,,,
+Reporter,Kohsar University Murree,Pakistan,,,,,,
+Reporter,Kokshetau State University,Kazakhstan,,,,,,
+Reporter,Kokugakuin University,Japan,,,,,,
+Reporter,Konan University,Japan,,,,,,
+Reporter,Konan Women’s University,Japan,,,,,,
+Reporter,Koya University,Iraq,,,,,,
+Reporter,KPR Institute of Engineering and Technology,India,,,,,,
+Reporter,Kumasi Technical University,Ghana,,,,,,
+Reporter,Kursk State Medical University,Russian Federation,,,,,,
+Reporter,Kütahya Health Sciences University,Turkey,,,,,,
+Reporter,Kutaisi University,Georgia,,,,,,
+Reporter,Kuwait College of Science and Technology (KCST),Kuwait,,,,,,
+Reporter,Kyiv National Economic University,Ukraine,,,,,,
+Reporter,Kyoai Gakuen University,Japan,,,,,,
+Reporter,Kyoto Koka Women’s University,Japan,,,,,,
+Reporter,Kyoto Notre Dame University,Japan,,,,,,
+Reporter,Kyrgyz-Turkish Manas University,Kyrgyzstan,,,,,,
+Reporter,K. Zhubanov Aktobe Regional University,Kazakhstan,,,,,,
+Reporter,Lahore Leads University,Pakistan,,,,,,
+Reporter,Landmark University,Nigeria,,,,,,
+Reporter,Larbi Tebessi University,Algeria,,,,,,
+Reporter,La Salle University,Colombia,,,,,,
+Reporter,University of Las Américas (UDLA),Ecuador,,,,,,
+Reporter,Leeds Arts University,United Kingdom,,,,,,
+Reporter,Leeds Conservatoire,United Kingdom,,,,,,
+Reporter,Leeds Trinity University,United Kingdom,,,,,,
+Reporter,Lesya Ukrainka Volyn National University,Ukraine,,,,,,
+Reporter,Liaquat University of Medical and Health Sciences (LUMHS),Pakistan,,,,,,
+Reporter,University of Liberal Arts Bangladesh,Bangladesh,,,,,,
+Reporter,Lincoln University College,Malaysia,,,,,,
+Reporter,Lira University,Uganda,,,,,,
+Reporter,Université du Littoral Côte d’Opale,France,,,,,,
+Reporter,Liverpool Hope University,United Kingdom,,,,,,
+Reporter,Liverpool Institute for Performing Arts,United Kingdom,,,,,,
+Reporter,Liverpool School of Tropical Medicine,United Kingdom,,,,,,
+Reporter,The LNM Institute of Information Technology,India,,,,,,
+Reporter,London Academy of Music and Dramatic Art (LAMDA),United Kingdom,,,,,,
+Reporter,London Business School,United Kingdom,,,,,,
+Reporter,London School of Hygiene and Tropical Medicine,United Kingdom,,,,,,
+Reporter,London Metropolitan University,United Kingdom,,,,,,
+Reporter,Lviv State University of Life Safety,Ukraine,,,,,,
+Reporter,University of Magallanes,Chile,,,,,,
+Reporter,Universidad del Magdalena,Colombia,,,,,,
+Reporter,University Centre of Maghnia,Algeria,,,,,,
+Reporter,Mahatma Jyotiba Phule Rohilkhand University,India,,,,,,
+Reporter,Malawi University of Science and Technology (MUST),Malawi,,,,,,
+Reporter,Management Development Institute (MDI),India,,,,,,
+Reporter,Management & Science University (MSU),Malaysia,,,,,,
+Reporter,Universidad Manuela Beltrán,Colombia,,,,,,
+Reporter,Mapúa University,Philippines,,,,,,
+Reporter,Margulan University,Kazakhstan,,,,,,
+Reporter,Mariano Marcos State University,Philippines,,,,,,
+Reporter,Maritime University of Szczecin,Poland,,,,,,
+Reporter,University of Mataram,Indonesia,,,,,,
+Reporter,M. Auezov South Kazakhstan University,Kazakhstan,,,,,,
+Reporter,Universidad Mayor de San Simón,Bolivia,,,,,,
+Reporter,University of Medea,Algeria,,,,,,
+Reporter,University of Medellín,Colombia,,,,,,
+Reporter,Medizinische Hochschule Hannover,Germany,,,,,,
+Reporter,Meikai University,Japan,,,,,,
+Reporter,Universitas Mercu Buana,Indonesia,,,,,,
+Reporter,Middle East University,Jordan,,,,,,
+Reporter,Mindanao State University – Iligan Institute of Technology,Philippines,,,,,,
+Reporter,Minhaj University Lahore,Pakistan,,,,,,
+Reporter,University of Misan,Iraq,,,,,,
+Reporter,Misr University for Science and Technology,Egypt,,,,,,
+Reporter,Mizoram University,India,,,,,,
+Reporter,M. Kumarasamy College of Engineering,India,,,,,,
+Reporter,"MNS University of Agriculture, Multan",Pakistan,,,,,,
+Reporter,Modern University for Business and Science,Lebanon,,,,,,
+Reporter,Université Mohamed El Bachir El Ibrahimi de Bordj Bou Arréridj,Algeria,,,,,,
+Reporter,University of Mohamed Lamine Debaghin Setif 2,Algeria,,,,,,
+Reporter,Monroe College,United States,,,,,,
+Reporter,University of Monterrey,Mexico,,,,,,
+Reporter,Russian Biotechnological University (BIOTECH),Russian Federation,,,,,,
+Reporter,Moscow State Linguistic University,Russian Federation,,,,,,
+Reporter,Moscow Technical University of Communications and Informatics,Russian Federation,,,,,,
+Reporter,University of Mostar,Bosnia and Herzegovina,,,,,,
+Reporter,Muban Chombueng Rajabhat University,Thailand,,,,,,
+Reporter,Universitas Muhammadiyah Yogyakarta,Indonesia,,,,,,
+Reporter,Mukogawa Women’s University,Japan,,,,,,
+Reporter,Mulungushi University,Zambia,,,,,,
+Reporter,Musashino University,Japan,,,,,,
+Reporter,Universidad Nacional Abierta y a Distancia (UNAD),Colombia,,,,,,
+Reporter,Universidad Nacional de Asunción,Paraguay,,,,,,
+Reporter,Universidad Nacional de Chimborazo,Ecuador,,,,,,
+Reporter,Universidad Nacional de Itapúa,Paraguay,,,,,,
+Reporter,Universidad Nacional de Rafaela (UNRaf),Argentina,,,,,,
+Reporter,Nagoya University of Commerce & Business,Japan,,,,,,
+Reporter,Nakhchivan State University,Azerbaijan,,,,,,
+Reporter,Nakhon Ratchasima Rajabhat University,Thailand,,,,,,
+Reporter,Namal University,Pakistan,,,,,,
+Reporter,Namangan Engineering Construction Institute,Uzbekistan,,,,,,
+Reporter,Namangan Institute of Engineering and Technology,Uzbekistan,,,,,,
+Reporter,Namangan State University,Uzbekistan,,,,,,
+Reporter,Narxoz University,Kazakhstan,,,,,,
+Reporter,"Nasarawa State University, Keffi",Nigeria,,,,,,
+Reporter,National Agrarian University La Molina,Peru,,,,,,
+Reporter,National University of Computer and Emerging Sciences,Pakistan,,,,,,
+Reporter,National Film and Television School,United Kingdom,,,,,,
+Reporter,National University of Food Technologies,Ukraine,,,,,,
+Reporter,National University Odessa Law Academy,Ukraine,,,,,,
+Reporter,The National University of Ostroh Academy,Ukraine,,,,,,
+Reporter,National Polytechnic University of Armenia,Armenia,,,,,,
+Reporter,National University of Quilmes,Argentina,,,,,,
+Reporter,National School of Artificial Intelligence (ENSIA),Algeria,,,,,,
+Reporter,"National University of Science and Technology, Oman",Oman,,,,,,
+Reporter,"National University, Sudan",Sudan,,,,,,
+Reporter,National Textile University,Pakistan,,,,,,
+Reporter,National Transport University,Ukraine,,,,,,
+Reporter,National University of Water and Environmental Engineering,Ukraine,,,,,,
+Reporter,National University “Yuri Kondratyuk Poltava Polytechnic”,Ukraine,,,,,,
+Reporter,Navoi State Pedagogical Institute,Uzbekistan,,,,,,
+Reporter,Netaji Subhas University of Technology,India,,,,,,
+Reporter,Newman University,United Kingdom,,,,,,
+Reporter,Niger Delta University,Nigeria,,,,,,
+Reporter,Nihon Pharmaceutical University,Japan,,,,,,
+Reporter,Niigata University of Health and Welfare,Japan,,,,,,
+Reporter,University of Niigata Prefecture,Japan,,,,,,
+Reporter,Ninevah University,Iraq,,,,,,
+Reporter,Nitte (Deemed to be University),India,,,,,,
+Reporter,University of Northampton,United Kingdom,,,,,,
+Reporter,Northeast Ohio Medical University,United States,,,,,,
+Reporter,Northern Border University,Saudi Arabia,,,,,,
+Reporter,Northern Technical University,Iraq,,,,,,
+Reporter,Norwich University of the Arts,United Kingdom,,,,,,
+Reporter,University Centre of Nour Bachir El-Bayadh,Algeria,,,,,,
+Reporter,University of Nova Gorica,Slovenia,,,,,,
+Reporter,Novosibirsk State University of Economics and Management,Russian Federation,,,,,,
+Reporter,Nueva Ecija University of Science and Technology (NEUST),Philippines,,,,,,
+Reporter,Universidad Nur,Bolivia,,,,,,
+Reporter,October 6 University,Egypt,,,,,,
+Reporter,October University for Modern Sciences and Arts (MSA),Egypt,,,,,,
+Reporter,Odesa I.I. Mechnikov National University,Ukraine,,,,,,
+Reporter,Oguz Han Engineering and Technology University of Turkmenistan,Turkmenistan,,,,,,
+Reporter,University of Okara,Pakistan,,,,,,
+Reporter,Omsk State Agrarian University,Russian Federation,,,,,,
+Reporter,Open Christian University,South Africa,,,,,,
+Reporter,O.P. Jindal Global University,India,,,,,,
+Reporter,Université d’Oran 2 Mohamed Ben Ahmed,Algeria,,,,,,
+Reporter,Oran Graduate School of Economics,Algeria,,,,,,
+Reporter,Orel State Agrarian University named after N.V. Parahin,Russian Federation,,,,,,
+Reporter,Orel State University named after I.S. Turgenev,Russian Federation,,,,,,
+Reporter,ORT Uruguay University,Uruguay,,,,,,
+Reporter,Osol Al-Deen University College,Iraq,,,,,,
+Reporter,University College of Osteopathy,United Kingdom,,,,,,
+Reporter,Ostrogradsky National University of Kremenchuk,Ukraine,,,,,,
+Reporter,University of Oum El Bouaghi,Algeria,,,,,,
+Reporter,Universidad del Pacífico,Peru,,,,,,
+Reporter,Universidad del Pacífico Ecuador,Ecuador,,,,,,
+Reporter,Palestine Polytechnic University,Palestine,,,,,,
+Reporter,Palestine Technical University – Kadoorie,Palestine,,,,,,
+Reporter,Universidad de Pamplona,Colombia,,,,,,
+Reporter,Panteion University of Social and Political Sciences,Greece,,,,,,
+Reporter,Panthéon-Assas University (Paris 2),France,,,,,,
+Reporter,Pavlo Tychyna Uman State Pedagogical University,Ukraine,,,,,,
+Reporter,University of Petra,Jordan,,,,,,
+Reporter,Petre Shotadze Tbilisi Medical Academy,Georgia,,,,,,
+Reporter,Petroleum University of Technology,Iran,,,,,,
+Reporter,Petro Mohyla Black Sea National University,Ukraine,,,,,,
+Reporter,Pharos University,Egypt,,,,,,
+Reporter,Philadelphia University (Jordan),Jordan,,,,,,
+Reporter,"Plateau State University, Bokkos",Nigeria,,,,,,
+Reporter,Platov South-Russian State Polytechnic University (NPI),Russian Federation,,,,,,
+Reporter,Plymouth Marjon University,United Kingdom,,,,,,
+Reporter,Polytechnic Institute of Setúbal,Portugal,,,,,,
+Reporter,Pontifical Catholic University of Argentina,Argentina,,,,,,
+Reporter,University of Poonch Rawalakot,Pakistan,,,,,,
+Reporter,Universidad Popular Autónoma del Estado de Puebla,Mexico,,,,,,
+Reporter,Prefectural University of Hiroshima,Japan,,,,,,
+Reporter,"Presbyterian University, Ghana",Ghana,,,,,,
+Reporter,Presidency University,India,,,,,,
+Reporter,Prince Mohammad Bin Fahd University,Saudi Arabia,,,,,,
+Reporter,"University of Professional Studies, Accra",Ghana,,,,,,
+Reporter,Prydniprovska State Academy of Civil Engineering and Architecture,Ukraine,,,,,,
+Reporter,Pskov State University,Russian Federation,,,,,,
+Reporter,PUC-Campinas,Brazil,,,,,,
+Reporter,University of Puthisastra,Cambodia,,,,,,
+Reporter,"Quaid-e-Awam University of Engineering, Science and Technology (QUEST)",Pakistan,,,,,,
+Reporter,Queen Arwa University,Yemen,,,,,,
+Reporter,Queen Margaret University,United Kingdom,,,,,,
+Reporter,Universidade Rainha Njinga a Mbande (URNM),Angola,,,,,,
+Reporter,Rajamangala University of Technology Isan,Thailand,,,,,,
+Reporter,Rajamangala University of Technology Thanyaburi (RMUTT),Thailand,,,,,,
+Reporter,Rawalpindi Medical University,Pakistan,,,,,,
+Reporter,Rennes School of Business,France,,,,,,
+Reporter,Ritsumeikan Asia Pacific University (APU),Japan,,,,,,
+Reporter,Rose Bruford College,United Kingdom,,,,,,
+Reporter,Rostov State University of Economics,Russian Federation,,,,,,
+Reporter,Royal Agricultural University,United Kingdom,,,,,,
+Reporter,"Royal Central School of Speech and Drama, University of London",United Kingdom,,,,,,
+Reporter,Royal College of Academics,Luxembourg,,,,,,
+Reporter,Royal College of Art,United Kingdom,,,,,,
+Reporter,Royal Conservatoire of Scotland,United Kingdom,,,,,,
+Reporter,Royal Academy of Dramatic Art (RADA),United Kingdom,,,,,,
+Reporter,Royal College of Music,United Kingdom,,,,,,
+Reporter,Royal Academy of Music,United Kingdom,,,,,,
+Reporter,Royal Northern College of Music,United Kingdom,,,,,,
+Reporter,Russian State Agrarian University – Moscow Timiryazev Agricultural Academy,Russian Federation,,,,,,
+Reporter,Russian University of State for Social (RUSS),Russian Federation,,,,,,
+Reporter,Ryazan State Medical University,Russian Federation,,,,,,
+Reporter,University of Sadat City,Egypt,,,,,,
+Reporter,University of Saida,Algeria,,,,,,
+Reporter,University of Saint Joseph,Macao,,,,,,
+Reporter,Saint Petersburg State Pediatric Medical University,Russian Federation,,,,,,
+Reporter,"Saint Thomas University, Colombia",Colombia,,,,,,
+Reporter,Sakon Nakhon Rajabhat University,Thailand,,,,,,
+Reporter,Salahaddin University,Iraq,,,,,,
+Reporter,Samara State Medical University,Russian Federation,,,,,,
+Reporter,Samarkand State University,Uzbekistan,,,,,,
+Reporter,Samarkand State Institute of Foreign Languages,Uzbekistan,,,,,,
+Reporter,Samarkand State Medical University,Uzbekistan,,,,,,
+Reporter,Samsun University,Turkey,,,,,,
+Reporter,Universidad San Ignacio de Loyola,Peru,,,,,,
+Reporter,University of San Martín de Porres,Peru,,,,,,
+Reporter,University of Santander,Colombia,,,,,,
+Reporter,Universidad Santo Tomás,Chile,,,,,,
+Reporter,Sarsen Amanzholov East Kazakhstan University,Kazakhstan,,,,,,
+Reporter,Satya Wacana Christian University,Indonesia,,,,,,
+Reporter,Saudi Electronic University,Saudi Arabia,,,,,,
+Reporter,SBS Swiss Business School,Switzerland,,,,,,
+Reporter,University of Science and Technology of Southern Philippines (USTP),Philippines,,,,,,
+Reporter,Sebha University,Libya,,,,,,
+Reporter,Sefako Makgatho Health Sciences University,South Africa,,,,,,
+Reporter,Seisa Dohto University,Japan,,,,,,
+Reporter,Senshu University,Japan,,,,,,
+Reporter,Seyitnazar Seydi Turkmen State Pedagogical Institute,Turkmenistan,,,,,,
+Reporter,"Shah Abdul Latif University, Khairpur",Pakistan,,,,,,
+Reporter,Shaheed Benazir Bhutto Women University Peshawar,Pakistan,,,,,,
+Reporter,Shaheed Mohtarma Benazir Bhutto Medical University,Pakistan,,,,,,
+Reporter,Shaheed Zulfiqar Ali Bhutto Medical University,Pakistan,,,,,,
+Reporter,The University of Shiga Prefecture,Japan,,,,,,
+Reporter,Shonan Institute of Technology,Japan,,,,,,
+Reporter,Silesian University in Opava,Czech Republic,,,,,,
+Reporter,SIMAD University,Somalia,,,,,,
+Reporter,Simón Bolívar University (Colombia),Colombia,,,,,,
+Reporter,Universidad del Sinú,Colombia,,,,,,
+Reporter,Sir Syed University of Engineering and Technology,Pakistan,,,,,,
+Reporter,Skolkovo Institute of Science and Technology (Skoltech),Russian Federation,,,,,,
+Reporter,Sohar University,Oman,,,,,,
+Reporter,"Solent University, Southampton",United Kingdom,,,,,,
+Reporter,"Soochow University, Taiwan",Taiwan,,,,,,
+Reporter,University of Sopron,Hungary,,,,,,
+Reporter,University of Souk Ahras,Algeria,,,,,,
+Reporter,Institute of Southern Punjab – Multan,Pakistan,,,,,,
+Reporter,Southern Technical University,Iraq,,,,,,
+Reporter,Sri Balaji Vidyapeeth,India,,,,,,
+Reporter,Sri Lanka Institute of Information Technology,Sri Lanka,,,,,,
+Reporter,State Energy Institute of Turkmenistan,Turkmenistan,,,,,,
+Reporter,Stavropol State Agrarian University,Russian Federation,,,,,,
+Reporter,St Luke’s International University,Japan,,,,,,
+Reporter,"St Mary’s University College, Belfast",United Kingdom,,,,,,
+Reporter,"St Mary’s University, Twickenham",United Kingdom,,,,,,
+Reporter,Stranmillis University College,United Kingdom,,,,,,
+Reporter,University of Suffolk,United Kingdom,,,,,,
+Reporter,University of Sufism and Modern Sciences (USMS),Pakistan,,,,,,
+Reporter,Sugiyama Jogakuen University,Japan,,,,,,
+Reporter,Sukkur IBA University,Pakistan,,,,,,
+Reporter,Suleyman Demirel University,Kazakhstan,,,,,,
+Reporter,University of Swabi,Pakistan,,,,,,
+Reporter,Tafila Technical University,Jordan,,,,,,
+Reporter,University of Taipei,Taiwan,,,,,,
+Reporter,Takushoku University,Japan,,,,,,
+Reporter,Tama Art University,Japan,,,,,,
+Reporter,University of Tamanghasset,Algeria,,,,,,
+Reporter,Tarlac Agricultural University,Philippines,,,,,,
+Reporter,Tarsus University,Turkey,,,,,,
+Reporter,Tashkent Institute of Chemical Technology,Uzbekistan,,,,,,
+Reporter,Tashkent Institute of Finance,Uzbekistan,,,,,,
+Reporter,Tashkent University of Information Technologies,Uzbekistan,,,,,,
+Reporter,Tashkent Institute of Irrigation and Agricultural Mechanisation,Uzbekistan,,,,,,
+Reporter,Tashkent Medical Academy,Uzbekistan,,,,,,
+Reporter,Tashkent Pediatric Medical Institute,Uzbekistan,,,,,,
+Reporter,Tashkent Pharmaceutical Institute,Uzbekistan,,,,,,
+Reporter,Tashkent State Dental Institute,Uzbekistan,,,,,,
+Reporter,Tashkent State University of Economics,Uzbekistan,,,,,,
+Reporter,Tashkent State University of Law,Uzbekistan,,,,,,
+Reporter,Tashkent State University of Oriental Studies,Uzbekistan,,,,,,
+Reporter,Tashkent State Pedagogical University named after Nizami,Uzbekistan,,,,,,
+Reporter,Tashkent State Technical University,Uzbekistan,,,,,,
+Reporter,Tashkent State Transport University,Uzbekistan,,,,,,
+Reporter,Tashkent Institute of Textile and Light Industry,Uzbekistan,,,,,,
+Reporter,Tata Institute of Fundamental Research,India,,,,,,
+Reporter,Tatung University,Taiwan,,,,,,
+Reporter,T. C. Demiro?lu Bilim University,Turkey,,,,,,
+Reporter,Teacher Education College of Setif,Algeria,,,,,,
+Reporter,Technical University of Moldova,Moldova,,,,,,
+Reporter,University of Technology Nowshera,Pakistan,,,,,,
+Reporter,Universidad Técnica de Manabí,Ecuador,,,,,,
+Reporter,Universidad Tecnológica de Bolívar,Colombia,,,,,,
+Reporter,Universidad Tecnológica de Santiago (UTESA),Dominican Republic,,,,,,
+Reporter,Tecnológico de Costa Rica,Costa Rica,,,,,,
+Reporter,Instituto Tecnológico Metropolitano,Colombia,,,,,,
+Reporter,Teerthanker Mahaveer University,India,,,,,,
+Reporter,Teikyo Heisei University,Japan,,,,,,
+Reporter,Universiti Teknologi Brunei,Brunei Darussalam,,,,,,
+Reporter,Institut Teknologi Nasional Bandung (ITENAS Bandung),Indonesia,,,,,,
+Reporter,University of Telafer,Iraq,,,,,,
+Reporter,Institute of Telecommunications and Informatics of Turkmenistan,Turkmenistan,,,,,,
+Reporter,Tenri University,Japan,,,,,,
+Reporter,Termez State University,Uzbekistan,,,,,,
+Reporter,Termez Institute of Engineering and Technology,Uzbekistan,,,,,,
+Reporter,Termiz Institute of Agrotechnology and Innovative Development,Uzbekistan,,,,,,
+Reporter,University of the Thai Chamber of Commerce,Thailand,,,,,,
+Reporter,University of Thi-Qar,Iraq,,,,,,
+Reporter,Thomas Adewumi University,Nigeria,,,,,,
+Reporter,Tikrit University,Iraq,,,,,,
+Reporter,Tishk International University,Iraq,,,,,,
+Reporter,Tissemsilt University,Algeria,,,,,,
+Reporter,Tohoku Gakuin University,Japan,,,,,,
+Reporter,Tokyo University of Foreign Studies,Japan,,,,,,
+Reporter,Tokyo University of Technology,Japan,,,,,,
+Reporter,Tomsk State Pedagogical University,Russian Federation,,,,,,
+Reporter,Toraighyrov University,Kazakhstan,,,,,,
+Reporter,Trinity Laban Conservatoire of Music and Dance,United Kingdom,,,,,,
+Reporter,University of Tripoli,Libya,,,,,,
+Reporter,Turan-Astana University,Kazakhstan,,,,,,
+Reporter,Turin Polytechnic University in Tashkent,Uzbekistan,,,,,,
+Reporter,Turkmen State Architecture and Construction Institute,Turkmenistan,,,,,,
+Reporter,Turkmen State Institute of Economics and Management,Turkmenistan,,,,,,
+Reporter,Tver State Technical University,Russian Federation,,,,,,
+Reporter,Ubon Ratchathani University,Thailand,,,,,,
+Reporter,UBT,Kosovo,,,,,,
+Reporter,"UEES, Espiritu Santo University",Ecuador,,,,,,
+Reporter,UIN Sulthan Thaha Saifuddin Jambi,Indonesia,,,,,,
+Reporter,Ulyanovsk State University,Russian Federation,,,,,,
+Reporter,Ulyanovsk State Technical University,Russian Federation,,,,,,
+Reporter,UNESC,Brazil,,,,,,
+Reporter,Unichristus,Brazil,,,,,,
+Reporter,United International University,Bangladesh,,,,,,
+Reporter,Universiapolis – Université Internationale d’Agadir,Morocco,,,,,,
+Reporter,Ural State University of Economics,Russian Federation,,,,,,
+Reporter,Ural State Medical University,Russian Federation,,,,,,
+Reporter,Urgench State University,Uzbekistan,,,,,,
+Reporter,Uruk University,Iraq,,,,,,
+Reporter,Universidad UTE,Ecuador,,,,,,
+Reporter,National University of Uzbekistan named after Mirzo Ulugbek,Uzbekistan,,,,,,
+Reporter,Uzbekistan State University of World Languages,Uzbekistan,,,,,,
+Reporter,Uzbek State University of Physical Culture and Sport,Uzbekistan,,,,,,
+Reporter,Valahia University of Targoviste,Romania,,,,,,
+Reporter,University of Vale do Itajaí,Brazil,,,,,,
+Reporter,Varendra University,Bangladesh,,,,,,
+Reporter,Varna University of Management,Bulgaria,,,,,,
+Reporter,Vasyl Stefanyk Precarpathian National University,Ukraine,,,,,,
+Reporter,"Veritas University, Abuja",Nigeria,,,,,,
+Reporter,University of Veterinary Medicine and Pharmacy in Košice,Slovakia,,,,,,
+Reporter,Vila Velha University,Brazil,,,,,,
+Reporter,Vinayaka Mission’s Research Foundation,India,,,,,,
+Reporter,Visayas State University,Philippines,,,,,,
+Reporter,Visvesvaraya Technological University,India,,,,,,
+Reporter,Volgograd State Medical University,Russian Federation,,,,,,
+Reporter,University of Wales Trinity Saint David,United Kingdom,,,,,,
+Reporter,University of Warith Alanbiyaa,Iraq,,,,,,
+Reporter,Wasit University,Iraq,,,,,,
+Reporter,Westcliff University,United States,,,,,,
+Reporter,Western Caspian University,Azerbaijan,,,,,,
+Reporter,West Ukrainian National University,Ukraine,,,,,,
+Reporter,West Virginia University,United States,,,,,,
+Reporter,WHU: Beisheim,Germany,,,,,,
+Reporter,Women University Mardan,Pakistan,,,,,,
+Reporter,The Women University Multan,Pakistan,,,,,,
+Reporter,University of Worcester,United Kingdom,,,,,,
+Reporter,World University of Bangladesh (WUB),Bangladesh,,,,,,
+Reporter,The World Islamic Sciences and Education University (WISE),Jordan,,,,,,
+Reporter,Wrexham Glyndwr University,United Kingdom,,,,,,
+Reporter,Writtle University College,United Kingdom,,,,,,
+Reporter,WSB Academy,Poland,,,,,,
+Reporter,Yagshigeldi Kakayev International University of Oil and Gas,Turkmenistan,,,,,,
+Reporter,Yamaguchi Prefectural University,Japan,,,,,,
+Reporter,Yanka Kupala State University of Grodno,Belarus,,,,,,
+Reporter,Ya?ar University,Turkey,,,,,,
+Reporter,York St John University,United Kingdom,,,,,,
+Reporter,"Yusuf Maitama Sule University, Kano",Nigeria,,,,,,
+Reporter,Zarqa University,Jordan,,,,,,
+Reporter,Zhetysu University,Kazakhstan,,,,,,
+Reporter,Zhytomyr Polytechnic State University,Ukraine,,,,,,
+Reporter,Ziane Achour University of Djelfa,Algeria,,,,,,
+Reporter,Ziauddin University,Pakistan,,,,,,
